@@ -14635,3 +14635,4 @@ Commit #184 | Meme: Real programmers count from 0.
 Commit #185 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #186 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #187 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #188 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
