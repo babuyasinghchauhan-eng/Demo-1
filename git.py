@@ -14532,3 +14532,4 @@ Commit #81 | Meme: Deleting code is better than writing code.
 Commit #82 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #83 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #84 | Meme: To understand recursion, you must first understand recursion.
+Commit #85 | Meme: Real programmers count from 0.
