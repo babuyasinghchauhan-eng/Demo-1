@@ -15068,3 +15068,4 @@ Commit #617 | Meme: Software and cathedrals are much the same – first we build
 Commit #618 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #619 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #620 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #621 | Meme: In case of fire: git commit, git push, leave building.
