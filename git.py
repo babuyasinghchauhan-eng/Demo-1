@@ -14797,3 +14797,4 @@ Commit #346 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #347 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #348 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #349 | Meme: Real programmers count from 0.
+Commit #350 | Meme: In case of fire: git commit, git push, leave building.
