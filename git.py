@@ -14874,3 +14874,4 @@ Commit #423 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #424 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #425 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #426 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #427 | Meme: Hide and seek champion since 1958: ';' in C/C++
