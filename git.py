@@ -21411,3 +21411,4 @@ Commit #960 | Meme: There's no place like 127.0.0.1
 Commit #961 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #962 | Meme: It's not a bug, it's an undocumented feature.
 Commit #963 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #964 | Meme: Deleting code is better than writing code.
