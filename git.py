@@ -15411,3 +15411,4 @@ Commit #960 | Meme: There are 10 types of people: those who understand binary, a
 Commit #961 | Meme: It's not a bug, it's an undocumented feature.
 Commit #962 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #963 | Meme: There's no place like 127.0.0.1
+Commit #964 | Meme: Deleting code is better than writing code.
