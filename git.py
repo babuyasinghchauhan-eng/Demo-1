@@ -14466,3 +14466,4 @@ Commit #15 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #16 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #17 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #18 | Meme: To understand recursion, you must first understand recursion.
+Commit #19 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
