@@ -21265,3 +21265,4 @@ Commit #814 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #815 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #816 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #817 | Meme: Deleting code is better than writing code.
+Commit #818 | Meme: Works on my machine! ¯\_(ツ)_/¯
