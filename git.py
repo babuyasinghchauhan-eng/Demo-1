@@ -15135,3 +15135,4 @@ Commit #684 | Meme: There are 10 types of people: those who understand binary, a
 Commit #685 | Meme: To understand recursion, you must first understand recursion.
 Commit #686 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #687 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #688 | Meme: Works on my machine! ¯\_(ツ)_/¯
