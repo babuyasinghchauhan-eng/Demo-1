@@ -15009,3 +15009,4 @@ Commit #558 | Meme: Software and cathedrals are much the same – first we build
 Commit #559 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #560 | Meme: There's no place like 127.0.0.1
 Commit #561 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #562 | Meme: Why do Java developers wear glasses? Because they don't C#.
