@@ -14628,3 +14628,4 @@ Commit #177 | Meme: Deleting code is better than writing code.
 Commit #178 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #179 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #180 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #181 | Meme: It's not a bug, it's an undocumented feature.
