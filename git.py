@@ -21096,3 +21096,4 @@ Commit #645 | Meme: There are 10 types of people: those who understand binary, a
 Commit #646 | Meme: Real programmers count from 0.
 Commit #647 | Meme: There's no place like 127.0.0.1
 Commit #648 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #649 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
