@@ -14484,3 +14484,4 @@ Commit #33 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #34 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #35 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #36 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #37 | Meme: Why do Java developers wear glasses? Because they don't C#.
