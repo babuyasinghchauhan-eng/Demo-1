@@ -15151,3 +15151,4 @@ Commit #700 | Meme: To understand recursion, you must first understand recursion
 Commit #701 | Meme: Deleting code is better than writing code.
 Commit #702 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #703 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #704 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
