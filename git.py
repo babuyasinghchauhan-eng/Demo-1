@@ -15084,3 +15084,4 @@ Commit #633 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #634 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #635 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #636 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #637 | Meme: Real programmers count from 0.
