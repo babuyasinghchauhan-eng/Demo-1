@@ -21080,3 +21080,4 @@ Commit #629 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #630 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #631 | Meme: Deleting code is better than writing code.
 Commit #632 | Meme: To understand recursion, you must first understand recursion.
+Commit #633 | Meme: Why do Java developers wear glasses? Because they don't C#.
