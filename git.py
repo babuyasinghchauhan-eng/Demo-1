@@ -15246,3 +15246,4 @@ Commit #795 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #796 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #797 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #798 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #799 | Meme: To understand recursion, you must first understand recursion.
