@@ -20471,3 +20471,4 @@ Commit #20 | Meme: Software and cathedrals are much the same – first we build 
 Commit #21 | Meme: Real programmers count from 0.
 Commit #22 | Meme: Deleting code is better than writing code.
 Commit #23 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #24 | Meme: It's not a bug, it's an undocumented feature.
