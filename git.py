@@ -20459,3 +20459,4 @@ Commit #8 | Meme: Programming is 10% writing code and 90% understanding why it's
 Commit #9 | Meme: Real programmers count from 0.
 Commit #10 | Meme: There's no place like 127.0.0.1
 Commit #11 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #12 | Meme: Real programmers count from 0.
