@@ -14568,3 +14568,4 @@ Commit #117 | Meme: In case of fire: git commit, git push, leave building.
 Commit #118 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #119 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #120 | Meme: There's no place like 127.0.0.1
+Commit #121 | Meme: To understand recursion, you must first understand recursion.
