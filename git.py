@@ -14523,3 +14523,4 @@ Commit #72 | Meme: Real programmers count from 0.
 Commit #73 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #74 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #75 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #76 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
