@@ -14948,3 +14948,4 @@ Commit #497 | Meme: In case of fire: git commit, git push, leave building.
 Commit #498 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #499 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #500 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #501 | Meme: Why do Java developers wear glasses? Because they don't C#.
