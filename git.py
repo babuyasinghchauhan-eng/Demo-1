@@ -14963,3 +14963,4 @@ Commit #512 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #513 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #514 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #515 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #516 | Meme: There are 10 types of people: those who understand binary, and those who don't.
