@@ -15347,3 +15347,4 @@ Commit #896 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #897 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #898 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #899 | Meme: There's no place like 127.0.0.1
+Commit #900 | Meme: Hide and seek champion since 1958: ';' in C/C++
