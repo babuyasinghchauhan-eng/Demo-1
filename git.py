@@ -20882,3 +20882,4 @@ Commit #431 | Meme: Real programmers count from 0.
 Commit #432 | Meme: In case of fire: git commit, git push, leave building.
 Commit #433 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #434 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #435 | Meme: There are 10 types of people: those who understand binary, and those who don't.
