@@ -14910,3 +14910,4 @@ Commit #459 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #460 | Meme: Real programmers count from 0.
 Commit #461 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #462 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #463 | Meme: There are 10 types of people: those who understand binary, and those who don't.
