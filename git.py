@@ -15273,3 +15273,4 @@ Commit #822 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #823 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #824 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #825 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #826 | Meme: To understand recursion, you must first understand recursion.
