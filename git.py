@@ -15212,3 +15212,4 @@ Commit #761 | Meme: It's not a bug, it's an undocumented feature.
 Commit #762 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #763 | Meme: It's not a bug, it's an undocumented feature.
 Commit #764 | Meme: Real programmers count from 0.
+Commit #765 | Meme: Why do Java developers wear glasses? Because they don't C#.
