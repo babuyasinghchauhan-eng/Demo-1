@@ -21188,3 +21188,4 @@ Commit #737 | Meme: To understand recursion, you must first understand recursion
 Commit #738 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #739 | Meme: There's no place like 127.0.0.1
 Commit #740 | Meme: To understand recursion, you must first understand recursion.
+Commit #741 | Meme: There are 10 types of people: those who understand binary, and those who don't.
