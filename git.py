@@ -14569,3 +14569,4 @@ Commit #118 | Meme: There are 10 types of people: those who understand binary, a
 Commit #119 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #120 | Meme: There's no place like 127.0.0.1
 Commit #121 | Meme: To understand recursion, you must first understand recursion.
+Commit #122 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
