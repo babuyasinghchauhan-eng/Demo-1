@@ -20833,3 +20833,4 @@ Commit #382 | Meme: There's no place like 127.0.0.1
 Commit #383 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #384 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #385 | Meme: It's not a bug, it's an undocumented feature.
+Commit #386 | Meme: Real programmers count from 0.
