@@ -14530,3 +14530,4 @@ Commit #79 | Meme: In case of fire: git commit, git push, leave building.
 Commit #80 | Meme: Deleting code is better than writing code.
 Commit #81 | Meme: Deleting code is better than writing code.
 Commit #82 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #83 | Meme: There are 10 types of people: those who understand binary, and those who don't.
