@@ -20800,3 +20800,4 @@ Commit #349 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #350 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #351 | Meme: There's no place like 127.0.0.1
 Commit #352 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #353 | Meme: To understand recursion, you must first understand recursion.
