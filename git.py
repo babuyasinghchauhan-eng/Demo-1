@@ -15026,3 +15026,4 @@ Commit #575 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #576 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #577 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #578 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #579 | Meme: Hide and seek champion since 1958: ';' in C/C++
