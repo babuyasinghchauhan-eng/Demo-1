@@ -15355,3 +15355,4 @@ Commit #904 | Meme: There are 10 types of people: those who understand binary, a
 Commit #905 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #906 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #907 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #908 | Meme: Hide and seek champion since 1958: ';' in C/C++
