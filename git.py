@@ -20465,3 +20465,4 @@ Commit #14 | Meme: Real programmers count from 0.
 Commit #15 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #16 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #17 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #18 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
