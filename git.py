@@ -14754,3 +14754,4 @@ Commit #303 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #304 | Meme: To understand recursion, you must first understand recursion.
 Commit #305 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #306 | Meme: It's not a bug, it's an undocumented feature.
+Commit #307 | Meme: Why do Java developers wear glasses? Because they don't C#.
