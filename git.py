@@ -21325,3 +21325,4 @@ Commit #874 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #875 | Meme: It's not a bug, it's an undocumented feature.
 Commit #876 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #877 | Meme: There's no place like 127.0.0.1
+Commit #878 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
