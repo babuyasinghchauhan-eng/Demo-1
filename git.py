@@ -21335,3 +21335,4 @@ Commit #884 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #885 | Meme: In case of fire: git commit, git push, leave building.
 Commit #886 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #887 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #888 | Meme: Why do Java developers wear glasses? Because they don't C#.
