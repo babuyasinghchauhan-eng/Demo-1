@@ -15155,3 +15155,4 @@ Commit #704 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #705 | Meme: Deleting code is better than writing code.
 Commit #706 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #707 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #708 | Meme: Why do Java developers wear glasses? Because they don't C#.
