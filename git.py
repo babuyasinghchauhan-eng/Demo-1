@@ -20806,3 +20806,4 @@ Commit #355 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #356 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #357 | Meme: It's not a bug, it's an undocumented feature.
 Commit #358 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #359 | Meme: Deleting code is better than writing code.
