@@ -14598,3 +14598,4 @@ Commit #147 | Meme: Software and cathedrals are much the same – first we build
 Commit #148 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #149 | Meme: In case of fire: git commit, git push, leave building.
 Commit #150 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #151 | Meme: There's no place like 127.0.0.1
