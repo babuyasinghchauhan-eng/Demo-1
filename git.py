@@ -14773,3 +14773,4 @@ Commit #322 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #323 | Meme: To understand recursion, you must first understand recursion.
 Commit #324 | Meme: It's not a bug, it's an undocumented feature.
 Commit #325 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #326 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
