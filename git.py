@@ -14694,3 +14694,4 @@ Commit #243 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #244 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #245 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #246 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #247 | Meme: It's not a bug, it's an undocumented feature.
