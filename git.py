@@ -15043,3 +15043,4 @@ Commit #592 | Meme: It's not a bug, it's an undocumented feature.
 Commit #593 | Meme: There's no place like 127.0.0.1
 Commit #594 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #595 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #596 | Meme: Hide and seek champion since 1958: ';' in C/C++
