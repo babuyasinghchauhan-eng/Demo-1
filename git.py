@@ -14863,3 +14863,4 @@ Commit #412 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #413 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #414 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #415 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #416 | Meme: In case of fire: git commit, git push, leave building.
