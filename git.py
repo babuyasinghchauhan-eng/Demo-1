@@ -15383,3 +15383,4 @@ Commit #932 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #933 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #934 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #935 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #936 | Meme: Hide and seek champion since 1958: ';' in C/C++
