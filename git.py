@@ -15404,3 +15404,4 @@ Commit #953 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #954 | Meme: To understand recursion, you must first understand recursion.
 Commit #955 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #956 | Meme: Deleting code is better than writing code.
+Commit #957 | Meme: There are 10 types of people: those who understand binary, and those who don't.
