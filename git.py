@@ -15330,3 +15330,4 @@ Commit #879 | Meme: Software and cathedrals are much the same – first we build
 Commit #880 | Meme: Deleting code is better than writing code.
 Commit #881 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #882 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #883 | Meme: In case of fire: git commit, git push, leave building.
