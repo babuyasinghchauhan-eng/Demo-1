@@ -21020,3 +21020,4 @@ Commit #569 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #570 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #571 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #572 | Meme: It's not a bug, it's an undocumented feature.
+Commit #573 | Meme: Deleting code is better than writing code.
