@@ -14965,3 +14965,4 @@ Commit #514 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #515 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #516 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #517 | Meme: Deleting code is better than writing code.
+Commit #518 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
