@@ -14553,3 +14553,4 @@ Commit #102 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #103 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #104 | Meme: To understand recursion, you must first understand recursion.
 Commit #105 | Meme: To understand recursion, you must first understand recursion.
+Commit #106 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
