@@ -14900,3 +14900,4 @@ Commit #449 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #450 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #451 | Meme: Deleting code is better than writing code.
 Commit #452 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #453 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
