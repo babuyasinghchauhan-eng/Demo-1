@@ -15164,3 +15164,4 @@ Commit #713 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #714 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #715 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #716 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #717 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
