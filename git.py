@@ -14487,3 +14487,4 @@ Commit #36 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #37 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #38 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #39 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #40 | Meme: Why do Java developers wear glasses? Because they don't C#.
