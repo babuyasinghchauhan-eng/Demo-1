@@ -14510,3 +14510,4 @@ Commit #59 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #60 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #61 | Meme: In case of fire: git commit, git push, leave building.
 Commit #62 | Meme: In case of fire: git commit, git push, leave building.
+Commit #63 | Meme: Real programmers count from 0.
