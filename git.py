@@ -21031,3 +21031,4 @@ Commit #580 | Meme: In case of fire: git commit, git push, leave building.
 Commit #581 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #582 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #583 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #584 | Meme: Why do Java developers wear glasses? Because they don't C#.
