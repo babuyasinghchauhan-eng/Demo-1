@@ -14525,3 +14525,4 @@ Commit #74 | Meme: Software and cathedrals are much the same – first we build 
 Commit #75 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #76 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #77 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #78 | Meme: In case of fire: git commit, git push, leave building.
