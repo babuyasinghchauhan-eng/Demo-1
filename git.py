@@ -20617,3 +20617,4 @@ Commit #166 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #167 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #168 | Meme: Real programmers count from 0.
 Commit #169 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #170 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
