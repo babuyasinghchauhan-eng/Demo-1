@@ -21214,3 +21214,4 @@ Commit #763 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #764 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #765 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #766 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #767 | Meme: In case of fire: git commit, git push, leave building.
