@@ -20769,3 +20769,4 @@ Commit #318 | Meme: Deleting code is better than writing code.
 Commit #319 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #320 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #321 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #322 | Meme: Hide and seek champion since 1958: ';' in C/C++
