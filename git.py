@@ -15171,3 +15171,4 @@ Commit #720 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #721 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #722 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #723 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #724 | Meme: There are 10 types of people: those who understand binary, and those who don't.
