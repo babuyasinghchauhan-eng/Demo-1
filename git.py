@@ -20956,3 +20956,4 @@ Commit #505 | Meme: Real programmers count from 0.
 Commit #506 | Meme: In case of fire: git commit, git push, leave building.
 Commit #507 | Meme: In case of fire: git commit, git push, leave building.
 Commit #508 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #509 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
