@@ -15052,3 +15052,4 @@ Commit #601 | Meme: It's not a bug, it's an undocumented feature.
 Commit #602 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #603 | Meme: Deleting code is better than writing code.
 Commit #604 | Meme: In case of fire: git commit, git push, leave building.
+Commit #605 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
