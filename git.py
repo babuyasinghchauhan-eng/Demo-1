@@ -14955,3 +14955,4 @@ Commit #504 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #505 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #506 | Meme: Real programmers count from 0.
 Commit #507 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #508 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
