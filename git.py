@@ -15214,3 +15214,4 @@ Commit #763 | Meme: It's not a bug, it's an undocumented feature.
 Commit #764 | Meme: Real programmers count from 0.
 Commit #765 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #766 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #767 | Meme: Deleting code is better than writing code.
