@@ -14929,3 +14929,4 @@ Commit #478 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #479 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #480 | Meme: Deleting code is better than writing code.
 Commit #481 | Meme: In case of fire: git commit, git push, leave building.
+Commit #482 | Meme: It's not a bug, it's an undocumented feature.
