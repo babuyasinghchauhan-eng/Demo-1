@@ -15249,3 +15249,4 @@ Commit #798 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #799 | Meme: To understand recursion, you must first understand recursion.
 Commit #800 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #801 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #802 | Meme: Why do Java developers wear glasses? Because they don't C#.
