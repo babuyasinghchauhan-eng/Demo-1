@@ -14522,3 +14522,4 @@ Commit #71 | Meme: To understand recursion, you must first understand recursion.
 Commit #72 | Meme: Real programmers count from 0.
 Commit #73 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #74 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #75 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
