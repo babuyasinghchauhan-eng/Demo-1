@@ -14914,3 +14914,4 @@ Commit #463 | Meme: There are 10 types of people: those who understand binary, a
 Commit #464 | Meme: To understand recursion, you must first understand recursion.
 Commit #465 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #466 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #467 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
