@@ -21045,3 +21045,4 @@ Commit #594 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #595 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #596 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #597 | Meme: Real programmers count from 0.
+Commit #598 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
