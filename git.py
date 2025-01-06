@@ -16036,3 +16036,4 @@ Commit #585 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #586 | Meme: There's no place like 127.0.0.1
 Commit #587 | Meme: There's no place like 127.0.0.1
 Commit #588 | Meme: It's not a bug, it's an undocumented feature.
+Commit #589 | Meme: Real programmers count from 0.
