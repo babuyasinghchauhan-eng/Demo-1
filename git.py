@@ -20247,3 +20247,4 @@ Commit #796 | Meme: In case of fire: git commit, git push, leave building.
 Commit #797 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #798 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #799 | Meme: Deleting code is better than writing code.
+Commit #800 | Meme: Why do Java developers wear glasses? Because they don't C#.
