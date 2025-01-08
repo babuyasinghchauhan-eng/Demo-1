@@ -20420,3 +20420,4 @@ Commit #969 | Meme: There's no place like 127.0.0.1
 Commit #970 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #971 | Meme: It's not a bug, it's an undocumented feature.
 Commit #972 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #973 | Meme: Deleting code is better than writing code.
