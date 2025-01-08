@@ -19600,3 +19600,4 @@ Commit #149 | Meme: In case of fire: git commit, git push, leave building.
 Commit #150 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #151 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #152 | Meme: In case of fire: git commit, git push, leave building.
+Commit #153 | Meme: Real programmers count from 0.
