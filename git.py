@@ -16350,3 +16350,4 @@ Commit #899 | Meme: To understand recursion, you must first understand recursion
 Commit #900 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #901 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #902 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #903 | Meme: Why do Java developers wear glasses? Because they don't C#.
