@@ -19585,3 +19585,4 @@ Commit #134 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #135 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #136 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #137 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #138 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
