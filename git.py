@@ -16421,3 +16421,4 @@ Commit #970 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #971 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #972 | Meme: Deleting code is better than writing code.
 Commit #973 | Meme: There's no place like 127.0.0.1
+Commit #974 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
