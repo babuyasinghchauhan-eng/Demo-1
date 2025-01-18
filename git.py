@@ -20215,3 +20215,4 @@ Commit #764 | Meme: It's not a bug, it's an undocumented feature.
 Commit #765 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #766 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #767 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #768 | Meme: Real programmers count from 0.
