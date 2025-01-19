@@ -19526,3 +19526,4 @@ Commit #75 | Meme: To understand recursion, you must first understand recursion.
 Commit #76 | Meme: To understand recursion, you must first understand recursion.
 Commit #77 | Meme: Real programmers count from 0.
 Commit #78 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #79 | Meme: Hide and seek champion since 1958: ';' in C/C++
