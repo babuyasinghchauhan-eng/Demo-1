@@ -15949,3 +15949,4 @@ Commit #498 | Meme: It's not a bug, it's an undocumented feature.
 Commit #499 | Meme: Real programmers count from 0.
 Commit #500 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #501 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #502 | Meme: Real programmers count from 0.
