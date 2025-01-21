@@ -16286,3 +16286,4 @@ Commit #835 | Meme: It's not a bug, it's an undocumented feature.
 Commit #836 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #837 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #838 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #839 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
