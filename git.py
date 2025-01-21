@@ -20138,3 +20138,4 @@ Commit #687 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #688 | Meme: To understand recursion, you must first understand recursion.
 Commit #689 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #690 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #691 | Meme: There are 10 types of people: those who understand binary, and those who don't.
