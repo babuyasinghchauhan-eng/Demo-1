@@ -19613,3 +19613,4 @@ Commit #162 | Meme: To understand recursion, you must first understand recursion
 Commit #163 | Meme: Deleting code is better than writing code.
 Commit #164 | Meme: There's no place like 127.0.0.1
 Commit #165 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #166 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
