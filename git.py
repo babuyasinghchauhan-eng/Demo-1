@@ -19644,3 +19644,4 @@ Commit #193 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #194 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #195 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #196 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #197 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
