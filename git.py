@@ -20239,3 +20239,4 @@ Commit #788 | Meme: Real programmers count from 0.
 Commit #789 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #790 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #791 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #792 | Meme: It's not a bug, it's an undocumented feature.
