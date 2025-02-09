@@ -16070,3 +16070,4 @@ Commit #619 | Meme: Software and cathedrals are much the same – first we build
 Commit #620 | Meme: Deleting code is better than writing code.
 Commit #621 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #622 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #623 | Meme: There are 10 types of people: those who understand binary, and those who don't.
