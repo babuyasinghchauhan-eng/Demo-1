@@ -15775,3 +15775,4 @@ Commit #324 | Meme: Deleting code is better than writing code.
 Commit #325 | Meme: In case of fire: git commit, git push, leave building.
 Commit #326 | Meme: Deleting code is better than writing code.
 Commit #327 | Meme: To understand recursion, you must first understand recursion.
+Commit #328 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
