@@ -19539,3 +19539,4 @@ Commit #88 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #89 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #90 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #91 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #92 | Meme: To understand recursion, you must first understand recursion.
