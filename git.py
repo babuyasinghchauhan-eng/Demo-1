@@ -16053,3 +16053,4 @@ Commit #602 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #603 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #604 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #605 | Meme: There's no place like 127.0.0.1
+Commit #606 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
