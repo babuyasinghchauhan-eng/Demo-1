@@ -20212,3 +20212,4 @@ Commit #761 | Meme: Software and cathedrals are much the same – first we build
 Commit #762 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #763 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #764 | Meme: It's not a bug, it's an undocumented feature.
+Commit #765 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
