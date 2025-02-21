@@ -20041,3 +20041,4 @@ Commit #590 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #591 | Meme: Deleting code is better than writing code.
 Commit #592 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #593 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #594 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
