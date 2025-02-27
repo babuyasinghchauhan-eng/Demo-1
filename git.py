@@ -16161,3 +16161,4 @@ Commit #710 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #711 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #712 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #713 | Meme: Deleting code is better than writing code.
+Commit #714 | Meme: It's not a bug, it's an undocumented feature.
