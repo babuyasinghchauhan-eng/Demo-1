@@ -19987,3 +19987,4 @@ Commit #536 | Meme: Deleting code is better than writing code.
 Commit #537 | Meme: In case of fire: git commit, git push, leave building.
 Commit #538 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #539 | Meme: Deleting code is better than writing code.
+Commit #540 | Meme: Hide and seek champion since 1958: ';' in C/C++
