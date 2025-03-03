@@ -19550,3 +19550,4 @@ Commit #99 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #100 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #101 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #102 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #103 | Meme: There's no place like 127.0.0.1
