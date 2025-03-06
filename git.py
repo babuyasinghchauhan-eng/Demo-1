@@ -15693,3 +15693,4 @@ Commit #242 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #243 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #244 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #245 | Meme: Real programmers count from 0.
+Commit #246 | Meme: It's not a bug, it's an undocumented feature.
