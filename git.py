@@ -20175,3 +20175,4 @@ Commit #724 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #725 | Meme: Deleting code is better than writing code.
 Commit #726 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #727 | Meme: Deleting code is better than writing code.
+Commit #728 | Meme: Hide and seek champion since 1958: ';' in C/C++
