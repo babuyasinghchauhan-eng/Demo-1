@@ -20422,3 +20422,4 @@ Commit #971 | Meme: It's not a bug, it's an undocumented feature.
 Commit #972 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #973 | Meme: Deleting code is better than writing code.
 Commit #974 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #975 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
