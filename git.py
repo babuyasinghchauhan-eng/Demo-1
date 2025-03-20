@@ -19556,3 +19556,4 @@ Commit #105 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #106 | Meme: In case of fire: git commit, git push, leave building.
 Commit #107 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #108 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #109 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
