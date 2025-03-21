@@ -19700,3 +19700,4 @@ Commit #249 | Meme: There are 10 types of people: those who understand binary, a
 Commit #250 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #251 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #252 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #253 | Meme: Hide and seek champion since 1958: ';' in C/C++
