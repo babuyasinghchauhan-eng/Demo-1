@@ -15604,3 +15604,4 @@ Commit #153 | Meme: Software and cathedrals are much the same – first we build
 Commit #154 | Meme: Real programmers count from 0.
 Commit #155 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #156 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #157 | Meme: There's no place like 127.0.0.1
