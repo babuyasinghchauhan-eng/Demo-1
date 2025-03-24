@@ -20172,3 +20172,4 @@ Commit #721 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #722 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #723 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #724 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #725 | Meme: Deleting code is better than writing code.
