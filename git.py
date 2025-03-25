@@ -19672,3 +19672,4 @@ Commit #221 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #222 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #223 | Meme: In case of fire: git commit, git push, leave building.
 Commit #224 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #225 | Meme: Why do Java developers wear glasses? Because they don't C#.
