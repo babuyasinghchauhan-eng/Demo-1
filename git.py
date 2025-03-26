@@ -15525,3 +15525,4 @@ Commit #74 | Meme: Software and cathedrals are much the same – first we build 
 Commit #75 | Meme: Real programmers count from 0.
 Commit #76 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #77 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #78 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
