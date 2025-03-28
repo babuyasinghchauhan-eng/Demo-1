@@ -15545,3 +15545,4 @@ Commit #94 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #95 | Meme: Deleting code is better than writing code.
 Commit #96 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #97 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #98 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
