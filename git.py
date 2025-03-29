@@ -20393,3 +20393,4 @@ Commit #942 | Meme: Deleting code is better than writing code.
 Commit #943 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #944 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #945 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #946 | Meme: Why do Java developers wear glasses? Because they don't C#.
