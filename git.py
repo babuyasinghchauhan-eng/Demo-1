@@ -16050,3 +16050,4 @@ Commit #599 | Meme: Software and cathedrals are much the same – first we build
 Commit #600 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #601 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #602 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #603 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
