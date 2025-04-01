@@ -16138,3 +16138,4 @@ Commit #687 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #688 | Meme: Deleting code is better than writing code.
 Commit #689 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #690 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #691 | Meme: To understand recursion, you must first understand recursion.
