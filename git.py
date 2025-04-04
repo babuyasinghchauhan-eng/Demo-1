@@ -16278,3 +16278,4 @@ Commit #827 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #828 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #829 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #830 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #831 | Meme: There are 10 types of people: those who understand binary, and those who don't.
