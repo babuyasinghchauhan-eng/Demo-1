@@ -20119,3 +20119,4 @@ Commit #668 | Meme: It's not a bug, it's an undocumented feature.
 Commit #669 | Meme: Real programmers count from 0.
 Commit #670 | Meme: Deleting code is better than writing code.
 Commit #671 | Meme: To understand recursion, you must first understand recursion.
+Commit #672 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
