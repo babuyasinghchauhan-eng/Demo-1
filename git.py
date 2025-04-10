@@ -19520,3 +19520,4 @@ Commit #69 | Meme: There's no place like 127.0.0.1
 Commit #70 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #71 | Meme: To understand recursion, you must first understand recursion.
 Commit #72 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #73 | Meme: Real programmers count from 0.
