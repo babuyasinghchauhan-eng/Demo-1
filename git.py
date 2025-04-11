@@ -20326,3 +20326,4 @@ Commit #875 | Meme: To understand recursion, you must first understand recursion
 Commit #876 | Meme: It's not a bug, it's an undocumented feature.
 Commit #877 | Meme: It's not a bug, it's an undocumented feature.
 Commit #878 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #879 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
