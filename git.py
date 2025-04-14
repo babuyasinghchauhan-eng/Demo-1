@@ -15483,3 +15483,4 @@ Commit #32 | Meme: Software and cathedrals are much the same – first we build 
 Commit #33 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #34 | Meme: To understand recursion, you must first understand recursion.
 Commit #35 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #36 | Meme: Hide and seek champion since 1958: ';' in C/C++
