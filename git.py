@@ -20299,3 +20299,4 @@ Commit #848 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #849 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #850 | Meme: There's no place like 127.0.0.1
 Commit #851 | Meme: Deleting code is better than writing code.
+Commit #852 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
