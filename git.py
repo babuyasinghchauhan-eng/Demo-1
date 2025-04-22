@@ -19728,3 +19728,4 @@ Commit #277 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #278 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #279 | Meme: Deleting code is better than writing code.
 Commit #280 | Meme: In case of fire: git commit, git push, leave building.
+Commit #281 | Meme: There are 10 types of people: those who understand binary, and those who don't.
