@@ -15650,3 +15650,4 @@ Commit #199 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #200 | Meme: In case of fire: git commit, git push, leave building.
 Commit #201 | Meme: To understand recursion, you must first understand recursion.
 Commit #202 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #203 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
