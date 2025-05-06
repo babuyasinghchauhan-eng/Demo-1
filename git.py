@@ -16392,3 +16392,4 @@ Commit #941 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #942 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #943 | Meme: There's no place like 127.0.0.1
 Commit #944 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #945 | Meme: Hide and seek champion since 1958: ';' in C/C++
