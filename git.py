@@ -20282,3 +20282,4 @@ Commit #831 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #832 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #833 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #834 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #835 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
