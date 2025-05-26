@@ -16357,3 +16357,4 @@ Commit #906 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #907 | Meme: In case of fire: git commit, git push, leave building.
 Commit #908 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #909 | Meme: There's no place like 127.0.0.1
+Commit #910 | Meme: To understand recursion, you must first understand recursion.
