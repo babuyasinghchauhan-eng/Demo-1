@@ -20355,3 +20355,4 @@ Commit #904 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #905 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #906 | Meme: Deleting code is better than writing code.
 Commit #907 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #908 | Meme: Real programmers count from 0.
