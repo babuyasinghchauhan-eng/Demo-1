@@ -16205,3 +16205,4 @@ Commit #754 | Meme: Real programmers count from 0.
 Commit #755 | Meme: Real programmers count from 0.
 Commit #756 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #757 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #758 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
