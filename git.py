@@ -15593,3 +15593,4 @@ Commit #142 | Meme: It's not a bug, it's an undocumented feature.
 Commit #143 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #144 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #145 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #146 | Meme: Why do Java developers wear glasses? Because they don't C#.
