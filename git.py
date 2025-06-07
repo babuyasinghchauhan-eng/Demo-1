@@ -19723,3 +19723,4 @@ Commit #272 | Meme: Deleting code is better than writing code.
 Commit #273 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #274 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #275 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #276 | Meme: In case of fire: git commit, git push, leave building.
