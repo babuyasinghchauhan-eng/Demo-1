@@ -19806,3 +19806,4 @@ Commit #355 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #356 | Meme: Real programmers count from 0.
 Commit #357 | Meme: It's not a bug, it's an undocumented feature.
 Commit #358 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #359 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
