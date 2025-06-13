@@ -19989,3 +19989,4 @@ Commit #538 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #539 | Meme: Deleting code is better than writing code.
 Commit #540 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #541 | Meme: It's not a bug, it's an undocumented feature.
+Commit #542 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
