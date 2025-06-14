@@ -16095,3 +16095,4 @@ Commit #644 | Meme: There are 10 types of people: those who understand binary, a
 Commit #645 | Meme: In case of fire: git commit, git push, leave building.
 Commit #646 | Meme: To understand recursion, you must first understand recursion.
 Commit #647 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #648 | Meme: Why do Java developers wear glasses? Because they don't C#.
