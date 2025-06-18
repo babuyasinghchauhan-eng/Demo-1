@@ -15944,3 +15944,4 @@ Commit #493 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #494 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #495 | Meme: To understand recursion, you must first understand recursion.
 Commit #496 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #497 | Meme: There are 10 types of people: those who understand binary, and those who don't.
