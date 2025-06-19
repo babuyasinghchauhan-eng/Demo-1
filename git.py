@@ -20328,3 +20328,4 @@ Commit #877 | Meme: It's not a bug, it's an undocumented feature.
 Commit #878 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #879 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #880 | Meme: Deleting code is better than writing code.
+Commit #881 | Meme: It's not a bug, it's an undocumented feature.
