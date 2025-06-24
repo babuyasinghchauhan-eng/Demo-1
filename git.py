@@ -19531,3 +19531,4 @@ Commit #80 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #81 | Meme: To understand recursion, you must first understand recursion.
 Commit #82 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #83 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #84 | Meme: It's not a bug, it's an undocumented feature.
