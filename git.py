@@ -19949,3 +19949,4 @@ Commit #498 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #499 | Meme: Deleting code is better than writing code.
 Commit #500 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #501 | Meme: Deleting code is better than writing code.
+Commit #502 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
