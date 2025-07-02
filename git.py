@@ -16378,3 +16378,4 @@ Commit #927 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #928 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #929 | Meme: In case of fire: git commit, git push, leave building.
 Commit #930 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #931 | Meme: Real programmers count from 0.
