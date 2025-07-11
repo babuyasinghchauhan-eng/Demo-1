@@ -15715,3 +15715,4 @@ Commit #264 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #265 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #266 | Meme: There's no place like 127.0.0.1
 Commit #267 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #268 | Meme: To understand recursion, you must first understand recursion.
