@@ -20056,3 +20056,4 @@ Commit #605 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #606 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #607 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #608 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #609 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
