@@ -19496,3 +19496,4 @@ Commit #45 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #46 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #47 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #48 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #49 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
