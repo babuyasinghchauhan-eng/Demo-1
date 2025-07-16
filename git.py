@@ -20084,3 +20084,4 @@ Commit #633 | Meme: There's no place like 127.0.0.1
 Commit #634 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #635 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #636 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #637 | Meme: There are 10 types of people: those who understand binary, and those who don't.
