@@ -16403,3 +16403,4 @@ Commit #952 | Meme: It's not a bug, it's an undocumented feature.
 Commit #953 | Meme: Real programmers count from 0.
 Commit #954 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #955 | Meme: Real programmers count from 0.
+Commit #956 | Meme: To understand recursion, you must first understand recursion.
