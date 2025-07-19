@@ -19754,3 +19754,4 @@ Commit #303 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #304 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #305 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #306 | Meme: Real programmers count from 0.
+Commit #307 | Meme: There are 10 types of people: those who understand binary, and those who don't.
