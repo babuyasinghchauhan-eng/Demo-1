@@ -16016,3 +16016,4 @@ Commit #565 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #566 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #567 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #568 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #569 | Meme: In case of fire: git commit, git push, leave building.
