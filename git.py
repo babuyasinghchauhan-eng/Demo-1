@@ -19976,3 +19976,4 @@ Commit #525 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #526 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #527 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #528 | Meme: Real programmers count from 0.
+Commit #529 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
