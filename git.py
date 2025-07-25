@@ -19525,3 +19525,4 @@ Commit #74 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #75 | Meme: To understand recursion, you must first understand recursion.
 Commit #76 | Meme: To understand recursion, you must first understand recursion.
 Commit #77 | Meme: Real programmers count from 0.
+Commit #78 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
