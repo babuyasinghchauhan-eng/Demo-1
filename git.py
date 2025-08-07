@@ -15791,3 +15791,4 @@ Commit #340 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #341 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #342 | Meme: Real programmers count from 0.
 Commit #343 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #344 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
