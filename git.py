@@ -19750,3 +19750,4 @@ Commit #299 | Meme: It's not a bug, it's an undocumented feature.
 Commit #300 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #301 | Meme: To understand recursion, you must first understand recursion.
 Commit #302 | Meme: In case of fire: git commit, git push, leave building.
+Commit #303 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
