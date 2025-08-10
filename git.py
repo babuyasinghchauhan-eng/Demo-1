@@ -19597,3 +19597,4 @@ Commit #146 | Meme: Real programmers count from 0.
 Commit #147 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #148 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #149 | Meme: In case of fire: git commit, git push, leave building.
+Commit #150 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
