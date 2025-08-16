@@ -15474,3 +15474,4 @@ Commit #23 | Meme: Software and cathedrals are much the same – first we build 
 Commit #24 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #25 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #26 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #27 | Meme: Why do Java developers wear glasses? Because they don't C#.
