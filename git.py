@@ -19991,3 +19991,4 @@ Commit #540 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #541 | Meme: It's not a bug, it's an undocumented feature.
 Commit #542 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #543 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #544 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
