@@ -15624,3 +15624,4 @@ Commit #173 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #174 | Meme: To understand recursion, you must first understand recursion.
 Commit #175 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #176 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #177 | Meme: There are 10 types of people: those who understand binary, and those who don't.
