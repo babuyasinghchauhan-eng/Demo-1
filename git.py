@@ -16030,3 +16030,4 @@ Commit #579 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #580 | Meme: It's not a bug, it's an undocumented feature.
 Commit #581 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #582 | Meme: There's no place like 127.0.0.1
+Commit #583 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
