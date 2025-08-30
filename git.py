@@ -19653,3 +19653,4 @@ Commit #202 | Meme: It's not a bug, it's an undocumented feature.
 Commit #203 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #204 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #205 | Meme: It's not a bug, it's an undocumented feature.
+Commit #206 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
