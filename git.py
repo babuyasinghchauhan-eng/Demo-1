@@ -16166,3 +16166,4 @@ Commit #715 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #716 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #717 | Meme: It's not a bug, it's an undocumented feature.
 Commit #718 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #719 | Meme: To understand recursion, you must first understand recursion.
