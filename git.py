@@ -16105,3 +16105,4 @@ Commit #654 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #655 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #656 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #657 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #658 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
