@@ -19833,3 +19833,4 @@ Commit #382 | Meme: Deleting code is better than writing code.
 Commit #383 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #384 | Meme: It's not a bug, it's an undocumented feature.
 Commit #385 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #386 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
