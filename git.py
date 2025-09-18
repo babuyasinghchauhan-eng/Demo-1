@@ -15486,3 +15486,4 @@ Commit #35 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #36 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #37 | Meme: Deleting code is better than writing code.
 Commit #38 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #39 | Meme: There are 10 types of people: those who understand binary, and those who don't.
