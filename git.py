@@ -19470,3 +19470,4 @@ Commit #19 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #20 | Meme: Real programmers count from 0.
 Commit #21 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #22 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #23 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
