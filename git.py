@@ -20177,3 +20177,4 @@ Commit #726 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #727 | Meme: Deleting code is better than writing code.
 Commit #728 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #729 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #730 | Meme: Why do Java developers wear glasses? Because they don't C#.
