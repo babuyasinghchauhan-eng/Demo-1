@@ -19578,3 +19578,4 @@ Commit #127 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #128 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #129 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #130 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #131 | Meme: Real programmers count from 0.
