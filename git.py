@@ -20411,3 +20411,4 @@ Commit #960 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #961 | Meme: It's not a bug, it's an undocumented feature.
 Commit #962 | Meme: There's no place like 127.0.0.1
 Commit #963 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #964 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
