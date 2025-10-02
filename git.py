@@ -19970,3 +19970,4 @@ Commit #519 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #520 | Meme: Deleting code is better than writing code.
 Commit #521 | Meme: In case of fire: git commit, git push, leave building.
 Commit #522 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #523 | Meme: Real programmers count from 0.
