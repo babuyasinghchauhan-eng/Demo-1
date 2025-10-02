@@ -16303,3 +16303,4 @@ Commit #852 | Meme: Deleting code is better than writing code.
 Commit #853 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #854 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #855 | Meme: Deleting code is better than writing code.
+Commit #856 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
