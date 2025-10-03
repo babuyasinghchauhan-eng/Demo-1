@@ -19800,3 +19800,4 @@ Commit #349 | Meme: In case of fire: git commit, git push, leave building.
 Commit #350 | Meme: To understand recursion, you must first understand recursion.
 Commit #351 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #352 | Meme: It's not a bug, it's an undocumented feature.
+Commit #353 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
