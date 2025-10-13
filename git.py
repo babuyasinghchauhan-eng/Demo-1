@@ -15874,3 +15874,4 @@ Commit #423 | Meme: There are 10 types of people: those who understand binary, a
 Commit #424 | Meme: Real programmers count from 0.
 Commit #425 | Meme: Real programmers count from 0.
 Commit #426 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #427 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
