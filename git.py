@@ -20428,3 +20428,4 @@ Commit #977 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #978 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #979 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #980 | Meme: There's no place like 127.0.0.1
+Commit #981 | Meme: Hide and seek champion since 1958: ';' in C/C++
