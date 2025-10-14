@@ -16321,3 +16321,4 @@ Commit #870 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #871 | Meme: There's no place like 127.0.0.1
 Commit #872 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #873 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #874 | Meme: Why do Java developers wear glasses? Because they don't C#.
