@@ -15493,3 +15493,4 @@ Commit #42 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #43 | Meme: There's no place like 127.0.0.1
 Commit #44 | Meme: There's no place like 127.0.0.1
 Commit #45 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #46 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
