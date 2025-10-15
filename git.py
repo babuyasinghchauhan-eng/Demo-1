@@ -20162,3 +20162,4 @@ Commit #711 | Meme: There are 10 types of people: those who understand binary, a
 Commit #712 | Meme: In case of fire: git commit, git push, leave building.
 Commit #713 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #714 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #715 | Meme: Deleting code is better than writing code.
