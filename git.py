@@ -15692,3 +15692,4 @@ Commit #241 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #242 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #243 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #244 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #245 | Meme: Real programmers count from 0.
