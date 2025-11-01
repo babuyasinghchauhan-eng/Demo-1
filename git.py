@@ -19512,3 +19512,4 @@ Commit #61 | Meme: Software and cathedrals are much the same – first we build 
 Commit #62 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #63 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #64 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #65 | Meme: Deleting code is better than writing code.
