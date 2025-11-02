@@ -16078,3 +16078,4 @@ Commit #627 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #628 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #629 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #630 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #631 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
