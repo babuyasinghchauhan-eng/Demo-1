@@ -20036,3 +20036,4 @@ Commit #585 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #586 | Meme: It's not a bug, it's an undocumented feature.
 Commit #587 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #588 | Meme: It's not a bug, it's an undocumented feature.
+Commit #589 | Meme: In case of fire: git commit, git push, leave building.
