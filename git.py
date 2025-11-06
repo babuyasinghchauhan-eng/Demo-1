@@ -19855,3 +19855,4 @@ Commit #404 | Meme: There are 10 types of people: those who understand binary, a
 Commit #405 | Meme: Deleting code is better than writing code.
 Commit #406 | Meme: It's not a bug, it's an undocumented feature.
 Commit #407 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #408 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
