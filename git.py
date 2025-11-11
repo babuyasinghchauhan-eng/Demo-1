@@ -16173,3 +16173,4 @@ Commit #722 | Meme: Deleting code is better than writing code.
 Commit #723 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #724 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #725 | Meme: Deleting code is better than writing code.
+Commit #726 | Meme: To understand recursion, you must first understand recursion.
