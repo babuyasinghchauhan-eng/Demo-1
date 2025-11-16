@@ -20256,3 +20256,4 @@ Commit #805 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #806 | Meme: There's no place like 127.0.0.1
 Commit #807 | Meme: To understand recursion, you must first understand recursion.
 Commit #808 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #809 | Meme: Hide and seek champion since 1958: ';' in C/C++
