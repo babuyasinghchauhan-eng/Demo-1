@@ -19683,3 +19683,4 @@ Commit #232 | Meme: Real programmers count from 0.
 Commit #233 | Meme: Deleting code is better than writing code.
 Commit #234 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #235 | Meme: It's not a bug, it's an undocumented feature.
+Commit #236 | Meme: To understand recursion, you must first understand recursion.
