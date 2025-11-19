@@ -19468,3 +19468,4 @@ Commit #17 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #18 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #19 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #20 | Meme: Real programmers count from 0.
+Commit #21 | Meme: Hide and seek champion since 1958: ';' in C/C++
