@@ -16330,3 +16330,4 @@ Commit #879 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #880 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #881 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #882 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #883 | Meme: In case of fire: git commit, git push, leave building.
