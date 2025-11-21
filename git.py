@@ -16412,3 +16412,4 @@ Commit #961 | Meme: Software and cathedrals are much the same – first we build
 Commit #962 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #963 | Meme: In case of fire: git commit, git push, leave building.
 Commit #964 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #965 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
