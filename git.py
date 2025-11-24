@@ -6391,3 +6391,4 @@ Commit #337 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #338 | Meme: To understand recursion, you must first understand recursion.
 Commit #339 | Meme: Deleting code is better than writing code.
 Commit #340 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #341 | Meme: Hide and seek champion since 1958: ';' in C/C++
