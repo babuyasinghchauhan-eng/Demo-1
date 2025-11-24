@@ -6311,3 +6311,4 @@ Commit #257 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #258 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #259 | Meme: Real programmers count from 0.
 Commit #260 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #261 | Meme: Real programmers count from 0.
