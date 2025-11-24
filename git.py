@@ -6723,3 +6723,4 @@ Commit #669 | Meme: It's not a bug, it's an undocumented feature.
 Commit #670 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #671 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #672 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #673 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
