@@ -6239,3 +6239,4 @@ Commit #185 | Meme: It's not a bug, it's an undocumented feature.
 Commit #186 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #187 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #188 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #189 | Meme: It's not a bug, it's an undocumented feature.
