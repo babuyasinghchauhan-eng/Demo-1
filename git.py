@@ -6298,3 +6298,4 @@ Commit #244 | Meme: There's no place like 127.0.0.1
 Commit #245 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #246 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #247 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #248 | Meme: To understand recursion, you must first understand recursion.
