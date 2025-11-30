@@ -10965,3 +10965,4 @@ Commit #914 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #915 | Meme: In case of fire: git commit, git push, leave building.
 Commit #916 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #917 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #918 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
