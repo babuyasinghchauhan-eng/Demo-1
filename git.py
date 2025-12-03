@@ -10197,3 +10197,4 @@ Commit #146 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #147 | Meme: It's not a bug, it's an undocumented feature.
 Commit #148 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #149 | Meme: To understand recursion, you must first understand recursion.
+Commit #150 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
