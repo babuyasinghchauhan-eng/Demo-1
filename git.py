@@ -10995,3 +10995,4 @@ Commit #944 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #945 | Meme: Real programmers count from 0.
 Commit #946 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #947 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #948 | Meme: Hide and seek champion since 1958: ';' in C/C++
