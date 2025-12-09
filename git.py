@@ -6139,3 +6139,4 @@ Commit #85 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #86 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #87 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #88 | Meme: To understand recursion, you must first understand recursion.
+Commit #89 | Meme: Why do Java developers wear glasses? Because they don't C#.
