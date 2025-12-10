@@ -10182,3 +10182,4 @@ Commit #131 | Meme: There's no place like 127.0.0.1
 Commit #132 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #133 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #134 | Meme: In case of fire: git commit, git push, leave building.
+Commit #135 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
