@@ -6402,3 +6402,4 @@ Commit #348 | Meme: Software and cathedrals are much the same – first we build
 Commit #349 | Meme: In case of fire: git commit, git push, leave building.
 Commit #350 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #351 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #352 | Meme: Deleting code is better than writing code.
