@@ -9267,3 +9267,4 @@ Commit #216 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #217 | Meme: Deleting code is better than writing code.
 Commit #218 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #219 | Meme: Deleting code is better than writing code.
+Commit #220 | Meme: In case of fire: git commit, git push, leave building.
