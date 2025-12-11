@@ -6717,3 +6717,4 @@ Commit #663 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #664 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #665 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #666 | Meme: It's not a bug, it's an undocumented feature.
+Commit #667 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
