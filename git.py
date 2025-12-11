@@ -6779,3 +6779,4 @@ Commit #725 | Meme: Software and cathedrals are much the same – first we build
 Commit #726 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #727 | Meme: To understand recursion, you must first understand recursion.
 Commit #728 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #729 | Meme: It's not a bug, it's an undocumented feature.
