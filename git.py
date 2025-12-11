@@ -10141,3 +10141,4 @@ Commit #90 | Meme: In case of fire: git commit, git push, leave building.
 Commit #91 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #92 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #93 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #94 | Meme: There are 10 types of people: those who understand binary, and those who don't.
