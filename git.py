@@ -9791,3 +9791,4 @@ Commit #740 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #741 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #742 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #743 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #744 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
