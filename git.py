@@ -9119,3 +9119,4 @@ Commit #68 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #69 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #70 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #71 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #72 | Meme: Hide and seek champion since 1958: ';' in C/C++
