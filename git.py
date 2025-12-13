@@ -9652,3 +9652,4 @@ Commit #601 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #602 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #603 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #604 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #605 | Meme: It's not a bug, it's an undocumented feature.
