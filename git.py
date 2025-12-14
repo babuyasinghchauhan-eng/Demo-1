@@ -10899,3 +10899,4 @@ Commit #848 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #849 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #850 | Meme: Real programmers count from 0.
 Commit #851 | Meme: To understand recursion, you must first understand recursion.
+Commit #852 | Meme: There's no place like 127.0.0.1
