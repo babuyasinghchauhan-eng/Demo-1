@@ -6654,3 +6654,4 @@ Commit #600 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #601 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #602 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #603 | Meme: Real programmers count from 0.
+Commit #604 | Meme: Hide and seek champion since 1958: ';' in C/C++
