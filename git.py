@@ -6622,3 +6622,4 @@ Commit #568 | Meme: Software and cathedrals are much the same – first we build
 Commit #569 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #570 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #571 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #572 | Meme: There's no place like 127.0.0.1
