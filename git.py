@@ -9798,3 +9798,4 @@ Commit #747 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #748 | Meme: Real programmers count from 0.
 Commit #749 | Meme: Deleting code is better than writing code.
 Commit #750 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #751 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
