@@ -10661,3 +10661,4 @@ Commit #610 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #611 | Meme: It's not a bug, it's an undocumented feature.
 Commit #612 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #613 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #614 | Meme: Real programmers count from 0.
