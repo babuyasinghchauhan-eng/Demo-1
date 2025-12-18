@@ -10913,3 +10913,4 @@ Commit #862 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #863 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #864 | Meme: In case of fire: git commit, git push, leave building.
 Commit #865 | Meme: Deleting code is better than writing code.
+Commit #866 | Meme: There are 10 types of people: those who understand binary, and those who don't.
