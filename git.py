@@ -10238,3 +10238,4 @@ Commit #187 | Meme: Deleting code is better than writing code.
 Commit #188 | Meme: Real programmers count from 0.
 Commit #189 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #190 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #191 | Meme: Real programmers count from 0.
