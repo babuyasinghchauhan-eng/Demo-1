@@ -6445,3 +6445,4 @@ Commit #391 | Meme: Real programmers count from 0.
 Commit #392 | Meme: In case of fire: git commit, git push, leave building.
 Commit #393 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #394 | Meme: Deleting code is better than writing code.
+Commit #395 | Meme: There are 10 types of people: those who understand binary, and those who don't.
