@@ -6123,3 +6123,4 @@ Commit #69 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #70 | Meme: There's no place like 127.0.0.1
 Commit #71 | Meme: Deleting code is better than writing code.
 Commit #72 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #73 | Meme: To understand recursion, you must first understand recursion.
