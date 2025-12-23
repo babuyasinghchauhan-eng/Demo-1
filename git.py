@@ -6425,3 +6425,4 @@ Commit #371 | Meme: Software and cathedrals are much the same – first we build
 Commit #372 | Meme: It's not a bug, it's an undocumented feature.
 Commit #373 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #374 | Meme: To understand recursion, you must first understand recursion.
+Commit #375 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
