@@ -10640,3 +10640,4 @@ Commit #589 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #590 | Meme: In case of fire: git commit, git push, leave building.
 Commit #591 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #592 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #593 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
