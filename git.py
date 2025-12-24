@@ -6943,3 +6943,4 @@ Commit #889 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #890 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #891 | Meme: To understand recursion, you must first understand recursion.
 Commit #892 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #893 | Meme: Hide and seek champion since 1958: ';' in C/C++
