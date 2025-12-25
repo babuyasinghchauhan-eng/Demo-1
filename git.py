@@ -9816,3 +9816,4 @@ Commit #765 | Meme: There are 10 types of people: those who understand binary, a
 Commit #766 | Meme: In case of fire: git commit, git push, leave building.
 Commit #767 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #768 | Meme: Deleting code is better than writing code.
+Commit #769 | Meme: Real programmers count from 0.
