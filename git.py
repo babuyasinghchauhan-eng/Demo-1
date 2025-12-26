@@ -10779,3 +10779,4 @@ Commit #728 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #729 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #730 | Meme: Deleting code is better than writing code.
 Commit #731 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #732 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
