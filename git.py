@@ -6261,3 +6261,4 @@ Commit #207 | Meme: There are 10 types of people: those who understand binary, a
 Commit #208 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #209 | Meme: In case of fire: git commit, git push, leave building.
 Commit #210 | Meme: Deleting code is better than writing code.
+Commit #211 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
