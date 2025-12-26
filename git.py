@@ -6865,3 +6865,4 @@ Commit #811 | Meme: In case of fire: git commit, git push, leave building.
 Commit #812 | Meme: There's no place like 127.0.0.1
 Commit #813 | Meme: There's no place like 127.0.0.1
 Commit #814 | Meme: There's no place like 127.0.0.1
+Commit #815 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
