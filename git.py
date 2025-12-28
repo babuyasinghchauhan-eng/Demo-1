@@ -9592,3 +9592,4 @@ Commit #541 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #542 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #543 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #544 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #545 | Meme: Real programmers count from 0.
