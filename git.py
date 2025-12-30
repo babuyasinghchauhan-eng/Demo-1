@@ -10044,3 +10044,4 @@ Commit #993 | Meme: There's no place like 127.0.0.1
 Commit #994 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #995 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #996 | Meme: There's no place like 127.0.0.1
+Commit #997 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
