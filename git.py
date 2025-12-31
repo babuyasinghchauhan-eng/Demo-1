@@ -10059,3 +10059,4 @@ Commit #8 | Meme: It's not a bug, it's an undocumented feature.
 Commit #9 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #10 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #11 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #12 | Meme: There are 10 types of people: those who understand binary, and those who don't.
