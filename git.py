@@ -9576,3 +9576,4 @@ Commit #525 | Meme: Software and cathedrals are much the same – first we build
 Commit #526 | Meme: There's no place like 127.0.0.1
 Commit #527 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #528 | Meme: There's no place like 127.0.0.1
+Commit #529 | Meme: To understand recursion, you must first understand recursion.
