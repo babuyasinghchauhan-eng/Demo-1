@@ -19373,3 +19373,4 @@ Commit #922 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #923 | Meme: Deleting code is better than writing code.
 Commit #924 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #925 | Meme: Real programmers count from 0.
+Commit #926 | Meme: To understand recursion, you must first understand recursion.
