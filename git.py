@@ -9111,3 +9111,4 @@ Commit #60 | Meme: In case of fire: git commit, git push, leave building.
 Commit #61 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #62 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #63 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #64 | Meme: To understand recursion, you must first understand recursion.
