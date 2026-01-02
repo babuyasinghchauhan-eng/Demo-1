@@ -22580,3 +22580,4 @@ Commit #129 | Meme: To understand recursion, you must first understand recursion
 Commit #130 | Meme: There's no place like 127.0.0.1
 Commit #131 | Meme: Deleting code is better than writing code.
 Commit #132 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #133 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
