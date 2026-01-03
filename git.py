@@ -9059,3 +9059,4 @@ Commit #8 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers.
 Commit #9 | Meme: It's not a bug, it's an undocumented feature.
 Commit #10 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #11 | Meme: Real programmers count from 0.
+Commit #12 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
