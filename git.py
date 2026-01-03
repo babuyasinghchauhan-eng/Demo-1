@@ -22747,3 +22747,4 @@ Commit #296 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #297 | Meme: Real programmers count from 0.
 Commit #298 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #299 | Meme: To understand recursion, you must first understand recursion.
+Commit #300 | Meme: Hide and seek champion since 1958: ';' in C/C++
