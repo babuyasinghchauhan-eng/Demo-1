@@ -6479,3 +6479,4 @@ Commit #425 | Meme: Real programmers count from 0.
 Commit #426 | Meme: Deleting code is better than writing code.
 Commit #427 | Meme: Deleting code is better than writing code.
 Commit #428 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #429 | Meme: Hide and seek champion since 1958: ';' in C/C++
