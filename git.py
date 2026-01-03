@@ -22312,3 +22312,4 @@ Commit #861 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #862 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #863 | Meme: Real programmers count from 0.
 Commit #864 | Meme: To understand recursion, you must first understand recursion.
+Commit #865 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
