@@ -6060,3 +6060,4 @@ Commit #6 | Meme: Software and cathedrals are much the same – first we build t
 Commit #7 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #8 | Meme: There's no place like 127.0.0.1
 Commit #9 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #10 | Meme: Why do Java developers wear glasses? Because they don't C#.
