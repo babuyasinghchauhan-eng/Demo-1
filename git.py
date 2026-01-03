@@ -19010,3 +19010,4 @@ Commit #559 | Meme: Software and cathedrals are much the same – first we build
 Commit #560 | Meme: Deleting code is better than writing code.
 Commit #561 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #562 | Meme: Deleting code is better than writing code.
+Commit #563 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
