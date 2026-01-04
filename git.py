@@ -6098,3 +6098,4 @@ Commit #44 | Meme: Software and cathedrals are much the same – first we build 
 Commit #45 | Meme: There's no place like 127.0.0.1
 Commit #46 | Meme: Deleting code is better than writing code.
 Commit #47 | Meme: In case of fire: git commit, git push, leave building.
+Commit #48 | Meme: Why do Java developers wear glasses? Because they don't C#.
