@@ -23111,3 +23111,4 @@ Commit #660 | Meme: There are 10 types of people: those who understand binary, a
 Commit #661 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #662 | Meme: It's not a bug, it's an undocumented feature.
 Commit #663 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #664 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
