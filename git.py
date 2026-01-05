@@ -12751,3 +12751,4 @@ Commit #300 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #301 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #302 | Meme: There's no place like 127.0.0.1
 Commit #303 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #304 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
