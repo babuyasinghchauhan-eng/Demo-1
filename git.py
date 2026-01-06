@@ -12967,3 +12967,4 @@ Commit #516 | Meme: It's not a bug, it's an undocumented feature.
 Commit #517 | Meme: It's not a bug, it's an undocumented feature.
 Commit #518 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #519 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #520 | Meme: Why do Java developers wear glasses? Because they don't C#.
