@@ -23399,3 +23399,4 @@ Commit #948 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #949 | Meme: It's not a bug, it's an undocumented feature.
 Commit #950 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #951 | Meme: To understand recursion, you must first understand recursion.
+Commit #952 | Meme: Real programmers count from 0.
