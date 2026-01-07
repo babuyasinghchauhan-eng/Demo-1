@@ -5658,3 +5658,4 @@ Commit #504 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #505 | Meme: Deleting code is better than writing code.
 Commit #506 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #507 | Meme: There's no place like 127.0.0.1
+Commit #508 | Meme: In case of fire: git commit, git push, leave building.
