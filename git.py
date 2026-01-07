@@ -5250,3 +5250,4 @@ Commit #96 | Meme: Software and cathedrals are much the same – first we build 
 Commit #97 | Meme: It's not a bug, it's an undocumented feature.
 Commit #98 | Meme: It's not a bug, it's an undocumented feature.
 Commit #99 | Meme: In case of fire: git commit, git push, leave building.
+Commit #100 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
