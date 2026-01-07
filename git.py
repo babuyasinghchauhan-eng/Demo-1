@@ -18670,3 +18670,4 @@ Commit #219 | Meme: In case of fire: git commit, git push, leave building.
 Commit #220 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #221 | Meme: It's not a bug, it's an undocumented feature.
 Commit #222 | Meme: There's no place like 127.0.0.1
+Commit #223 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
