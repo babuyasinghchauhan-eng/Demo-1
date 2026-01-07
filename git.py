@@ -22668,3 +22668,4 @@ Commit #217 | Meme: It's not a bug, it's an undocumented feature.
 Commit #218 | Meme: It's not a bug, it's an undocumented feature.
 Commit #219 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #220 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #221 | Meme: Real programmers count from 0.
