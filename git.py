@@ -6082,3 +6082,4 @@ Commit #28 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #29 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #30 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #31 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #32 | Meme: Hide and seek champion since 1958: ';' in C/C++
