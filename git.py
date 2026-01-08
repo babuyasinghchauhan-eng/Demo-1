@@ -23181,3 +23181,4 @@ Commit #730 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #731 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #732 | Meme: In case of fire: git commit, git push, leave building.
 Commit #733 | Meme: In case of fire: git commit, git push, leave building.
+Commit #734 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
