@@ -22867,3 +22867,4 @@ Commit #416 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #417 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #418 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #419 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #420 | Meme: To understand recursion, you must first understand recursion.
