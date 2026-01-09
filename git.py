@@ -6246,3 +6246,4 @@ Commit #192 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #193 | Meme: To understand recursion, you must first understand recursion.
 Commit #194 | Meme: There's no place like 127.0.0.1
 Commit #195 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #196 | Meme: There are 10 types of people: those who understand binary, and those who don't.
