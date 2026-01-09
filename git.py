@@ -6241,3 +6241,4 @@ Commit #187 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #188 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #189 | Meme: It's not a bug, it's an undocumented feature.
 Commit #190 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #191 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
