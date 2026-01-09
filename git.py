@@ -23156,3 +23156,4 @@ Commit #705 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #706 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #707 | Meme: Real programmers count from 0.
 Commit #708 | Meme: Real programmers count from 0.
+Commit #709 | Meme: Hide and seek champion since 1958: ';' in C/C++
