@@ -19,3 +19,4 @@ Commit #17 | Meme: There are 10 types of people: those who understand binary, an
 Commit #18 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #19 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #20 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #21 | Meme: Deleting code is better than writing code.
