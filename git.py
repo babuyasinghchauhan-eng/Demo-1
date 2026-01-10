@@ -9695,3 +9695,4 @@ Commit #644 | Meme: There are 10 types of people: those who understand binary, a
 Commit #645 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #646 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #647 | Meme: There's no place like 127.0.0.1
+Commit #648 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
