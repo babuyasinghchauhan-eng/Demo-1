@@ -6618,3 +6618,4 @@ Commit #564 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #565 | Meme: Real programmers count from 0.
 Commit #566 | Meme: Real programmers count from 0.
 Commit #567 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #568 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
