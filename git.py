@@ -22037,3 +22037,4 @@ Commit #586 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #587 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #588 | Meme: To understand recursion, you must first understand recursion.
 Commit #589 | Meme: To understand recursion, you must first understand recursion.
+Commit #590 | Meme: Why do Java developers wear glasses? Because they don't C#.
