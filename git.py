@@ -5908,3 +5908,4 @@ Commit #754 | Meme: Software and cathedrals are much the same – first we build
 Commit #755 | Meme: It's not a bug, it's an undocumented feature.
 Commit #756 | Meme: Deleting code is better than writing code.
 Commit #757 | Meme: To understand recursion, you must first understand recursion.
+Commit #758 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
