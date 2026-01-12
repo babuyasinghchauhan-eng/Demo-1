@@ -22025,3 +22025,4 @@ Commit #574 | Meme: Real programmers count from 0.
 Commit #575 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #576 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #577 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #578 | Meme: There are 10 types of people: those who understand binary, and those who don't.
