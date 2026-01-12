@@ -9487,3 +9487,4 @@ Commit #436 | Meme: In case of fire: git commit, git push, leave building.
 Commit #437 | Meme: It's not a bug, it's an undocumented feature.
 Commit #438 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #439 | Meme: It's not a bug, it's an undocumented feature.
+Commit #440 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
