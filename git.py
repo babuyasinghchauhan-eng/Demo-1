@@ -18976,3 +18976,4 @@ Commit #525 | Meme: In case of fire: git commit, git push, leave building.
 Commit #526 | Meme: There's no place like 127.0.0.1
 Commit #527 | Meme: In case of fire: git commit, git push, leave building.
 Commit #528 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #529 | Meme: To understand recursion, you must first understand recursion.
