@@ -19301,3 +19301,4 @@ Commit #850 | Meme: There are 10 types of people: those who understand binary, a
 Commit #851 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #852 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #853 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #854 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
