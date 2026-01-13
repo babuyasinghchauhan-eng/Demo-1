@@ -22261,3 +22261,4 @@ Commit #810 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #811 | Meme: In case of fire: git commit, git push, leave building.
 Commit #812 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #813 | Meme: Deleting code is better than writing code.
+Commit #814 | Meme: To understand recursion, you must first understand recursion.
