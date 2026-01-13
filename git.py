@@ -6539,3 +6539,4 @@ Commit #485 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #486 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #487 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #488 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #489 | Meme: In case of fire: git commit, git push, leave building.
