@@ -23116,3 +23116,4 @@ Commit #665 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #666 | Meme: In case of fire: git commit, git push, leave building.
 Commit #667 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #668 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #669 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
