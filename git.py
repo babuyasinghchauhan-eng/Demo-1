@@ -6725,3 +6725,4 @@ Commit #671 | Meme: Software and cathedrals are much the same – first we build
 Commit #672 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #673 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #674 | Meme: It's not a bug, it's an undocumented feature.
+Commit #675 | Meme: There are 10 types of people: those who understand binary, and those who don't.
