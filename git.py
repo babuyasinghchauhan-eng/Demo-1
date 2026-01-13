@@ -5348,3 +5348,4 @@ Commit #194 | Meme: There's no place like 127.0.0.1
 Commit #195 | Meme: Deleting code is better than writing code.
 Commit #196 | Meme: To understand recursion, you must first understand recursion.
 Commit #197 | Meme: Real programmers count from 0.
+Commit #198 | Meme: Deleting code is better than writing code.
