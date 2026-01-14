@@ -23173,3 +23173,4 @@ Commit #722 | Meme: In case of fire: git commit, git push, leave building.
 Commit #723 | Meme: Deleting code is better than writing code.
 Commit #724 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #725 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #726 | Meme: To understand recursion, you must first understand recursion.
