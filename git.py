@@ -19387,3 +19387,4 @@ Commit #936 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #937 | Meme: Real programmers count from 0.
 Commit #938 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #939 | Meme: To understand recursion, you must first understand recursion.
+Commit #940 | Meme: Hide and seek champion since 1958: ';' in C/C++
