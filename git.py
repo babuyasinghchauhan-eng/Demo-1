@@ -6178,3 +6178,4 @@ Commit #124 | Meme: In case of fire: git commit, git push, leave building.
 Commit #125 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #126 | Meme: Deleting code is better than writing code.
 Commit #127 | Meme: To understand recursion, you must first understand recursion.
+Commit #128 | Meme: Why do Java developers wear glasses? Because they don't C#.
