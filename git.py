@@ -10846,3 +10846,4 @@ Commit #795 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #796 | Meme: It's not a bug, it's an undocumented feature.
 Commit #797 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #798 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #799 | Meme: There are 10 types of people: those who understand binary, and those who don't.
