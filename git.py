@@ -9321,3 +9321,4 @@ Commit #270 | Meme: Software and cathedrals are much the same – first we build
 Commit #271 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #272 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #273 | Meme: Deleting code is better than writing code.
+Commit #274 | Meme: Why do Java developers wear glasses? Because they don't C#.
