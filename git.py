@@ -6268,3 +6268,4 @@ Commit #214 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #215 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #216 | Meme: Deleting code is better than writing code.
 Commit #217 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #218 | Meme: Why do Java developers wear glasses? Because they don't C#.
