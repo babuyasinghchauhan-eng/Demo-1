@@ -6250,3 +6250,4 @@ Commit #196 | Meme: There are 10 types of people: those who understand binary, a
 Commit #197 | Meme: Deleting code is better than writing code.
 Commit #198 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #199 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #200 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
