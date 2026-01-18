@@ -10737,3 +10737,4 @@ Commit #686 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #687 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #688 | Meme: Real programmers count from 0.
 Commit #689 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #690 | Meme: It's not a bug, it's an undocumented feature.
