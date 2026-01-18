@@ -23122,3 +23122,4 @@ Commit #671 | Meme: There's no place like 127.0.0.1
 Commit #672 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #673 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #674 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #675 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
