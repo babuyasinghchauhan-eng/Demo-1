@@ -22914,3 +22914,4 @@ Commit #463 | Meme: Real programmers count from 0.
 Commit #464 | Meme: It's not a bug, it's an undocumented feature.
 Commit #465 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #466 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #467 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
