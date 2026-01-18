@@ -22979,3 +22979,4 @@ Commit #528 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #529 | Meme: Deleting code is better than writing code.
 Commit #530 | Meme: There's no place like 127.0.0.1
 Commit #531 | Meme: There's no place like 127.0.0.1
+Commit #532 | Meme: To understand recursion, you must first understand recursion.
