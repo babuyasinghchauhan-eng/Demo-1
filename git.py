@@ -5300,3 +5300,4 @@ Commit #146 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #147 | Meme: To understand recursion, you must first understand recursion.
 Commit #148 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #149 | Meme: Real programmers count from 0.
+Commit #150 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
