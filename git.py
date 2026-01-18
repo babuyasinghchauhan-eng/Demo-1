@@ -10685,3 +10685,4 @@ Commit #634 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #635 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #636 | Meme: There's no place like 127.0.0.1
 Commit #637 | Meme: Real programmers count from 0.
+Commit #638 | Meme: Hide and seek champion since 1958: ';' in C/C++
