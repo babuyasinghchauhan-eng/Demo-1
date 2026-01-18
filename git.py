@@ -6738,3 +6738,4 @@ Commit #684 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #685 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #686 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #687 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #688 | Meme: To understand recursion, you must first understand recursion.
