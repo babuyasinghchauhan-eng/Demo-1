@@ -6751,3 +6751,4 @@ Commit #697 | Meme: Software and cathedrals are much the same – first we build
 Commit #698 | Meme: Real programmers count from 0.
 Commit #699 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #700 | Meme: There's no place like 127.0.0.1
+Commit #701 | Meme: Real programmers count from 0.
