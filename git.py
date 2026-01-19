@@ -6974,3 +6974,4 @@ Commit #920 | Meme: There are 10 types of people: those who understand binary, a
 Commit #921 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #922 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #923 | Meme: Deleting code is better than writing code.
+Commit #924 | Meme: Real programmers count from 0.
