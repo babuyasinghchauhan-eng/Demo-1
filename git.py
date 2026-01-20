@@ -22822,3 +22822,4 @@ Commit #371 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #372 | Meme: Real programmers count from 0.
 Commit #373 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #374 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #375 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
