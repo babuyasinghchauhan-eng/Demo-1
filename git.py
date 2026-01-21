@@ -10394,3 +10394,4 @@ Commit #343 | Meme: Real programmers count from 0.
 Commit #344 | Meme: It's not a bug, it's an undocumented feature.
 Commit #345 | Meme: Real programmers count from 0.
 Commit #346 | Meme: It's not a bug, it's an undocumented feature.
+Commit #347 | Meme: Why do Java developers wear glasses? Because they don't C#.
