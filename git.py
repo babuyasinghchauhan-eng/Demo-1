@@ -10388,3 +10388,4 @@ Commit #337 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #338 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #339 | Meme: It's not a bug, it's an undocumented feature.
 Commit #340 | Meme: Real programmers count from 0.
+Commit #341 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
