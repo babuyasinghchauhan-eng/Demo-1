@@ -22470,3 +22470,4 @@ Commit #19 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #20 | Meme: Deleting code is better than writing code.
 Commit #21 | Meme: To understand recursion, you must first understand recursion.
 Commit #22 | Meme: Deleting code is better than writing code.
+Commit #23 | Meme: Why do Java developers wear glasses? Because they don't C#.
