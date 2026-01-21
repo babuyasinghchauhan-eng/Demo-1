@@ -22442,3 +22442,4 @@ Commit #991 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #992 | Meme: Deleting code is better than writing code.
 Commit #993 | Meme: It's not a bug, it's an undocumented feature.
 Commit #994 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #995 | Meme: Deleting code is better than writing code.
