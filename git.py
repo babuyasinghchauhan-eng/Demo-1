@@ -22851,3 +22851,4 @@ Commit #400 | Meme: To understand recursion, you must first understand recursion
 Commit #401 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #402 | Meme: It's not a bug, it's an undocumented feature.
 Commit #403 | Meme: To understand recursion, you must first understand recursion.
+Commit #404 | Meme: Why do Java developers wear glasses? Because they don't C#.
