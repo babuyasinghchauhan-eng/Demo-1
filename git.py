@@ -10738,3 +10738,4 @@ Commit #687 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #688 | Meme: Real programmers count from 0.
 Commit #689 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #690 | Meme: It's not a bug, it's an undocumented feature.
+Commit #691 | Meme: Deleting code is better than writing code.
