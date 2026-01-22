@@ -22260,3 +22260,4 @@ Commit #809 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #810 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #811 | Meme: In case of fire: git commit, git push, leave building.
 Commit #812 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #813 | Meme: Deleting code is better than writing code.
