@@ -22507,3 +22507,4 @@ Commit #56 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #57 | Meme: In case of fire: git commit, git push, leave building.
 Commit #58 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #59 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #60 | Meme: Hide and seek champion since 1958: ';' in C/C++
