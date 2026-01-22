@@ -6784,3 +6784,4 @@ Commit #730 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #731 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #732 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #733 | Meme: There's no place like 127.0.0.1
+Commit #734 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
