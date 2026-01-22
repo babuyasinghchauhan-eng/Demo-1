@@ -22837,3 +22837,4 @@ Commit #386 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #387 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #388 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #389 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #390 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
