@@ -13108,3 +13108,4 @@ Commit #657 | Meme: Software and cathedrals are much the same – first we build
 Commit #658 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #659 | Meme: Deleting code is better than writing code.
 Commit #660 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #661 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
