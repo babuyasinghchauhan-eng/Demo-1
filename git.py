@@ -5648,3 +5648,4 @@ Commit #494 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #495 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #496 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #497 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #498 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
