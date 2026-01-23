@@ -18661,3 +18661,4 @@ Commit #210 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #211 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #212 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #213 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #214 | Meme: Real programmers count from 0.
