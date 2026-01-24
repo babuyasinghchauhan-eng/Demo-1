@@ -7031,3 +7031,4 @@ Commit #977 | Meme: There's no place like 127.0.0.1
 Commit #978 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #979 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #980 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #981 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
