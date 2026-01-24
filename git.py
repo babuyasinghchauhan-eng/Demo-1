@@ -6775,3 +6775,4 @@ Commit #721 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #722 | Meme: Deleting code is better than writing code.
 Commit #723 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #724 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #725 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
