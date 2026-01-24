@@ -9750,3 +9750,4 @@ Commit #699 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #700 | Meme: To understand recursion, you must first understand recursion.
 Commit #701 | Meme: In case of fire: git commit, git push, leave building.
 Commit #702 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #703 | Meme: There are 10 types of people: those who understand binary, and those who don't.
