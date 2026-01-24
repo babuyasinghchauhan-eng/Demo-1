@@ -6070,3 +6070,4 @@ Commit #16 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #17 | Meme: Real programmers count from 0.
 Commit #18 | Meme: In case of fire: git commit, git push, leave building.
 Commit #19 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #20 | Meme: Hide and seek champion since 1958: ';' in C/C++
