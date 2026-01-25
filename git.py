@@ -11044,3 +11044,4 @@ Commit #993 | Meme: Software and cathedrals are much the same – first we build
 Commit #994 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #995 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #996 | Meme: To understand recursion, you must first understand recursion.
+Commit #997 | Meme: There are 10 types of people: those who understand binary, and those who don't.
