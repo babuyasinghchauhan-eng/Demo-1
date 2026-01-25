@@ -22519,3 +22519,4 @@ Commit #68 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #69 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #70 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #71 | Meme: Real programmers count from 0.
+Commit #72 | Meme: Works on my machine! ¯\_(ツ)_/¯
