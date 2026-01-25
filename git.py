@@ -10082,3 +10082,4 @@ Commit #31 | Meme: There's no place like 127.0.0.1
 Commit #32 | Meme: To understand recursion, you must first understand recursion.
 Commit #33 | Meme: In case of fire: git commit, git push, leave building.
 Commit #34 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #35 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
