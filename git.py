@@ -22479,3 +22479,4 @@ Commit #28 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #29 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #30 | Meme: It's not a bug, it's an undocumented feature.
 Commit #31 | Meme: In case of fire: git commit, git push, leave building.
+Commit #32 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
