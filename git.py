@@ -23221,3 +23221,4 @@ Commit #770 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #771 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #772 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #773 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #774 | Meme: Why do Java developers wear glasses? Because they don't C#.
