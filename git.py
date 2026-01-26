@@ -6694,3 +6694,4 @@ Commit #640 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #641 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #642 | Meme: Deleting code is better than writing code.
 Commit #643 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #644 | Meme: It's not a bug, it's an undocumented feature.
