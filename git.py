@@ -9152,3 +9152,4 @@ Commit #101 | Meme: In case of fire: git commit, git push, leave building.
 Commit #102 | Meme: There's no place like 127.0.0.1
 Commit #103 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #104 | Meme: Deleting code is better than writing code.
+Commit #105 | Meme: Real programmers count from 0.
