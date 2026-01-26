@@ -5409,3 +5409,4 @@ Commit #255 | Meme: In case of fire: git commit, git push, leave building.
 Commit #256 | Meme: It's not a bug, it's an undocumented feature.
 Commit #257 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #258 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #259 | Meme: There are 10 types of people: those who understand binary, and those who don't.
