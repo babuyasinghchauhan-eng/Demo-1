@@ -11004,3 +11004,4 @@ Commit #953 | Meme: Software and cathedrals are much the same – first we build
 Commit #954 | Meme: There's no place like 127.0.0.1
 Commit #955 | Meme: Real programmers count from 0.
 Commit #956 | Meme: It's not a bug, it's an undocumented feature.
+Commit #957 | Meme: To understand recursion, you must first understand recursion.
