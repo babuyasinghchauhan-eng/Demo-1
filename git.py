@@ -5529,3 +5529,4 @@ Commit #375 | Meme: There's no place like 127.0.0.1
 Commit #376 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #377 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #378 | Meme: Deleting code is better than writing code.
+Commit #379 | Meme: Hide and seek champion since 1958: ';' in C/C++
