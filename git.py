@@ -10688,3 +10688,4 @@ Commit #637 | Meme: Real programmers count from 0.
 Commit #638 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #639 | Meme: It's not a bug, it's an undocumented feature.
 Commit #640 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #641 | Meme: To understand recursion, you must first understand recursion.
