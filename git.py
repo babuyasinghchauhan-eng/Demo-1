@@ -9320,3 +9320,4 @@ Commit #269 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #270 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #271 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #272 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #273 | Meme: Deleting code is better than writing code.
