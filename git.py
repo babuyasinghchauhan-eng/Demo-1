@@ -10449,3 +10449,4 @@ Commit #398 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #399 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #400 | Meme: Real programmers count from 0.
 Commit #401 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #402 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
