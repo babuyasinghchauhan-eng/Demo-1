@@ -6687,3 +6687,4 @@ Commit #633 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #634 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #635 | Meme: To understand recursion, you must first understand recursion.
 Commit #636 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #637 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
