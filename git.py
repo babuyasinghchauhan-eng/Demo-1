@@ -19134,3 +19134,4 @@ Commit #683 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #684 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #685 | Meme: To understand recursion, you must first understand recursion.
 Commit #686 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #687 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
