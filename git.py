@@ -9565,3 +9565,4 @@ Commit #514 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #515 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #516 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #517 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #518 | Meme: To understand recursion, you must first understand recursion.
