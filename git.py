@@ -6197,3 +6197,4 @@ Commit #143 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #144 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #145 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #146 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #147 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
