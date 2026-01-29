@@ -21658,3 +21658,4 @@ Commit #207 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #208 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #209 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #210 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #211 | Meme: Why do Java developers wear glasses? Because they don't C#.
