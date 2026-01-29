@@ -6736,3 +6736,4 @@ Commit #682 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #683 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #684 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #685 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #686 | Meme: Why do Java developers wear glasses? Because they don't C#.
