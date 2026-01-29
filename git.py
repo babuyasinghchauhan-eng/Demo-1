@@ -23194,3 +23194,4 @@ Commit #743 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #744 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #745 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #746 | Meme: It's not a bug, it's an undocumented feature.
+Commit #747 | Meme: There are 10 types of people: those who understand binary, and those who don't.
