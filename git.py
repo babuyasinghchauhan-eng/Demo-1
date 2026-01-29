@@ -22713,3 +22713,4 @@ Commit #262 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #263 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #264 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #265 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #266 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
