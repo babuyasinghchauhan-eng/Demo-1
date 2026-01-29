@@ -9830,3 +9830,4 @@ Commit #779 | Meme: Real programmers count from 0.
 Commit #780 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #781 | Meme: There's no place like 127.0.0.1
 Commit #782 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #783 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
