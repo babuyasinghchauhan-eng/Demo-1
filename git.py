@@ -23079,3 +23079,4 @@ Commit #628 | Meme: In case of fire: git commit, git push, leave building.
 Commit #629 | Meme: In case of fire: git commit, git push, leave building.
 Commit #630 | Meme: Deleting code is better than writing code.
 Commit #631 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #632 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
