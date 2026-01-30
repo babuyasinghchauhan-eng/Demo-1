@@ -6407,3 +6407,4 @@ Commit #353 | Meme: There are 10 types of people: those who understand binary, a
 Commit #354 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #355 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #356 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #357 | Meme: Real programmers count from 0.
