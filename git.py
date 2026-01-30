@@ -23347,3 +23347,4 @@ Commit #896 | Meme: There are 10 types of people: those who understand binary, a
 Commit #897 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #898 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #899 | Meme: In case of fire: git commit, git push, leave building.
+Commit #900 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
