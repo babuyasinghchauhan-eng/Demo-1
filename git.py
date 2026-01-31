@@ -10906,3 +10906,4 @@ Commit #855 | Meme: There are 10 types of people: those who understand binary, a
 Commit #856 | Meme: Real programmers count from 0.
 Commit #857 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #858 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #859 | Meme: Hide and seek champion since 1958: ';' in C/C++
