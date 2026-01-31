@@ -21946,3 +21946,4 @@ Commit #495 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #496 | Meme: It's not a bug, it's an undocumented feature.
 Commit #497 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #498 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #499 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
