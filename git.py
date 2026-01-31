@@ -7019,3 +7019,4 @@ Commit #965 | Meme: There are 10 types of people: those who understand binary, a
 Commit #966 | Meme: Deleting code is better than writing code.
 Commit #967 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #968 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #969 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
