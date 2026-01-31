@@ -21551,3 +21551,4 @@ Commit #100 | Meme: Real programmers count from 0.
 Commit #101 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #102 | Meme: Real programmers count from 0.
 Commit #103 | Meme: Real programmers count from 0.
+Commit #104 | Meme: There are 10 types of people: those who understand binary, and those who don't.
