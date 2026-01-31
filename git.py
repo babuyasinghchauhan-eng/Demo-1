@@ -27,3 +27,4 @@ Commit #25 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #26 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #27 | Meme: Real programmers count from 0.
 Commit #28 | Meme: To understand recursion, you must first understand recursion.
+Commit #29 | Meme: There are 10 types of people: those who understand binary, and those who don't.
