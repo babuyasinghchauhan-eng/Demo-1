@@ -23040,3 +23040,4 @@ Commit #589 | Meme: Real programmers count from 0.
 Commit #590 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #591 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #592 | Meme: Real programmers count from 0.
+Commit #593 | Meme: To understand recursion, you must first understand recursion.
