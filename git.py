@@ -9390,3 +9390,4 @@ Commit #339 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #340 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #341 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #342 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #343 | Meme: There's no place like 127.0.0.1
