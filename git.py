@@ -23407,3 +23407,4 @@ Commit #956 | Meme: To understand recursion, you must first understand recursion
 Commit #957 | Meme: Real programmers count from 0.
 Commit #958 | Meme: In case of fire: git commit, git push, leave building.
 Commit #959 | Meme: To understand recursion, you must first understand recursion.
+Commit #960 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
