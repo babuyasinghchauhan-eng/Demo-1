@@ -6927,3 +6927,4 @@ Commit #873 | Meme: Software and cathedrals are much the same – first we build
 Commit #874 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #875 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #876 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #877 | Meme: Real programmers count from 0.
