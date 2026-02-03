@@ -22539,3 +22539,4 @@ Commit #88 | Meme: Software and cathedrals are much the same – first we build 
 Commit #89 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #90 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #91 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #92 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
