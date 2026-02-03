@@ -9665,3 +9665,4 @@ Commit #614 | Meme: To understand recursion, you must first understand recursion
 Commit #615 | Meme: To understand recursion, you must first understand recursion.
 Commit #616 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #617 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #618 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
