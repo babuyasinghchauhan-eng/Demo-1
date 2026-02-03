@@ -5209,3 +5209,4 @@ Commit #55 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #56 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #57 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #58 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #59 | Meme: There's no place like 127.0.0.1
