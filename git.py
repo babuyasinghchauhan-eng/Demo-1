@@ -6520,3 +6520,4 @@ Commit #466 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #467 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #468 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #469 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #470 | Meme: There's no place like 127.0.0.1
