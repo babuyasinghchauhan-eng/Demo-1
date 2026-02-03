@@ -10740,3 +10740,4 @@ Commit #689 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #690 | Meme: It's not a bug, it's an undocumented feature.
 Commit #691 | Meme: Deleting code is better than writing code.
 Commit #692 | Meme: To understand recursion, you must first understand recursion.
+Commit #693 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
