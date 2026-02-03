@@ -9247,3 +9247,4 @@ Commit #196 | Meme: Software and cathedrals are much the same – first we build
 Commit #197 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #198 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #199 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #200 | Meme: To understand recursion, you must first understand recursion.
