@@ -22956,3 +22956,4 @@ Commit #505 | Meme: In case of fire: git commit, git push, leave building.
 Commit #506 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #507 | Meme: Real programmers count from 0.
 Commit #508 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #509 | Meme: Why do Java developers wear glasses? Because they don't C#.
