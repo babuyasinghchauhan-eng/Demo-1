@@ -6096,3 +6096,4 @@ Commit #42 | Meme: There are 10 types of people: those who understand binary, an
 Commit #43 | Meme: Deleting code is better than writing code.
 Commit #44 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #45 | Meme: There's no place like 127.0.0.1
+Commit #46 | Meme: Deleting code is better than writing code.
