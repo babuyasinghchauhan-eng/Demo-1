@@ -23137,3 +23137,4 @@ Commit #686 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #687 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #688 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #689 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #690 | Meme: Deleting code is better than writing code.
