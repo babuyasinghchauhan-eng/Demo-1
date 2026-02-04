@@ -7047,3 +7047,4 @@ Commit #993 | Meme: In case of fire: git commit, git push, leave building.
 Commit #994 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #995 | Meme: There's no place like 127.0.0.1
 Commit #996 | Meme: In case of fire: git commit, git push, leave building.
+Commit #997 | Meme: To understand recursion, you must first understand recursion.
