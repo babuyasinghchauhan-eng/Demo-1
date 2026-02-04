@@ -5926,3 +5926,4 @@ Commit #772 | Meme: In case of fire: git commit, git push, leave building.
 Commit #773 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #774 | Meme: It's not a bug, it's an undocumented feature.
 Commit #775 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #776 | Meme: Hide and seek champion since 1958: ';' in C/C++
