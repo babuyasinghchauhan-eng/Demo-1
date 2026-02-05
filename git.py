@@ -13033,3 +13033,4 @@ Commit #582 | Meme: It's not a bug, it's an undocumented feature.
 Commit #583 | Meme: Real programmers count from 0.
 Commit #584 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #585 | Meme: Real programmers count from 0.
+Commit #586 | Meme: Hide and seek champion since 1958: ';' in C/C++
