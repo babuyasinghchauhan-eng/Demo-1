@@ -5394,3 +5394,4 @@ Commit #240 | Meme: Deleting code is better than writing code.
 Commit #241 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #242 | Meme: It's not a bug, it's an undocumented feature.
 Commit #243 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #244 | Meme: In case of fire: git commit, git push, leave building.
