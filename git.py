@@ -9630,3 +9630,4 @@ Commit #579 | Meme: Software and cathedrals are much the same – first we build
 Commit #580 | Meme: There's no place like 127.0.0.1
 Commit #581 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #582 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #583 | Meme: Deleting code is better than writing code.
