@@ -6396,3 +6396,4 @@ Commit #342 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #343 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #344 | Meme: In case of fire: git commit, git push, leave building.
 Commit #345 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #346 | Meme: Deleting code is better than writing code.
