@@ -6677,3 +6677,4 @@ Commit #623 | Meme: To understand recursion, you must first understand recursion
 Commit #624 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #625 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #626 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #627 | Meme: Real programmers count from 0.
