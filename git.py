@@ -6290,3 +6290,4 @@ Commit #236 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #237 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #238 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #239 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #240 | Meme: To understand recursion, you must first understand recursion.
