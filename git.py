@@ -10279,3 +10279,4 @@ Commit #228 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #229 | Meme: Deleting code is better than writing code.
 Commit #230 | Meme: In case of fire: git commit, git push, leave building.
 Commit #231 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #232 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
