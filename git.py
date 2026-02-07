@@ -23034,3 +23034,4 @@ Commit #583 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #584 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #585 | Meme: Real programmers count from 0.
 Commit #586 | Meme: It's not a bug, it's an undocumented feature.
+Commit #587 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
