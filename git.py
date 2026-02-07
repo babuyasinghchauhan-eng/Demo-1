@@ -10253,3 +10253,4 @@ Commit #202 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #203 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #204 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #205 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #206 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
