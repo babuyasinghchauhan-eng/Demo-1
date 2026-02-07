@@ -5701,3 +5701,4 @@ Commit #547 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #548 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #549 | Meme: It's not a bug, it's an undocumented feature.
 Commit #550 | Meme: Deleting code is better than writing code.
+Commit #551 | Meme: Why do Java developers wear glasses? Because they don't C#.
