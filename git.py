@@ -9856,3 +9856,4 @@ Commit #805 | Meme: Software and cathedrals are much the same – first we build
 Commit #806 | Meme: In case of fire: git commit, git push, leave building.
 Commit #807 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #808 | Meme: It's not a bug, it's an undocumented feature.
+Commit #809 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
