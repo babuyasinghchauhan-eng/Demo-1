@@ -22031,3 +22031,4 @@ Commit #580 | Meme: In case of fire: git commit, git push, leave building.
 Commit #581 | Meme: Deleting code is better than writing code.
 Commit #582 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #583 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #584 | Meme: Real programmers count from 0.
