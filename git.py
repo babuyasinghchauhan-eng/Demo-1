@@ -10861,3 +10861,4 @@ Commit #810 | Meme: Real programmers count from 0.
 Commit #811 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #812 | Meme: It's not a bug, it's an undocumented feature.
 Commit #813 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #814 | Meme: In case of fire: git commit, git push, leave building.
