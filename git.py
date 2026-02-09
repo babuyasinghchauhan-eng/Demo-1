@@ -9755,3 +9755,4 @@ Commit #704 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #705 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #706 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #707 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #708 | Meme: Hide and seek champion since 1958: ';' in C/C++
