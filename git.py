@@ -23259,3 +23259,4 @@ Commit #808 | Meme: Deleting code is better than writing code.
 Commit #809 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #810 | Meme: Deleting code is better than writing code.
 Commit #811 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #812 | Meme: Real programmers count from 0.
