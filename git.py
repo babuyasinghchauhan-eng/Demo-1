@@ -5625,3 +5625,4 @@ Commit #471 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #472 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #473 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #474 | Meme: Real programmers count from 0.
+Commit #475 | Meme: Hide and seek champion since 1958: ';' in C/C++
