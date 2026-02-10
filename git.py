@@ -6021,3 +6021,4 @@ Commit #867 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #868 | Meme: It's not a bug, it's an undocumented feature.
 Commit #869 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #870 | Meme: It's not a bug, it's an undocumented feature.
+Commit #871 | Meme: To understand recursion, you must first understand recursion.
