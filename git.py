@@ -23192,3 +23192,4 @@ Commit #741 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #742 | Meme: To understand recursion, you must first understand recursion.
 Commit #743 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #744 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #745 | Meme: Why do Java developers wear glasses? Because they don't C#.
