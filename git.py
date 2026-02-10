@@ -10324,3 +10324,4 @@ Commit #273 | Meme: Deleting code is better than writing code.
 Commit #274 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #275 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #276 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #277 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
