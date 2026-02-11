@@ -5505,3 +5505,4 @@ Commit #351 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #352 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #353 | Meme: To understand recursion, you must first understand recursion.
 Commit #354 | Meme: Deleting code is better than writing code.
+Commit #355 | Meme: Why do Java developers wear glasses? Because they don't C#.
