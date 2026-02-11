@@ -10833,3 +10833,4 @@ Commit #782 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #783 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #784 | Meme: There's no place like 127.0.0.1
 Commit #785 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #786 | Meme: Hide and seek champion since 1958: ';' in C/C++
