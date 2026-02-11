@@ -23164,3 +23164,4 @@ Commit #713 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #714 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #715 | Meme: It's not a bug, it's an undocumented feature.
 Commit #716 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #717 | Meme: Hide and seek champion since 1958: ';' in C/C++
