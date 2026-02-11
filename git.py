@@ -6660,3 +6660,4 @@ Commit #606 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #607 | Meme: Deleting code is better than writing code.
 Commit #608 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #609 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #610 | Meme: In case of fire: git commit, git push, leave building.
