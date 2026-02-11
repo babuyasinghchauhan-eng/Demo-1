@@ -6335,3 +6335,4 @@ Commit #281 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #282 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #283 | Meme: In case of fire: git commit, git push, leave building.
 Commit #284 | Meme: Real programmers count from 0.
+Commit #285 | Meme: Hide and seek champion since 1958: ';' in C/C++
