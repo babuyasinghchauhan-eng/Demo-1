@@ -6952,3 +6952,4 @@ Commit #898 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #899 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #900 | Meme: In case of fire: git commit, git push, leave building.
 Commit #901 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #902 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
