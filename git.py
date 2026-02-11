@@ -13060,3 +13060,4 @@ Commit #609 | Meme: Real programmers count from 0.
 Commit #610 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #611 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #612 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #613 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
