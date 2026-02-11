@@ -9822,3 +9822,4 @@ Commit #771 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #772 | Meme: There's no place like 127.0.0.1
 Commit #773 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #774 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #775 | Meme: Hide and seek champion since 1958: ';' in C/C++
