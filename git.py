@@ -10604,3 +10604,4 @@ Commit #553 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #554 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #555 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #556 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #557 | Meme: Why do Java developers wear glasses? Because they don't C#.
