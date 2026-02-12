@@ -6456,3 +6456,4 @@ Commit #402 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #403 | Meme: In case of fire: git commit, git push, leave building.
 Commit #404 | Meme: Deleting code is better than writing code.
 Commit #405 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #406 | Meme: There are 10 types of people: those who understand binary, and those who don't.
