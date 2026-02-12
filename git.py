@@ -9730,3 +9730,4 @@ Commit #679 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #680 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #681 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #682 | Meme: It's not a bug, it's an undocumented feature.
+Commit #683 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
