@@ -7044,3 +7044,4 @@ Commit #990 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #991 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #992 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #993 | Meme: In case of fire: git commit, git push, leave building.
+Commit #994 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
