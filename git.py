@@ -22173,3 +22173,4 @@ Commit #722 | Meme: To understand recursion, you must first understand recursion
 Commit #723 | Meme: Real programmers count from 0.
 Commit #724 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #725 | Meme: Real programmers count from 0.
+Commit #726 | Meme: To understand recursion, you must first understand recursion.
