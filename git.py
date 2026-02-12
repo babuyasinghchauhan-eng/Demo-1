@@ -10395,3 +10395,4 @@ Commit #344 | Meme: It's not a bug, it's an undocumented feature.
 Commit #345 | Meme: Real programmers count from 0.
 Commit #346 | Meme: It's not a bug, it's an undocumented feature.
 Commit #347 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #348 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
