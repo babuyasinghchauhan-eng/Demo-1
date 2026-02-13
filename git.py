@@ -23301,3 +23301,4 @@ Commit #850 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #851 | Meme: Deleting code is better than writing code.
 Commit #852 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #853 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #854 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
