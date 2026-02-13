@@ -6529,3 +6529,4 @@ Commit #475 | Meme: Deleting code is better than writing code.
 Commit #476 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #477 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #478 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #479 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
