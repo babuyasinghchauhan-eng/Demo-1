@@ -10310,3 +10310,4 @@ Commit #259 | Meme: Real programmers count from 0.
 Commit #260 | Meme: Real programmers count from 0.
 Commit #261 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #262 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #263 | Meme: Why do Java developers wear glasses? Because they don't C#.
