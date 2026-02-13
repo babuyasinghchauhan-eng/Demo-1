@@ -23303,3 +23303,4 @@ Commit #852 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #853 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #854 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #855 | Meme: In case of fire: git commit, git push, leave building.
+Commit #856 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
