@@ -23193,3 +23193,4 @@ Commit #742 | Meme: To understand recursion, you must first understand recursion
 Commit #743 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #744 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #745 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #746 | Meme: It's not a bug, it's an undocumented feature.
