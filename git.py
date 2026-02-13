@@ -10825,3 +10825,4 @@ Commit #774 | Meme: There's no place like 127.0.0.1
 Commit #775 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #776 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #777 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #778 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
