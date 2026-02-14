@@ -6210,3 +6210,4 @@ Commit #156 | Meme: Software and cathedrals are much the same – first we build
 Commit #157 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #158 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #159 | Meme: There's no place like 127.0.0.1
+Commit #160 | Meme: In case of fire: git commit, git push, leave building.
