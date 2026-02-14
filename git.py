@@ -22681,3 +22681,4 @@ Commit #230 | Meme: Software and cathedrals are much the same – first we build
 Commit #231 | Meme: Deleting code is better than writing code.
 Commit #232 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #233 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #234 | Meme: Hide and seek champion since 1958: ';' in C/C++
