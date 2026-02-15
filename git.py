@@ -18839,3 +18839,4 @@ Commit #388 | Meme: Deleting code is better than writing code.
 Commit #389 | Meme: In case of fire: git commit, git push, leave building.
 Commit #390 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #391 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #392 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
