@@ -22498,3 +22498,4 @@ Commit #47 | Meme: Software and cathedrals are much the same – first we build 
 Commit #48 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #49 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #50 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #51 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
