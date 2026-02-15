@@ -10285,3 +10285,4 @@ Commit #234 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #235 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #236 | Meme: Deleting code is better than writing code.
 Commit #237 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #238 | Meme: To understand recursion, you must first understand recursion.
