@@ -22348,3 +22348,4 @@ Commit #897 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #898 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #899 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #900 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #901 | Meme: In case of fire: git commit, git push, leave building.
