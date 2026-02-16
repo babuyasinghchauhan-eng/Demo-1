@@ -17970,3 +17970,4 @@ Commit #519 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #520 | Meme: Real programmers count from 0.
 Commit #521 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #522 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #523 | Meme: To understand recursion, you must first understand recursion.
