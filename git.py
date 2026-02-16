@@ -6977,3 +6977,4 @@ Commit #923 | Meme: Deleting code is better than writing code.
 Commit #924 | Meme: Real programmers count from 0.
 Commit #925 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #926 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #927 | Meme: To understand recursion, you must first understand recursion.
