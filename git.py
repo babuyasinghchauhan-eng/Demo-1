@@ -21492,3 +21492,4 @@ Commit #41 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #42 | Meme: Deleting code is better than writing code.
 Commit #43 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #44 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #45 | Meme: Real programmers count from 0.
