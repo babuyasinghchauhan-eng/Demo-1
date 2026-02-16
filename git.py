@@ -6005,3 +6005,4 @@ Commit #851 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #852 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #853 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #854 | Meme: There's no place like 127.0.0.1
+Commit #855 | Meme: Hide and seek champion since 1958: ';' in C/C++
