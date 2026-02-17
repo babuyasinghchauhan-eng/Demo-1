@@ -22836,3 +22836,4 @@ Commit #385 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #386 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #387 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #388 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #389 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
