@@ -23214,3 +23214,4 @@ Commit #763 | Meme: To understand recursion, you must first understand recursion
 Commit #764 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #765 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #766 | Meme: It's not a bug, it's an undocumented feature.
+Commit #767 | Meme: To understand recursion, you must first understand recursion.
