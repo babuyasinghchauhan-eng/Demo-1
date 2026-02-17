@@ -10991,3 +10991,4 @@ Commit #940 | Meme: Deleting code is better than writing code.
 Commit #941 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #942 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #943 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #944 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
