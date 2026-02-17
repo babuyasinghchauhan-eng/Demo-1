@@ -5276,3 +5276,4 @@ Commit #122 | Meme: In case of fire: git commit, git push, leave building.
 Commit #123 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #124 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #125 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #126 | Meme: To understand recursion, you must first understand recursion.
