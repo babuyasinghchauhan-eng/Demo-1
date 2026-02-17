@@ -10086,3 +10086,4 @@ Commit #35 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #36 | Meme: Real programmers count from 0.
 Commit #37 | Meme: It's not a bug, it's an undocumented feature.
 Commit #38 | Meme: To understand recursion, you must first understand recursion.
+Commit #39 | Meme: Real programmers count from 0.
