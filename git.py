@@ -22614,3 +22614,4 @@ Commit #163 | Meme: There are 10 types of people: those who understand binary, a
 Commit #164 | Meme: To understand recursion, you must first understand recursion.
 Commit #165 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #166 | Meme: To understand recursion, you must first understand recursion.
+Commit #167 | Meme: There are 10 types of people: those who understand binary, and those who don't.
