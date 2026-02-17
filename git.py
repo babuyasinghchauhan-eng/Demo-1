@@ -6254,3 +6254,4 @@ Commit #200 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #201 | Meme: It's not a bug, it's an undocumented feature.
 Commit #202 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #203 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #204 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
