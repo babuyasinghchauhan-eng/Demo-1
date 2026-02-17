@@ -18262,3 +18262,4 @@ Commit #811 | Meme: Software and cathedrals are much the same – first we build
 Commit #812 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #813 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #814 | Meme: Deleting code is better than writing code.
+Commit #815 | Meme: Real programmers count from 0.
