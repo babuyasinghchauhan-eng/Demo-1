@@ -10067,3 +10067,4 @@ Commit #16 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #17 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #18 | Meme: Real programmers count from 0.
 Commit #19 | Meme: To understand recursion, you must first understand recursion.
+Commit #20 | Meme: In case of fire: git commit, git push, leave building.
