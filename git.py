@@ -6632,3 +6632,4 @@ Commit #578 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #579 | Meme: Deleting code is better than writing code.
 Commit #580 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #581 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #582 | Meme: Hide and seek champion since 1958: ';' in C/C++
