@@ -13077,3 +13077,4 @@ Commit #626 | Meme: Software and cathedrals are much the same – first we build
 Commit #627 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #628 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #629 | Meme: Real programmers count from 0.
+Commit #630 | Meme: Hide and seek champion since 1958: ';' in C/C++
