@@ -6793,3 +6793,4 @@ Commit #739 | Meme: There are 10 types of people: those who understand binary, a
 Commit #740 | Meme: It's not a bug, it's an undocumented feature.
 Commit #741 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #742 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #743 | Meme: There are 10 types of people: those who understand binary, and those who don't.
