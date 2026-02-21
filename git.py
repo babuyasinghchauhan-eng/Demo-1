@@ -22345,3 +22345,4 @@ Commit #894 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #895 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #896 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #897 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #898 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
