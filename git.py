@@ -21504,3 +21504,4 @@ Commit #53 | Meme: There's no place like 127.0.0.1
 Commit #54 | Meme: Real programmers count from 0.
 Commit #55 | Meme: Deleting code is better than writing code.
 Commit #56 | Meme: Real programmers count from 0.
+Commit #57 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
