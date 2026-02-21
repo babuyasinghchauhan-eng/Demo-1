@@ -22185,3 +22185,4 @@ Commit #734 | Meme: To understand recursion, you must first understand recursion
 Commit #735 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #736 | Meme: To understand recursion, you must first understand recursion.
 Commit #737 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #738 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
