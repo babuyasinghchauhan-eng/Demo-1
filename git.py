@@ -7033,3 +7033,4 @@ Commit #979 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #980 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #981 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #982 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #983 | Meme: Real programmers count from 0.
