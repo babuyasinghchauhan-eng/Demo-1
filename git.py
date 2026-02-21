@@ -21920,3 +21920,4 @@ Commit #469 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #470 | Meme: Real programmers count from 0.
 Commit #471 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #472 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #473 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
