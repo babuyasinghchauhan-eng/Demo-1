@@ -21960,3 +21960,4 @@ Commit #509 | Meme: Real programmers count from 0.
 Commit #510 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #511 | Meme: Real programmers count from 0.
 Commit #512 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #513 | Meme: Hide and seek champion since 1958: ';' in C/C++
