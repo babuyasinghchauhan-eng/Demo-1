@@ -18484,3 +18484,4 @@ Commit #33 | Meme: There are 10 types of people: those who understand binary, an
 Commit #34 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #35 | Meme: To understand recursion, you must first understand recursion.
 Commit #36 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #37 | Meme: Real programmers count from 0.
