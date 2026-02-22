@@ -10932,3 +10932,4 @@ Commit #881 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #882 | Meme: There's no place like 127.0.0.1
 Commit #883 | Meme: In case of fire: git commit, git push, leave building.
 Commit #884 | Meme: In case of fire: git commit, git push, leave building.
+Commit #885 | Meme: There are 10 types of people: those who understand binary, and those who don't.
