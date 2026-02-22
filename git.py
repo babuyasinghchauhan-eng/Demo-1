@@ -18417,3 +18417,4 @@ Commit #966 | Meme: In case of fire: git commit, git push, leave building.
 Commit #967 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #968 | Meme: It's not a bug, it's an undocumented feature.
 Commit #969 | Meme: There's no place like 127.0.0.1
+Commit #970 | Meme: Hide and seek champion since 1958: ';' in C/C++
