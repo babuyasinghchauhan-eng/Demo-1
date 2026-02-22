@@ -18026,3 +18026,4 @@ Commit #575 | Meme: To understand recursion, you must first understand recursion
 Commit #576 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #577 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #578 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #579 | Meme: In case of fire: git commit, git push, leave building.
