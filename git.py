@@ -22843,3 +22843,4 @@ Commit #392 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #393 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #394 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #395 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #396 | Meme: There's no place like 127.0.0.1
