@@ -10694,3 +10694,4 @@ Commit #643 | Meme: It's not a bug, it's an undocumented feature.
 Commit #644 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #645 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #646 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #647 | Meme: There's no place like 127.0.0.1
