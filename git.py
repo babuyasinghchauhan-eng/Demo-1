@@ -22909,3 +22909,4 @@ Commit #458 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #459 | Meme: Deleting code is better than writing code.
 Commit #460 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #461 | Meme: In case of fire: git commit, git push, leave building.
+Commit #462 | Meme: To understand recursion, you must first understand recursion.
