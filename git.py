@@ -22544,3 +22544,4 @@ Commit #93 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #94 | Meme: To understand recursion, you must first understand recursion.
 Commit #95 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #96 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #97 | Meme: Deleting code is better than writing code.
