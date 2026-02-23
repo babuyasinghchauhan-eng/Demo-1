@@ -17768,3 +17768,4 @@ Commit #317 | Meme: To understand recursion, you must first understand recursion
 Commit #318 | Meme: It's not a bug, it's an undocumented feature.
 Commit #319 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #320 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #321 | Meme: Deleting code is better than writing code.
