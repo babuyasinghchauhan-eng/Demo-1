@@ -10578,3 +10578,4 @@ Commit #527 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #528 | Meme: There's no place like 127.0.0.1
 Commit #529 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #530 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #531 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
