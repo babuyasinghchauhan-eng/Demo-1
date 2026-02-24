@@ -22826,3 +22826,4 @@ Commit #375 | Meme: Software and cathedrals are much the same – first we build
 Commit #376 | Meme: In case of fire: git commit, git push, leave building.
 Commit #377 | Meme: It's not a bug, it's an undocumented feature.
 Commit #378 | Meme: In case of fire: git commit, git push, leave building.
+Commit #379 | Meme: Real programmers count from 0.
