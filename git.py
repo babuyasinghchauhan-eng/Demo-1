@@ -23198,3 +23198,4 @@ Commit #747 | Meme: There are 10 types of people: those who understand binary, a
 Commit #748 | Meme: There's no place like 127.0.0.1
 Commit #749 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #750 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #751 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
