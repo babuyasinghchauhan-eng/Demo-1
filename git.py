@@ -21949,3 +21949,4 @@ Commit #498 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #499 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #500 | Meme: Real programmers count from 0.
 Commit #501 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #502 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
