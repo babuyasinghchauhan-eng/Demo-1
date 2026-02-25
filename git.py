@@ -10345,3 +10345,4 @@ Commit #294 | Meme: It's not a bug, it's an undocumented feature.
 Commit #295 | Meme: In case of fire: git commit, git push, leave building.
 Commit #296 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #297 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #298 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
