@@ -10709,3 +10709,4 @@ Commit #658 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #659 | Meme: There's no place like 127.0.0.1
 Commit #660 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #661 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #662 | Meme: There are 10 types of people: those who understand binary, and those who don't.
