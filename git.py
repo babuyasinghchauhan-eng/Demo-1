@@ -12737,3 +12737,4 @@ Commit #286 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #287 | Meme: Real programmers count from 0.
 Commit #288 | Meme: In case of fire: git commit, git push, leave building.
 Commit #289 | Meme: In case of fire: git commit, git push, leave building.
+Commit #290 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
