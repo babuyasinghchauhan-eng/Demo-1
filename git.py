@@ -21712,3 +21712,4 @@ Commit #261 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #262 | Meme: In case of fire: git commit, git push, leave building.
 Commit #263 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #264 | Meme: To understand recursion, you must first understand recursion.
+Commit #265 | Meme: Hide and seek champion since 1958: ';' in C/C++
