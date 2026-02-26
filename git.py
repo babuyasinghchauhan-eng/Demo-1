@@ -23090,3 +23090,4 @@ Commit #639 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #640 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #641 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #642 | Meme: Deleting code is better than writing code.
+Commit #643 | Meme: To understand recursion, you must first understand recursion.
