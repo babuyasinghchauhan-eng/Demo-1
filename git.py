@@ -5222,3 +5222,4 @@ Commit #68 | Meme: Software and cathedrals are much the same – first we build 
 Commit #69 | Meme: In case of fire: git commit, git push, leave building.
 Commit #70 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #71 | Meme: It's not a bug, it's an undocumented feature.
+Commit #72 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
