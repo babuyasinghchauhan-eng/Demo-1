@@ -10107,3 +10107,4 @@ Commit #56 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #57 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #58 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #59 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #60 | Meme: To understand recursion, you must first understand recursion.
