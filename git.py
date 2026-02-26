@@ -22776,3 +22776,4 @@ Commit #325 | Meme: Deleting code is better than writing code.
 Commit #326 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #327 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #328 | Meme: It's not a bug, it's an undocumented feature.
+Commit #329 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
