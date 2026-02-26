@@ -6549,3 +6549,4 @@ Commit #495 | Meme: In case of fire: git commit, git push, leave building.
 Commit #496 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #497 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #498 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #499 | Meme: Real programmers count from 0.
