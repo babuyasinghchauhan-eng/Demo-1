@@ -17688,3 +17688,4 @@ Commit #237 | Meme: It's not a bug, it's an undocumented feature.
 Commit #238 | Meme: It's not a bug, it's an undocumented feature.
 Commit #239 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #240 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #241 | Meme: Real programmers count from 0.
