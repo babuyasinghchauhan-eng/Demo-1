@@ -22964,3 +22964,4 @@ Commit #513 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #514 | Meme: Deleting code is better than writing code.
 Commit #515 | Meme: In case of fire: git commit, git push, leave building.
 Commit #516 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #517 | Meme: Real programmers count from 0.
