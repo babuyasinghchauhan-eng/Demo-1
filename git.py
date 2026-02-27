@@ -9835,3 +9835,4 @@ Commit #784 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #785 | Meme: There's no place like 127.0.0.1
 Commit #786 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #787 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #788 | Meme: Why do Java developers wear glasses? Because they don't C#.
