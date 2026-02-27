@@ -5457,3 +5457,4 @@ Commit #303 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #304 | Meme: To understand recursion, you must first understand recursion.
 Commit #305 | Meme: Real programmers count from 0.
 Commit #306 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #307 | Meme: There are 10 types of people: those who understand binary, and those who don't.
