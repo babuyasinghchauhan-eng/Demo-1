@@ -23107,3 +23107,4 @@ Commit #656 | Meme: Deleting code is better than writing code.
 Commit #657 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #658 | Meme: It's not a bug, it's an undocumented feature.
 Commit #659 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #660 | Meme: There are 10 types of people: those who understand binary, and those who don't.
