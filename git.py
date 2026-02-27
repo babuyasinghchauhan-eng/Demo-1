@@ -13297,3 +13297,4 @@ Commit #846 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #847 | Meme: Real programmers count from 0.
 Commit #848 | Meme: There's no place like 127.0.0.1
 Commit #849 | Meme: There's no place like 127.0.0.1
+Commit #850 | Meme: To understand recursion, you must first understand recursion.
