@@ -18767,3 +18767,4 @@ Commit #316 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #317 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #318 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #319 | Meme: There's no place like 127.0.0.1
+Commit #320 | Meme: Real programmers count from 0.
