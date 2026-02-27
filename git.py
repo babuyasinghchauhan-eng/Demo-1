@@ -23360,3 +23360,4 @@ Commit #909 | Meme: There are 10 types of people: those who understand binary, a
 Commit #910 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #911 | Meme: Real programmers count from 0.
 Commit #912 | Meme: There's no place like 127.0.0.1
+Commit #913 | Meme: It's not a bug, it's an undocumented feature.
