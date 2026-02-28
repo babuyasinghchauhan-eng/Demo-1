@@ -22136,3 +22136,4 @@ Commit #685 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #686 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #687 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #688 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #689 | Meme: Why do Java developers wear glasses? Because they don't C#.
