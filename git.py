@@ -18446,3 +18446,4 @@ Commit #995 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #996 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #997 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #998 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #999 | Meme: Real programmers count from 0.
