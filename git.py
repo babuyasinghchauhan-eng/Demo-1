@@ -22074,3 +22074,4 @@ Commit #623 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #624 | Meme: It's not a bug, it's an undocumented feature.
 Commit #625 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #626 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #627 | Meme: Hide and seek champion since 1958: ';' in C/C++
