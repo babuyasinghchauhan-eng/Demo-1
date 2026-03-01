@@ -10713,3 +10713,4 @@ Commit #662 | Meme: There are 10 types of people: those who understand binary, a
 Commit #663 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #664 | Meme: To understand recursion, you must first understand recursion.
 Commit #665 | Meme: It's not a bug, it's an undocumented feature.
+Commit #666 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
