@@ -6730,3 +6730,4 @@ Commit #676 | Meme: There's no place like 127.0.0.1
 Commit #677 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #678 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #679 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #680 | Meme: Hide and seek champion since 1958: ';' in C/C++
