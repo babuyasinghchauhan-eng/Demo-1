@@ -12922,3 +12922,4 @@ Commit #471 | Meme: There's no place like 127.0.0.1
 Commit #472 | Meme: It's not a bug, it's an undocumented feature.
 Commit #473 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #474 | Meme: It's not a bug, it's an undocumented feature.
+Commit #475 | Meme: Real programmers count from 0.
