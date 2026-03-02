@@ -9736,3 +9736,4 @@ Commit #685 | Meme: There are 10 types of people: those who understand binary, a
 Commit #686 | Meme: Real programmers count from 0.
 Commit #687 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #688 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #689 | Meme: It's not a bug, it's an undocumented feature.
