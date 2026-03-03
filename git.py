@@ -6179,3 +6179,4 @@ Commit #125 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #126 | Meme: Deleting code is better than writing code.
 Commit #127 | Meme: To understand recursion, you must first understand recursion.
 Commit #128 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #129 | Meme: Real programmers count from 0.
