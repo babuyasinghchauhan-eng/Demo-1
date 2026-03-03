@@ -13289,3 +13289,4 @@ Commit #838 | Meme: There are 10 types of people: those who understand binary, a
 Commit #839 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #840 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #841 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #842 | Meme: Real programmers count from 0.
