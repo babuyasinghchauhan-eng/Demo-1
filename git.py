@@ -6850,3 +6850,4 @@ Commit #796 | Meme: There's no place like 127.0.0.1
 Commit #797 | Meme: In case of fire: git commit, git push, leave building.
 Commit #798 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #799 | Meme: It's not a bug, it's an undocumented feature.
+Commit #800 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
