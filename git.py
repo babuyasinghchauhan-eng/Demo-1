@@ -22118,3 +22118,4 @@ Commit #667 | Meme: Deleting code is better than writing code.
 Commit #668 | Meme: To understand recursion, you must first understand recursion.
 Commit #669 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #670 | Meme: To understand recursion, you must first understand recursion.
+Commit #671 | Meme: There are 10 types of people: those who understand binary, and those who don't.
