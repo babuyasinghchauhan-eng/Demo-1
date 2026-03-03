@@ -22107,3 +22107,4 @@ Commit #656 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #657 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #658 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #659 | Meme: It's not a bug, it's an undocumented feature.
+Commit #660 | Meme: There are 10 types of people: those who understand binary, and those who don't.
