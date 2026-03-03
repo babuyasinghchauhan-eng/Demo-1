@@ -22390,3 +22390,4 @@ Commit #939 | Meme: Software and cathedrals are much the same – first we build
 Commit #940 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #941 | Meme: Deleting code is better than writing code.
 Commit #942 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #943 | Meme: In case of fire: git commit, git push, leave building.
