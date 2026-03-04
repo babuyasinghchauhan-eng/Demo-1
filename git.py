@@ -10299,3 +10299,4 @@ Commit #248 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #249 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #250 | Meme: Deleting code is better than writing code.
 Commit #251 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #252 | Meme: Why do Java developers wear glasses? Because they don't C#.
