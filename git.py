@@ -9202,3 +9202,4 @@ Commit #151 | Meme: There's no place like 127.0.0.1
 Commit #152 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #153 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #154 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #155 | Meme: To understand recursion, you must first understand recursion.
