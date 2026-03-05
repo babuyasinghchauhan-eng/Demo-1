@@ -22446,3 +22446,4 @@ Commit #995 | Meme: Deleting code is better than writing code.
 Commit #996 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #997 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #998 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #999 | Meme: There are 10 types of people: those who understand binary, and those who don't.
