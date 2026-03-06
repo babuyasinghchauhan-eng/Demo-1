@@ -12711,3 +12711,4 @@ Commit #260 | Meme: There are 10 types of people: those who understand binary, a
 Commit #261 | Meme: Real programmers count from 0.
 Commit #262 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #263 | Meme: Deleting code is better than writing code.
+Commit #264 | Meme: To understand recursion, you must first understand recursion.
