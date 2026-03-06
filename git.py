@@ -21742,3 +21742,4 @@ Commit #291 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #292 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #293 | Meme: Deleting code is better than writing code.
 Commit #294 | Meme: To understand recursion, you must first understand recursion.
+Commit #295 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
