@@ -9606,3 +9606,4 @@ Commit #555 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #556 | Meme: To understand recursion, you must first understand recursion.
 Commit #557 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #558 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #559 | Meme: Why do Java developers wear glasses? Because they don't C#.
