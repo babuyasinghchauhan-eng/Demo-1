@@ -10498,3 +10498,4 @@ Commit #447 | Meme: There's no place like 127.0.0.1
 Commit #448 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #449 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #450 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #451 | Meme: To understand recursion, you must first understand recursion.
