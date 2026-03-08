@@ -9667,3 +9667,4 @@ Commit #616 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #617 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #618 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #619 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #620 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
