@@ -9382,3 +9382,4 @@ Commit #331 | Meme: There are 10 types of people: those who understand binary, a
 Commit #332 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #333 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #334 | Meme: Real programmers count from 0.
+Commit #335 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
