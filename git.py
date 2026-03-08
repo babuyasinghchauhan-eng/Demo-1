@@ -22198,3 +22198,4 @@ Commit #747 | Meme: To understand recursion, you must first understand recursion
 Commit #748 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #749 | Meme: Deleting code is better than writing code.
 Commit #750 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #751 | Meme: Hide and seek champion since 1958: ';' in C/C++
