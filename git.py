@@ -17520,3 +17520,4 @@ Commit #69 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #70 | Meme: It's not a bug, it's an undocumented feature.
 Commit #71 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #72 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #73 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
