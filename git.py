@@ -9938,3 +9938,4 @@ Commit #887 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #888 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #889 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #890 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #891 | Meme: Deleting code is better than writing code.
