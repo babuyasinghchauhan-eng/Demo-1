@@ -47,3 +47,4 @@ Commit #45 | Meme: There are 10 types of people: those who understand binary, an
 Commit #46 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #47 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #48 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #49 | Meme: There are 10 types of people: those who understand binary, and those who don't.
