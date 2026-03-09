@@ -7265,3 +7265,4 @@ Commit #212 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #213 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #214 | Meme: In case of fire: git commit, git push, leave building.
 Commit #215 | Meme: There's no place like 127.0.0.1
+Commit #216 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
