@@ -22170,3 +22170,4 @@ Commit #719 | Meme: There are 10 types of people: those who understand binary, a
 Commit #720 | Meme: Deleting code is better than writing code.
 Commit #721 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #722 | Meme: To understand recursion, you must first understand recursion.
+Commit #723 | Meme: Real programmers count from 0.
