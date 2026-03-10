@@ -13119,3 +13119,4 @@ Commit #668 | Meme: Software and cathedrals are much the same – first we build
 Commit #669 | Meme: Real programmers count from 0.
 Commit #670 | Meme: Real programmers count from 0.
 Commit #671 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #672 | Meme: In case of fire: git commit, git push, leave building.
