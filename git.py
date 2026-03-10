@@ -39,3 +39,4 @@ Commit #37 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #38 | Meme: It's not a bug, it's an undocumented feature.
 Commit #39 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #40 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #41 | Meme: Real programmers count from 0.
