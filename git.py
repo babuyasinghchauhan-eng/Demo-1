@@ -5923,3 +5923,4 @@ Commit #769 | Meme: In case of fire: git commit, git push, leave building.
 Commit #770 | Meme: Real programmers count from 0.
 Commit #771 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #772 | Meme: In case of fire: git commit, git push, leave building.
+Commit #773 | Meme: Why do Java developers wear glasses? Because they don't C#.
