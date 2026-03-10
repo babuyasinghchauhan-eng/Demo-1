@@ -5455,3 +5455,4 @@ Commit #301 | Meme: There are 10 types of people: those who understand binary, a
 Commit #302 | Meme: It's not a bug, it's an undocumented feature.
 Commit #303 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #304 | Meme: To understand recursion, you must first understand recursion.
+Commit #305 | Meme: Real programmers count from 0.
