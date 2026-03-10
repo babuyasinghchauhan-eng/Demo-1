@@ -10628,3 +10628,4 @@ Commit #577 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #578 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #579 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #580 | Meme: It's not a bug, it's an undocumented feature.
+Commit #581 | Meme: There are 10 types of people: those who understand binary, and those who don't.
