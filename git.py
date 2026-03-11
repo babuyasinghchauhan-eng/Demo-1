@@ -18297,3 +18297,4 @@ Commit #846 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #847 | Meme: Real programmers count from 0.
 Commit #848 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #849 | Meme: In case of fire: git commit, git push, leave building.
+Commit #850 | Meme: Deleting code is better than writing code.
