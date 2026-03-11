@@ -19197,3 +19197,4 @@ Commit #746 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #747 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #748 | Meme: It's not a bug, it's an undocumented feature.
 Commit #749 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #750 | Meme: There are 10 types of people: those who understand binary, and those who don't.
