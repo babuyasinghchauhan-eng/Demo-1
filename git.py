@@ -7123,3 +7123,4 @@ Commit #70 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #71 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #72 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #73 | Meme: It's not a bug, it's an undocumented feature.
+Commit #74 | Meme: In case of fire: git commit, git push, leave building.
