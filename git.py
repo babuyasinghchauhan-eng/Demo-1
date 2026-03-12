@@ -9148,3 +9148,4 @@ Commit #97 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #98 | Meme: Real programmers count from 0.
 Commit #99 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #100 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #101 | Meme: In case of fire: git commit, git push, leave building.
