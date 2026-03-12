@@ -9090,3 +9090,4 @@ Commit #39 | Meme: It's not a bug, it's an undocumented feature.
 Commit #40 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #41 | Meme: Real programmers count from 0.
 Commit #42 | Meme: Deleting code is better than writing code.
+Commit #43 | Meme: Hide and seek champion since 1958: ';' in C/C++
