@@ -17472,3 +17472,4 @@ Commit #21 | Meme: Software and cathedrals are much the same – first we build 
 Commit #22 | Meme: Deleting code is better than writing code.
 Commit #23 | Meme: Deleting code is better than writing code.
 Commit #24 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #25 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
