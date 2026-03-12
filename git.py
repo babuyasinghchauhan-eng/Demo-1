@@ -7242,3 +7242,4 @@ Commit #189 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #190 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #191 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #192 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #193 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
