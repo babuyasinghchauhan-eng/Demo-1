@@ -18331,3 +18331,4 @@ Commit #880 | Meme: It's not a bug, it's an undocumented feature.
 Commit #881 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #882 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #883 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #884 | Meme: To understand recursion, you must first understand recursion.
