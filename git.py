@@ -13328,3 +13328,4 @@ Commit #877 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #878 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #879 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #880 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #881 | Meme: Deleting code is better than writing code.
