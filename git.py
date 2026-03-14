@@ -17564,3 +17564,4 @@ Commit #113 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #114 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #115 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #116 | Meme: Deleting code is better than writing code.
+Commit #117 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
