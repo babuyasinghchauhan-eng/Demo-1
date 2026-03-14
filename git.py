@@ -7308,3 +7308,4 @@ Commit #255 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #256 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #257 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #258 | Meme: Real programmers count from 0.
+Commit #259 | Meme: To understand recursion, you must first understand recursion.
