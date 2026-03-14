@@ -8006,3 +8006,4 @@ Commit #953 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #954 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #955 | Meme: To understand recursion, you must first understand recursion.
 Commit #956 | Meme: Deleting code is better than writing code.
+Commit #957 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
