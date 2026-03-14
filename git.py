@@ -10784,3 +10784,4 @@ Commit #733 | Meme: In case of fire: git commit, git push, leave building.
 Commit #734 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #735 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #736 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #737 | Meme: To understand recursion, you must first understand recursion.
