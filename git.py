@@ -10762,3 +10762,4 @@ Commit #711 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #712 | Meme: Deleting code is better than writing code.
 Commit #713 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #714 | Meme: Deleting code is better than writing code.
+Commit #715 | Meme: To understand recursion, you must first understand recursion.
