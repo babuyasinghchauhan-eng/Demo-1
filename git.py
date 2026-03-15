@@ -17514,3 +17514,4 @@ Commit #63 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #64 | Meme: In case of fire: git commit, git push, leave building.
 Commit #65 | Meme: In case of fire: git commit, git push, leave building.
 Commit #66 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #67 | Meme: To understand recursion, you must first understand recursion.
