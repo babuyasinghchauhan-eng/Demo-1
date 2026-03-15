@@ -8018,3 +8018,4 @@ Commit #965 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #966 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #967 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #968 | Meme: In case of fire: git commit, git push, leave building.
+Commit #969 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
