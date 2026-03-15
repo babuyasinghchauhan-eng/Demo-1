@@ -22404,3 +22404,4 @@ Commit #953 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #954 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #955 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #956 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #957 | Meme: There are 10 types of people: those who understand binary, and those who don't.
