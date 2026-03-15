@@ -9762,3 +9762,4 @@ Commit #711 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #712 | Meme: Deleting code is better than writing code.
 Commit #713 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #714 | Meme: Deleting code is better than writing code.
+Commit #715 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
