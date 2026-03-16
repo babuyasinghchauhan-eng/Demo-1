@@ -11032,3 +11032,4 @@ Commit #981 | Meme: Software and cathedrals are much the same – first we build
 Commit #982 | Meme: It's not a bug, it's an undocumented feature.
 Commit #983 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #984 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #985 | Meme: Hide and seek champion since 1958: ';' in C/C++
