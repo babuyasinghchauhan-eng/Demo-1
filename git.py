@@ -9852,3 +9852,4 @@ Commit #801 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #802 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #803 | Meme: Deleting code is better than writing code.
 Commit #804 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #805 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
