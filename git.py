@@ -17791,3 +17791,4 @@ Commit #340 | Meme: In case of fire: git commit, git push, leave building.
 Commit #341 | Meme: Deleting code is better than writing code.
 Commit #342 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #343 | Meme: It's not a bug, it's an undocumented feature.
+Commit #344 | Meme: Real programmers count from 0.
