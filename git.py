@@ -21795,3 +21795,4 @@ Commit #344 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #345 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #346 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #347 | Meme: Deleting code is better than writing code.
+Commit #348 | Meme: Real programmers count from 0.
