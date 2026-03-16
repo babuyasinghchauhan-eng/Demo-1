@@ -12672,3 +12672,4 @@ Commit #221 | Meme: Real programmers count from 0.
 Commit #222 | Meme: Deleting code is better than writing code.
 Commit #223 | Meme: To understand recursion, you must first understand recursion.
 Commit #224 | Meme: Deleting code is better than writing code.
+Commit #225 | Meme: Why do Java developers wear glasses? Because they don't C#.
