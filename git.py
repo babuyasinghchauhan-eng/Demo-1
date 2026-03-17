@@ -5942,3 +5942,4 @@ Commit #788 | Meme: It's not a bug, it's an undocumented feature.
 Commit #789 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #790 | Meme: There's no place like 127.0.0.1
 Commit #791 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #792 | Meme: Real programmers count from 0.
