@@ -21597,3 +21597,4 @@ Commit #146 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #147 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #148 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #149 | Meme: Real programmers count from 0.
+Commit #150 | Meme: Deleting code is better than writing code.
