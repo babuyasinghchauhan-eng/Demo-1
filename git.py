@@ -7090,3 +7090,4 @@ Commit #37 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #38 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #39 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #40 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #41 | Meme: To understand recursion, you must first understand recursion.
