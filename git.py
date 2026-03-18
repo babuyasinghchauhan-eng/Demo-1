@@ -7989,3 +7989,4 @@ Commit #936 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #937 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #938 | Meme: To understand recursion, you must first understand recursion.
 Commit #939 | Meme: It's not a bug, it's an undocumented feature.
+Commit #940 | Meme: Hide and seek champion since 1958: ';' in C/C++
