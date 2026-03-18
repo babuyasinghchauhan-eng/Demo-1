@@ -10465,3 +10465,4 @@ Commit #414 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #415 | Meme: Deleting code is better than writing code.
 Commit #416 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #417 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #418 | Meme: Real programmers count from 0.
