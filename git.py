@@ -21820,3 +21820,4 @@ Commit #369 | Meme: There are 10 types of people: those who understand binary, a
 Commit #370 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #371 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #372 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #373 | Meme: There are 10 types of people: those who understand binary, and those who don't.
