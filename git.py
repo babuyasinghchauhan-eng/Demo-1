@@ -10777,3 +10777,4 @@ Commit #726 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #727 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #728 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #729 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #730 | Meme: Deleting code is better than writing code.
