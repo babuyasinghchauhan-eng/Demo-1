@@ -5171,3 +5171,4 @@ Commit #17 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #18 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #19 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #20 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #21 | Meme: To understand recursion, you must first understand recursion.
