@@ -18193,3 +18193,4 @@ Commit #742 | Meme: There's no place like 127.0.0.1
 Commit #743 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #744 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #745 | Meme: There's no place like 127.0.0.1
+Commit #746 | Meme: There are 10 types of people: those who understand binary, and those who don't.
