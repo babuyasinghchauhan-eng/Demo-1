@@ -9496,3 +9496,4 @@ Commit #445 | Meme: It's not a bug, it's an undocumented feature.
 Commit #446 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #447 | Meme: It's not a bug, it's an undocumented feature.
 Commit #448 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #449 | Meme: Why do Java developers wear glasses? Because they don't C#.
