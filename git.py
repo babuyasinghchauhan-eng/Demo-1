@@ -21718,3 +21718,4 @@ Commit #267 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #268 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #269 | Meme: Real programmers count from 0.
 Commit #270 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #271 | Meme: There are 10 types of people: those who understand binary, and those who don't.
