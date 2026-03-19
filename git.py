@@ -9107,3 +9107,4 @@ Commit #56 | Meme: Deleting code is better than writing code.
 Commit #57 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #58 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #59 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #60 | Meme: In case of fire: git commit, git push, leave building.
