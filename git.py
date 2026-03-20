@@ -18682,3 +18682,4 @@ Commit #231 | Meme: There's no place like 127.0.0.1
 Commit #232 | Meme: To understand recursion, you must first understand recursion.
 Commit #233 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #234 | Meme: To understand recursion, you must first understand recursion.
+Commit #235 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
