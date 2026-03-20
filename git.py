@@ -22289,3 +22289,4 @@ Commit #838 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #839 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #840 | Meme: It's not a bug, it's an undocumented feature.
 Commit #841 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #842 | Meme: Why do Java developers wear glasses? Because they don't C#.
