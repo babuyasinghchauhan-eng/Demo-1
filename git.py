@@ -19179,3 +19179,4 @@ Commit #728 | Meme: Real programmers count from 0.
 Commit #729 | Meme: Real programmers count from 0.
 Commit #730 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #731 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #732 | Meme: Hide and seek champion since 1958: ';' in C/C++
