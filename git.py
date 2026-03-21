@@ -5249,3 +5249,4 @@ Commit #95 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #96 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #97 | Meme: It's not a bug, it's an undocumented feature.
 Commit #98 | Meme: It's not a bug, it's an undocumented feature.
+Commit #99 | Meme: In case of fire: git commit, git push, leave building.
