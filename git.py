@@ -17524,3 +17524,4 @@ Commit #73 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #74 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #75 | Meme: There's no place like 127.0.0.1
 Commit #76 | Meme: There's no place like 127.0.0.1
+Commit #77 | Meme: There are 10 types of people: those who understand binary, and those who don't.
