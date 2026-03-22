@@ -5289,3 +5289,4 @@ Commit #135 | Meme: In case of fire: git commit, git push, leave building.
 Commit #136 | Meme: In case of fire: git commit, git push, leave building.
 Commit #137 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #138 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #139 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
