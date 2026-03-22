@@ -10555,3 +10555,4 @@ Commit #504 | Meme: There's no place like 127.0.0.1
 Commit #505 | Meme: It's not a bug, it's an undocumented feature.
 Commit #506 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #507 | Meme: Real programmers count from 0.
+Commit #508 | Meme: It's not a bug, it's an undocumented feature.
