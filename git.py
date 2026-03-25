@@ -7864,3 +7864,4 @@ Commit #811 | Meme: To understand recursion, you must first understand recursion
 Commit #812 | Meme: In case of fire: git commit, git push, leave building.
 Commit #813 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #814 | Meme: In case of fire: git commit, git push, leave building.
+Commit #815 | Meme: Real programmers count from 0.
