@@ -9378,3 +9378,4 @@ Commit #327 | Meme: Software and cathedrals are much the same – first we build
 Commit #328 | Meme: To understand recursion, you must first understand recursion.
 Commit #329 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #330 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #331 | Meme: There are 10 types of people: those who understand binary, and those who don't.
