@@ -10385,3 +10385,4 @@ Commit #334 | Meme: To understand recursion, you must first understand recursion
 Commit #335 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #336 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #337 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #338 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
