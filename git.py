@@ -18428,3 +18428,4 @@ Commit #977 | Meme: Software and cathedrals are much the same – first we build
 Commit #978 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #979 | Meme: To understand recursion, you must first understand recursion.
 Commit #980 | Meme: It's not a bug, it's an undocumented feature.
+Commit #981 | Meme: Real programmers count from 0.
