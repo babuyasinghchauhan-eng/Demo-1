@@ -5709,3 +5709,4 @@ Commit #555 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #556 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #557 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #558 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #559 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
