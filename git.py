@@ -10936,3 +10936,4 @@ Commit #885 | Meme: There are 10 types of people: those who understand binary, a
 Commit #886 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #887 | Meme: Real programmers count from 0.
 Commit #888 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #889 | Meme: To understand recursion, you must first understand recursion.
