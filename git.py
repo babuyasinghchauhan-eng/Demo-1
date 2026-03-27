@@ -12854,3 +12854,4 @@ Commit #403 | Meme: There's no place like 127.0.0.1
 Commit #404 | Meme: To understand recursion, you must first understand recursion.
 Commit #405 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #406 | Meme: Real programmers count from 0.
+Commit #407 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
