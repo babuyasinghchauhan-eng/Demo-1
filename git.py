@@ -13303,3 +13303,4 @@ Commit #852 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #853 | Meme: In case of fire: git commit, git push, leave building.
 Commit #854 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #855 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #856 | Meme: Deleting code is better than writing code.
