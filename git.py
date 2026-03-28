@@ -12761,3 +12761,4 @@ Commit #310 | Meme: In case of fire: git commit, git push, leave building.
 Commit #311 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #312 | Meme: Deleting code is better than writing code.
 Commit #313 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #314 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
