@@ -10698,3 +10698,4 @@ Commit #647 | Meme: There's no place like 127.0.0.1
 Commit #648 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #649 | Meme: There's no place like 127.0.0.1
 Commit #650 | Meme: There's no place like 127.0.0.1
+Commit #651 | Meme: Real programmers count from 0.
