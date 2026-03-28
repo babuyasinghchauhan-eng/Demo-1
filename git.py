@@ -9840,3 +9840,4 @@ Commit #789 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #790 | Meme: Deleting code is better than writing code.
 Commit #791 | Meme: Real programmers count from 0.
 Commit #792 | Meme: Real programmers count from 0.
+Commit #793 | Meme: Deleting code is better than writing code.
