@@ -22209,3 +22209,4 @@ Commit #758 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #759 | Meme: To understand recursion, you must first understand recursion.
 Commit #760 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #761 | Meme: Deleting code is better than writing code.
+Commit #762 | Meme: Hide and seek champion since 1958: ';' in C/C++
