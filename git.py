@@ -21904,3 +21904,4 @@ Commit #453 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #454 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #455 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #456 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #457 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
