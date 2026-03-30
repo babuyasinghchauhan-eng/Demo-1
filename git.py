@@ -6024,3 +6024,4 @@ Commit #870 | Meme: It's not a bug, it's an undocumented feature.
 Commit #871 | Meme: To understand recursion, you must first understand recursion.
 Commit #872 | Meme: In case of fire: git commit, git push, leave building.
 Commit #873 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #874 | Meme: Deleting code is better than writing code.
