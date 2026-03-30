@@ -5921,3 +5921,4 @@ Commit #767 | Meme: There's no place like 127.0.0.1
 Commit #768 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #769 | Meme: In case of fire: git commit, git push, leave building.
 Commit #770 | Meme: Real programmers count from 0.
+Commit #771 | Meme: Why do Java developers wear glasses? Because they don't C#.
