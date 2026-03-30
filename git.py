@@ -10742,3 +10742,4 @@ Commit #691 | Meme: Deleting code is better than writing code.
 Commit #692 | Meme: To understand recursion, you must first understand recursion.
 Commit #693 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #694 | Meme: To understand recursion, you must first understand recursion.
+Commit #695 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
