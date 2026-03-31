@@ -22400,3 +22400,4 @@ Commit #949 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #950 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #951 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #952 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #953 | Meme: Hide and seek champion since 1958: ';' in C/C++
