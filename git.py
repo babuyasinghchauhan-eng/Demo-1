@@ -17783,3 +17783,4 @@ Commit #332 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #333 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #334 | Meme: There's no place like 127.0.0.1
 Commit #335 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #336 | Meme: To understand recursion, you must first understand recursion.
