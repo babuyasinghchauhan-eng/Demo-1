@@ -10625,3 +10625,4 @@ Commit #574 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #575 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #576 | Meme: It's not a bug, it's an undocumented feature.
 Commit #577 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #578 | Meme: Why do Java developers wear glasses? Because they don't C#.
