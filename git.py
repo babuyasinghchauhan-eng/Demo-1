@@ -12788,3 +12788,4 @@ Commit #337 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #338 | Meme: In case of fire: git commit, git push, leave building.
 Commit #339 | Meme: There's no place like 127.0.0.1
 Commit #340 | Meme: Real programmers count from 0.
+Commit #341 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
