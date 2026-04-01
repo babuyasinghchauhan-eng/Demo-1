@@ -9056,3 +9056,4 @@ Commit #5 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers.
 Commit #6 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #7 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #8 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #9 | Meme: It's not a bug, it's an undocumented feature.
