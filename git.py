@@ -8004,3 +8004,4 @@ Commit #951 | Meme: To understand recursion, you must first understand recursion
 Commit #952 | Meme: It's not a bug, it's an undocumented feature.
 Commit #953 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #954 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #955 | Meme: To understand recursion, you must first understand recursion.
