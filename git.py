@@ -10352,3 +10352,4 @@ Commit #301 | Meme: There are 10 types of people: those who understand binary, a
 Commit #302 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #303 | Meme: In case of fire: git commit, git push, leave building.
 Commit #304 | Meme: To understand recursion, you must first understand recursion.
+Commit #305 | Meme: Deleting code is better than writing code.
