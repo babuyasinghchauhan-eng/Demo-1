@@ -17816,3 +17816,4 @@ Commit #365 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #366 | Meme: It's not a bug, it's an undocumented feature.
 Commit #367 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #368 | Meme: It's not a bug, it's an undocumented feature.
+Commit #369 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
