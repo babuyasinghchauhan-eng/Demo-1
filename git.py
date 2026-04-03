@@ -17892,3 +17892,4 @@ Commit #441 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #442 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #443 | Meme: It's not a bug, it's an undocumented feature.
 Commit #444 | Meme: Real programmers count from 0.
+Commit #445 | Meme: To understand recursion, you must first understand recursion.
