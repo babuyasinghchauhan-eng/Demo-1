@@ -18349,3 +18349,4 @@ Commit #898 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #899 | Meme: In case of fire: git commit, git push, leave building.
 Commit #900 | Meme: Deleting code is better than writing code.
 Commit #901 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #902 | Meme: There's no place like 127.0.0.1
