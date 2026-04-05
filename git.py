@@ -7956,3 +7956,4 @@ Commit #903 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #904 | Meme: There's no place like 127.0.0.1
 Commit #905 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #906 | Meme: There's no place like 127.0.0.1
+Commit #907 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
