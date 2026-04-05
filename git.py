@@ -10730,3 +10730,4 @@ Commit #679 | Meme: There are 10 types of people: those who understand binary, a
 Commit #680 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #681 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #682 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #683 | Meme: To understand recursion, you must first understand recursion.
