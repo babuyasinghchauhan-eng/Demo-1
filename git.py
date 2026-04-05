@@ -19354,3 +19354,4 @@ Commit #903 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #904 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #905 | Meme: It's not a bug, it's an undocumented feature.
 Commit #906 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #907 | Meme: There are 10 types of people: those who understand binary, and those who don't.
