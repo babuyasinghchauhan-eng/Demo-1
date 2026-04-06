@@ -17615,3 +17615,4 @@ Commit #164 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #165 | Meme: Deleting code is better than writing code.
 Commit #166 | Meme: Deleting code is better than writing code.
 Commit #167 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #168 | Meme: Real programmers count from 0.
