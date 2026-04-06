@@ -5823,3 +5823,4 @@ Commit #669 | Meme: It's not a bug, it's an undocumented feature.
 Commit #670 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #671 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #672 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #673 | Meme: Deleting code is better than writing code.
