@@ -10500,3 +10500,4 @@ Commit #449 | Meme: Software and cathedrals are much the same – first we build
 Commit #450 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #451 | Meme: To understand recursion, you must first understand recursion.
 Commit #452 | Meme: In case of fire: git commit, git push, leave building.
+Commit #453 | Meme: To understand recursion, you must first understand recursion.
