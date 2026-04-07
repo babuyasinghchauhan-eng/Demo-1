@@ -5713,3 +5713,4 @@ Commit #559 | Meme: Software and cathedrals are much the same – first we build
 Commit #560 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #561 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #562 | Meme: To understand recursion, you must first understand recursion.
+Commit #563 | Meme: Why do Java developers wear glasses? Because they don't C#.
