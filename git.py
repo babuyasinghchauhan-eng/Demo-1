@@ -22238,3 +22238,4 @@ Commit #787 | Meme: Software and cathedrals are much the same – first we build
 Commit #788 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #789 | Meme: Real programmers count from 0.
 Commit #790 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #791 | Meme: In case of fire: git commit, git push, leave building.
