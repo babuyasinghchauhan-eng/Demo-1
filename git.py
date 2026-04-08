@@ -9430,3 +9430,4 @@ Commit #379 | Meme: Software and cathedrals are much the same – first we build
 Commit #380 | Meme: Real programmers count from 0.
 Commit #381 | Meme: Real programmers count from 0.
 Commit #382 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #383 | Meme: Why do Java developers wear glasses? Because they don't C#.
