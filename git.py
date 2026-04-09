@@ -5673,3 +5673,4 @@ Commit #519 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #520 | Meme: There's no place like 127.0.0.1
 Commit #521 | Meme: It's not a bug, it's an undocumented feature.
 Commit #522 | Meme: Real programmers count from 0.
+Commit #523 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
