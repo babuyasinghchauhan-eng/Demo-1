@@ -7706,3 +7706,4 @@ Commit #653 | Meme: Real programmers count from 0.
 Commit #654 | Meme: It's not a bug, it's an undocumented feature.
 Commit #655 | Meme: To understand recursion, you must first understand recursion.
 Commit #656 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #657 | Meme: In case of fire: git commit, git push, leave building.
