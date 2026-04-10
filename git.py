@@ -10128,3 +10128,4 @@ Commit #77 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #78 | Meme: Deleting code is better than writing code.
 Commit #79 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #80 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #81 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
