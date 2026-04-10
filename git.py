@@ -18264,3 +18264,4 @@ Commit #813 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #814 | Meme: Deleting code is better than writing code.
 Commit #815 | Meme: Real programmers count from 0.
 Commit #816 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #817 | Meme: Deleting code is better than writing code.
