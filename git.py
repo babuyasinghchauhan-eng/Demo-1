@@ -12877,3 +12877,4 @@ Commit #426 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #427 | Meme: It's not a bug, it's an undocumented feature.
 Commit #428 | Meme: There's no place like 127.0.0.1
 Commit #429 | Meme: Real programmers count from 0.
+Commit #430 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
