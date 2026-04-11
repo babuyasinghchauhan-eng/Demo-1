@@ -5705,3 +5705,4 @@ Commit #551 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #552 | Meme: Deleting code is better than writing code.
 Commit #553 | Meme: There's no place like 127.0.0.1
 Commit #554 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #555 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
