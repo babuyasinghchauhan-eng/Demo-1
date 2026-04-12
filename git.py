@@ -17866,3 +17866,4 @@ Commit #415 | Meme: In case of fire: git commit, git push, leave building.
 Commit #416 | Meme: To understand recursion, you must first understand recursion.
 Commit #417 | Meme: There's no place like 127.0.0.1
 Commit #418 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #419 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
