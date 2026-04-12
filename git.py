@@ -5749,3 +5749,4 @@ Commit #595 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #596 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #597 | Meme: Real programmers count from 0.
 Commit #598 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #599 | Meme: In case of fire: git commit, git push, leave building.
