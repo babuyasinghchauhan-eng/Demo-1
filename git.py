@@ -12612,3 +12612,4 @@ Commit #161 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #162 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #163 | Meme: Deleting code is better than writing code.
 Commit #164 | Meme: In case of fire: git commit, git push, leave building.
+Commit #165 | Meme: There are 10 types of people: those who understand binary, and those who don't.
