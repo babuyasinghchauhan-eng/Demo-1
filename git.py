@@ -11388,3 +11388,4 @@ Commit #337 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #338 | Meme: It's not a bug, it's an undocumented feature.
 Commit #339 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #340 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #341 | Meme: In case of fire: git commit, git push, leave building.
