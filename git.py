@@ -17780,3 +17780,4 @@ Commit #329 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #330 | Meme: In case of fire: git commit, git push, leave building.
 Commit #331 | Meme: It's not a bug, it's an undocumented feature.
 Commit #332 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #333 | Meme: There are 10 types of people: those who understand binary, and those who don't.
