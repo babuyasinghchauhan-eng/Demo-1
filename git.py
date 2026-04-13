@@ -22130,3 +22130,4 @@ Commit #679 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #680 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #681 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #682 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #683 | Meme: Hide and seek champion since 1958: ';' in C/C++
