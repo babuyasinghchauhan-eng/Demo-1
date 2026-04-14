@@ -11693,3 +11693,4 @@ Commit #642 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #643 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #644 | Meme: There's no place like 127.0.0.1
 Commit #645 | Meme: It's not a bug, it's an undocumented feature.
+Commit #646 | Meme: Hide and seek champion since 1958: ';' in C/C++
