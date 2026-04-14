@@ -9909,3 +9909,4 @@ Commit #858 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #859 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #860 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #861 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #862 | Meme: There are 10 types of people: those who understand binary, and those who don't.
