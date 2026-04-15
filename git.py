@@ -11441,3 +11441,4 @@ Commit #390 | Meme: In case of fire: git commit, git push, leave building.
 Commit #391 | Meme: It's not a bug, it's an undocumented feature.
 Commit #392 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #393 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #394 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
