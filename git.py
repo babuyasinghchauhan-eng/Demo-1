@@ -7948,3 +7948,4 @@ Commit #895 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #896 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #897 | Meme: In case of fire: git commit, git push, leave building.
 Commit #898 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #899 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
