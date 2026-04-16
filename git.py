@@ -7670,3 +7670,4 @@ Commit #617 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #618 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #619 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #620 | Meme: Deleting code is better than writing code.
+Commit #621 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
