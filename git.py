@@ -7296,3 +7296,4 @@ Commit #243 | Meme: There's no place like 127.0.0.1
 Commit #244 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #245 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #246 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #247 | Meme: To understand recursion, you must first understand recursion.
