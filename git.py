@@ -5163,3 +5163,4 @@ Commit #9 | Meme: There's no place like 127.0.0.1
 Commit #10 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #11 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #12 | Meme: There's no place like 127.0.0.1
+Commit #13 | Meme: Real programmers count from 0.
