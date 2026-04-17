@@ -11763,3 +11763,4 @@ Commit #712 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #713 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #714 | Meme: To understand recursion, you must first understand recursion.
 Commit #715 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #716 | Meme: Real programmers count from 0.
