@@ -11309,3 +11309,4 @@ Commit #258 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #259 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #260 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #261 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #262 | Meme: Real programmers count from 0.
