@@ -11730,3 +11730,4 @@ Commit #679 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #680 | Meme: Real programmers count from 0.
 Commit #681 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #682 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #683 | Meme: Deleting code is better than writing code.
