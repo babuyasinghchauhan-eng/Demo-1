@@ -11095,3 +11095,4 @@ Commit #44 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #45 | Meme: Deleting code is better than writing code.
 Commit #46 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #47 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #48 | Meme: It's not a bug, it's an undocumented feature.
