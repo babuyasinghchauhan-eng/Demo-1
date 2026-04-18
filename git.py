@@ -5198,3 +5198,4 @@ Commit #44 | Meme: Real programmers count from 0.
 Commit #45 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #46 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #47 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #48 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
