@@ -19446,3 +19446,4 @@ Commit #995 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #996 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #997 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #998 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #999 | Meme: Why do Java developers wear glasses? Because they don't C#.
