@@ -7644,3 +7644,4 @@ Commit #591 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #592 | Meme: To understand recursion, you must first understand recursion.
 Commit #593 | Meme: Deleting code is better than writing code.
 Commit #594 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #595 | Meme: There's no place like 127.0.0.1
