@@ -7575,3 +7575,4 @@ Commit #522 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #523 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #524 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #525 | Meme: Real programmers count from 0.
+Commit #526 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
