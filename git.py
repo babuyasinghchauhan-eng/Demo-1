@@ -10372,3 +10372,4 @@ Commit #321 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #322 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #323 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #324 | Meme: There's no place like 127.0.0.1
+Commit #325 | Meme: Hide and seek champion since 1958: ';' in C/C++
