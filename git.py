@@ -22234,3 +22234,4 @@ Commit #783 | Meme: In case of fire: git commit, git push, leave building.
 Commit #784 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #785 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #786 | Meme: Real programmers count from 0.
+Commit #787 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
