@@ -10033,3 +10033,4 @@ Commit #982 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #983 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #984 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #985 | Meme: Deleting code is better than writing code.
+Commit #986 | Meme: Deleting code is better than writing code.
