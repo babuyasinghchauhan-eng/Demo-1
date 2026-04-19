@@ -11292,3 +11292,4 @@ Commit #241 | Meme: There's no place like 127.0.0.1
 Commit #242 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #243 | Meme: It's not a bug, it's an undocumented feature.
 Commit #244 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #245 | Meme: To understand recursion, you must first understand recursion.
