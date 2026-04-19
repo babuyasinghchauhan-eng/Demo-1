@@ -11416,3 +11416,4 @@ Commit #365 | Meme: Software and cathedrals are much the same – first we build
 Commit #366 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #367 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #368 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #369 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
