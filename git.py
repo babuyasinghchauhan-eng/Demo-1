@@ -11073,3 +11073,4 @@ Commit #22 | Meme: Real programmers count from 0.
 Commit #23 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #24 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #25 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #26 | Meme: Deleting code is better than writing code.
