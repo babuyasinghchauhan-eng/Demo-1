@@ -7224,3 +7224,4 @@ Commit #171 | Meme: Real programmers count from 0.
 Commit #172 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #173 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #174 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #175 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
