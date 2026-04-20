@@ -7072,3 +7072,4 @@ Commit #19 | Meme: There are 10 types of people: those who understand binary, an
 Commit #20 | Meme: In case of fire: git commit, git push, leave building.
 Commit #21 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #22 | Meme: In case of fire: git commit, git push, leave building.
+Commit #23 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
