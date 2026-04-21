@@ -10424,3 +10424,4 @@ Commit #373 | Meme: Real programmers count from 0.
 Commit #374 | Meme: It's not a bug, it's an undocumented feature.
 Commit #375 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #376 | Meme: To understand recursion, you must first understand recursion.
+Commit #377 | Meme: Deleting code is better than writing code.
