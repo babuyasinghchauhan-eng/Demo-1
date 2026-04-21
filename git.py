@@ -22111,3 +22111,4 @@ Commit #660 | Meme: There are 10 types of people: those who understand binary, a
 Commit #661 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #662 | Meme: In case of fire: git commit, git push, leave building.
 Commit #663 | Meme: In case of fire: git commit, git push, leave building.
+Commit #664 | Meme: Deleting code is better than writing code.
