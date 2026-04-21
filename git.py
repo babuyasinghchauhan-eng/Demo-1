@@ -10589,3 +10589,4 @@ Commit #538 | Meme: Deleting code is better than writing code.
 Commit #539 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #540 | Meme: Real programmers count from 0.
 Commit #541 | Meme: It's not a bug, it's an undocumented feature.
+Commit #542 | Meme: Hide and seek champion since 1958: ';' in C/C++
