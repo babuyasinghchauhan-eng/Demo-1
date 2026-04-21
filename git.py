@@ -21472,3 +21472,4 @@ Commit #21 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #22 | Meme: To understand recursion, you must first understand recursion.
 Commit #23 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #24 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #25 | Meme: In case of fire: git commit, git push, leave building.
