@@ -10835,3 +10835,4 @@ Commit #784 | Meme: There's no place like 127.0.0.1
 Commit #785 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #786 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #787 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #788 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
