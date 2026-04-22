@@ -9345,3 +9345,4 @@ Commit #294 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #295 | Meme: Deleting code is better than writing code.
 Commit #296 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #297 | Meme: In case of fire: git commit, git push, leave building.
+Commit #298 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
