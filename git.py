@@ -9375,3 +9375,4 @@ Commit #324 | Meme: It's not a bug, it's an undocumented feature.
 Commit #325 | Meme: In case of fire: git commit, git push, leave building.
 Commit #326 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #327 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #328 | Meme: To understand recursion, you must first understand recursion.
