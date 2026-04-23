@@ -11314,3 +11314,4 @@ Commit #263 | Meme: There are 10 types of people: those who understand binary, a
 Commit #264 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #265 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #266 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #267 | Meme: In case of fire: git commit, git push, leave building.
