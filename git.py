@@ -7371,3 +7371,4 @@ Commit #318 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #319 | Meme: In case of fire: git commit, git push, leave building.
 Commit #320 | Meme: To understand recursion, you must first understand recursion.
 Commit #321 | Meme: In case of fire: git commit, git push, leave building.
+Commit #322 | Meme: Deleting code is better than writing code.
