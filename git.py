@@ -18108,3 +18108,4 @@ Commit #657 | Meme: Real programmers count from 0.
 Commit #658 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #659 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #660 | Meme: Real programmers count from 0.
+Commit #661 | Meme: In case of fire: git commit, git push, leave building.
