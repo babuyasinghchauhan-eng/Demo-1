@@ -10793,3 +10793,4 @@ Commit #742 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #743 | Meme: It's not a bug, it's an undocumented feature.
 Commit #744 | Meme: Real programmers count from 0.
 Commit #745 | Meme: To understand recursion, you must first understand recursion.
+Commit #746 | Meme: Why do Java developers wear glasses? Because they don't C#.
