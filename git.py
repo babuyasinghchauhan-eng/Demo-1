@@ -10047,3 +10047,4 @@ Commit #996 | Meme: There's no place like 127.0.0.1
 Commit #997 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #998 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #999 | Meme: Real programmers count from 0.
+Commit #1000 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
