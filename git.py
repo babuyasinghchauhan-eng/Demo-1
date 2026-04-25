@@ -11220,3 +11220,4 @@ Commit #169 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #170 | Meme: To understand recursion, you must first understand recursion.
 Commit #171 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #172 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #173 | Meme: Deleting code is better than writing code.
