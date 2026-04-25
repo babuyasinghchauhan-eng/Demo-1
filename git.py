@@ -9234,3 +9234,4 @@ Commit #183 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #184 | Meme: It's not a bug, it's an undocumented feature.
 Commit #185 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #186 | Meme: To understand recursion, you must first understand recursion.
+Commit #187 | Meme: Real programmers count from 0.
