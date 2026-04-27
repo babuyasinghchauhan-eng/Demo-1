@@ -21523,3 +21523,4 @@ Commit #72 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #73 | Meme: Real programmers count from 0.
 Commit #74 | Meme: It's not a bug, it's an undocumented feature.
 Commit #75 | Meme: Real programmers count from 0.
+Commit #76 | Meme: Hide and seek champion since 1958: ';' in C/C++
