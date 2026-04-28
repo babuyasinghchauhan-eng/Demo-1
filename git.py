@@ -7141,3 +7141,4 @@ Commit #88 | Meme: Deleting code is better than writing code.
 Commit #89 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #90 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #91 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #92 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
