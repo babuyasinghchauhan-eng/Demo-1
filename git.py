@@ -5439,3 +5439,4 @@ Commit #285 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #286 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #287 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #288 | Meme: Deleting code is better than writing code.
+Commit #289 | Meme: Why do Java developers wear glasses? Because they don't C#.
