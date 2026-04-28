@@ -11412,3 +11412,4 @@ Commit #361 | Meme: In case of fire: git commit, git push, leave building.
 Commit #362 | Meme: In case of fire: git commit, git push, leave building.
 Commit #363 | Meme: Deleting code is better than writing code.
 Commit #364 | Meme: Deleting code is better than writing code.
+Commit #365 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
