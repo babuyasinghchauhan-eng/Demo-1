@@ -11926,3 +11926,4 @@ Commit #875 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #876 | Meme: To understand recursion, you must first understand recursion.
 Commit #877 | Meme: To understand recursion, you must first understand recursion.
 Commit #878 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #879 | Meme: Real programmers count from 0.
