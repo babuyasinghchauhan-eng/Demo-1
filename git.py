@@ -9570,3 +9570,4 @@ Commit #519 | Meme: There's no place like 127.0.0.1
 Commit #520 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #521 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #522 | Meme: It's not a bug, it's an undocumented feature.
+Commit #523 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
