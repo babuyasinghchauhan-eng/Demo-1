@@ -13164,3 +13164,4 @@ Commit #713 | Meme: It's not a bug, it's an undocumented feature.
 Commit #714 | Meme: Real programmers count from 0.
 Commit #715 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #716 | Meme: It's not a bug, it's an undocumented feature.
+Commit #717 | Meme: Deleting code is better than writing code.
