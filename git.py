@@ -11332,3 +11332,4 @@ Commit #281 | Meme: Software and cathedrals are much the same – first we build
 Commit #282 | Meme: Real programmers count from 0.
 Commit #283 | Meme: Deleting code is better than writing code.
 Commit #284 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #285 | Meme: To understand recursion, you must first understand recursion.
