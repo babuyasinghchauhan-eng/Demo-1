@@ -11334,3 +11334,4 @@ Commit #283 | Meme: Deleting code is better than writing code.
 Commit #284 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #285 | Meme: To understand recursion, you must first understand recursion.
 Commit #286 | Meme: There's no place like 127.0.0.1
+Commit #287 | Meme: Why do Java developers wear glasses? Because they don't C#.
