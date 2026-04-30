@@ -11710,3 +11710,4 @@ Commit #659 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #660 | Meme: Deleting code is better than writing code.
 Commit #661 | Meme: In case of fire: git commit, git push, leave building.
 Commit #662 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #663 | Meme: Hide and seek champion since 1958: ';' in C/C++
