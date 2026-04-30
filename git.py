@@ -7443,3 +7443,4 @@ Commit #390 | Meme: There's no place like 127.0.0.1
 Commit #391 | Meme: In case of fire: git commit, git push, leave building.
 Commit #392 | Meme: Real programmers count from 0.
 Commit #393 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #394 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
