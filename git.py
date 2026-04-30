@@ -21858,3 +21858,4 @@ Commit #407 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #408 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #409 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #410 | Meme: To understand recursion, you must first understand recursion.
+Commit #411 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
