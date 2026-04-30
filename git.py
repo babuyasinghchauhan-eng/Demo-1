@@ -9584,3 +9584,4 @@ Commit #533 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #534 | Meme: In case of fire: git commit, git push, leave building.
 Commit #535 | Meme: In case of fire: git commit, git push, leave building.
 Commit #536 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #537 | Meme: To understand recursion, you must first understand recursion.
