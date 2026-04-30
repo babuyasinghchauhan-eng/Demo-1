@@ -12010,3 +12010,4 @@ Commit #959 | Meme: In case of fire: git commit, git push, leave building.
 Commit #960 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #961 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #962 | Meme: It's not a bug, it's an undocumented feature.
+Commit #963 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
