@@ -21924,3 +21924,4 @@ Commit #473 | Meme: Software and cathedrals are much the same – first we build
 Commit #474 | Meme: To understand recursion, you must first understand recursion.
 Commit #475 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #476 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #477 | Meme: In case of fire: git commit, git push, leave building.
