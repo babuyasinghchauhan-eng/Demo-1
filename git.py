@@ -11958,3 +11958,4 @@ Commit #907 | Meme: In case of fire: git commit, git push, leave building.
 Commit #908 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #909 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #910 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #911 | Meme: Real programmers count from 0.
