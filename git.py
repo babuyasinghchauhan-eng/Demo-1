@@ -13335,3 +13335,4 @@ Commit #884 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #885 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #886 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #887 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #888 | Meme: There are 10 types of people: those who understand binary, and those who don't.
