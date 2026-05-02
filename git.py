@@ -11981,3 +11981,4 @@ Commit #930 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #931 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #932 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #933 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #934 | Meme: Real programmers count from 0.
