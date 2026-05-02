@@ -18138,3 +18138,4 @@ Commit #687 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #688 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #689 | Meme: It's not a bug, it's an undocumented feature.
 Commit #690 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #691 | Meme: Real programmers count from 0.
