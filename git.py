@@ -5812,3 +5812,4 @@ Commit #658 | Meme: Software and cathedrals are much the same – first we build
 Commit #659 | Meme: In case of fire: git commit, git push, leave building.
 Commit #660 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #661 | Meme: To understand recursion, you must first understand recursion.
+Commit #662 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
