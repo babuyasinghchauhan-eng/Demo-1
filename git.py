@@ -9904,3 +9904,4 @@ Commit #853 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #854 | Meme: In case of fire: git commit, git push, leave building.
 Commit #855 | Meme: It's not a bug, it's an undocumented feature.
 Commit #856 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #857 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
