@@ -11152,3 +11152,4 @@ Commit #101 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #102 | Meme: Deleting code is better than writing code.
 Commit #103 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #104 | Meme: To understand recursion, you must first understand recursion.
+Commit #105 | Meme: Real programmers count from 0.
