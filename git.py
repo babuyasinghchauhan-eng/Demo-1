@@ -9553,3 +9553,4 @@ Commit #502 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #503 | Meme: In case of fire: git commit, git push, leave building.
 Commit #504 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #505 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #506 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
