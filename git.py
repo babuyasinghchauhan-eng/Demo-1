@@ -22427,3 +22427,4 @@ Commit #976 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #977 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #978 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #979 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #980 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
