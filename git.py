@@ -17573,3 +17573,4 @@ Commit #122 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #123 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #124 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #125 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #126 | Meme: It's not a bug, it's an undocumented feature.
