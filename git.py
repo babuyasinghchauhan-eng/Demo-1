@@ -18267,3 +18267,4 @@ Commit #816 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #817 | Meme: Deleting code is better than writing code.
 Commit #818 | Meme: To understand recursion, you must first understand recursion.
 Commit #819 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #820 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
