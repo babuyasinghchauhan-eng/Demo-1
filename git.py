@@ -11618,3 +11618,4 @@ Commit #567 | Meme: There are 10 types of people: those who understand binary, a
 Commit #568 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #569 | Meme: Real programmers count from 0.
 Commit #570 | Meme: Real programmers count from 0.
+Commit #571 | Meme: Why do Java developers wear glasses? Because they don't C#.
