@@ -11133,3 +11133,4 @@ Commit #82 | Meme: Real programmers count from 0.
 Commit #83 | Meme: It's not a bug, it's an undocumented feature.
 Commit #84 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #85 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #86 | Meme: In case of fire: git commit, git push, leave building.
