@@ -11166,3 +11166,4 @@ Commit #115 | Meme: To understand recursion, you must first understand recursion
 Commit #116 | Meme: Real programmers count from 0.
 Commit #117 | Meme: Deleting code is better than writing code.
 Commit #118 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #119 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
