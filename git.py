@@ -18243,3 +18243,4 @@ Commit #792 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #793 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #794 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #795 | Meme: In case of fire: git commit, git push, leave building.
+Commit #796 | Meme: There are 10 types of people: those who understand binary, and those who don't.
