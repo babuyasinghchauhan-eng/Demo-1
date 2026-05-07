@@ -9828,3 +9828,4 @@ Commit #777 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #778 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #779 | Meme: Real programmers count from 0.
 Commit #780 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #781 | Meme: There's no place like 127.0.0.1
