@@ -7149,3 +7149,4 @@ Commit #96 | Meme: Software and cathedrals are much the same – first we build 
 Commit #97 | Meme: Deleting code is better than writing code.
 Commit #98 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #99 | Meme: To understand recursion, you must first understand recursion.
+Commit #100 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
