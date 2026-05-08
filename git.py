@@ -5594,3 +5594,4 @@ Commit #440 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #441 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #442 | Meme: In case of fire: git commit, git push, leave building.
 Commit #443 | Meme: It's not a bug, it's an undocumented feature.
+Commit #444 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
