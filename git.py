@@ -17967,3 +17967,4 @@ Commit #516 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #517 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #518 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #519 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #520 | Meme: Real programmers count from 0.
