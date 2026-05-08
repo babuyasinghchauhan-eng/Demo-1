@@ -21782,3 +21782,4 @@ Commit #331 | Meme: Real programmers count from 0.
 Commit #332 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #333 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #334 | Meme: Real programmers count from 0.
+Commit #335 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
