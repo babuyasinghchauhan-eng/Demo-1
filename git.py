@@ -12029,3 +12029,4 @@ Commit #978 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #979 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #980 | Meme: Deleting code is better than writing code.
 Commit #981 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #982 | Meme: It's not a bug, it's an undocumented feature.
