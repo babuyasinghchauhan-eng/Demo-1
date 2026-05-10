@@ -21615,3 +21615,4 @@ Commit #164 | Meme: Software and cathedrals are much the same – first we build
 Commit #165 | Meme: It's not a bug, it's an undocumented feature.
 Commit #166 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #167 | Meme: Deleting code is better than writing code.
+Commit #168 | Meme: Deleting code is better than writing code.
