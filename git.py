@@ -18057,3 +18057,4 @@ Commit #606 | Meme: Software and cathedrals are much the same – first we build
 Commit #607 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #608 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #609 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #610 | Meme: To understand recursion, you must first understand recursion.
