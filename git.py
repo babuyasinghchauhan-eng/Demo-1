@@ -11897,3 +11897,4 @@ Commit #846 | Meme: There's no place like 127.0.0.1
 Commit #847 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #848 | Meme: Deleting code is better than writing code.
 Commit #849 | Meme: Real programmers count from 0.
+Commit #850 | Meme: Why do Java developers wear glasses? Because they don't C#.
