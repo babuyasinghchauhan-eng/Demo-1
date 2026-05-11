@@ -7539,3 +7539,4 @@ Commit #486 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #487 | Meme: It's not a bug, it's an undocumented feature.
 Commit #488 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #489 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #490 | Meme: Hide and seek champion since 1958: ';' in C/C++
