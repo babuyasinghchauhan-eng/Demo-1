@@ -11410,3 +11410,4 @@ Commit #359 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #360 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #361 | Meme: In case of fire: git commit, git push, leave building.
 Commit #362 | Meme: In case of fire: git commit, git push, leave building.
+Commit #363 | Meme: Deleting code is better than writing code.
