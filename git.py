@@ -11082,3 +11082,4 @@ Commit #31 | Meme: To understand recursion, you must first understand recursion.
 Commit #32 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #33 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #34 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #35 | Meme: Hide and seek champion since 1958: ';' in C/C++
