@@ -9155,3 +9155,4 @@ Commit #104 | Meme: Deleting code is better than writing code.
 Commit #105 | Meme: Real programmers count from 0.
 Commit #106 | Meme: Deleting code is better than writing code.
 Commit #107 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #108 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
