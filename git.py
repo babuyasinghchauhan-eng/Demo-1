@@ -11949,3 +11949,4 @@ Commit #898 | Meme: In case of fire: git commit, git push, leave building.
 Commit #899 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #900 | Meme: Real programmers count from 0.
 Commit #901 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #902 | Meme: It's not a bug, it's an undocumented feature.
