@@ -11786,3 +11786,4 @@ Commit #735 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #736 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #737 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #738 | Meme: Deleting code is better than writing code.
+Commit #739 | Meme: There are 10 types of people: those who understand binary, and those who don't.
