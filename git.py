@@ -9782,3 +9782,4 @@ Commit #731 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #732 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #733 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #734 | Meme: In case of fire: git commit, git push, leave building.
+Commit #735 | Meme: Real programmers count from 0.
