@@ -22414,3 +22414,4 @@ Commit #963 | Meme: In case of fire: git commit, git push, leave building.
 Commit #964 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #965 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #966 | Meme: There's no place like 127.0.0.1
+Commit #967 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
