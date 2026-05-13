@@ -21982,3 +21982,4 @@ Commit #531 | Meme: It's not a bug, it's an undocumented feature.
 Commit #532 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #533 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #534 | Meme: To understand recursion, you must first understand recursion.
+Commit #535 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
