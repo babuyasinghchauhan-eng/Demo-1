@@ -8038,3 +8038,4 @@ Commit #985 | Meme: Software and cathedrals are much the same – first we build
 Commit #986 | Meme: Deleting code is better than writing code.
 Commit #987 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #988 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #989 | Meme: Why do Java developers wear glasses? Because they don't C#.
