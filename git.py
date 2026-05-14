@@ -17510,3 +17510,4 @@ Commit #59 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #60 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #61 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #62 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #63 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
