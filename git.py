@@ -5380,3 +5380,4 @@ Commit #226 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #227 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #228 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #229 | Meme: There's no place like 127.0.0.1
+Commit #230 | Meme: Real programmers count from 0.
