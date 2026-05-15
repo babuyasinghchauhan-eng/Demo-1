@@ -18367,3 +18367,4 @@ Commit #916 | Meme: There's no place like 127.0.0.1
 Commit #917 | Meme: To understand recursion, you must first understand recursion.
 Commit #918 | Meme: Real programmers count from 0.
 Commit #919 | Meme: There's no place like 127.0.0.1
+Commit #920 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
