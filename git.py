@@ -6029,3 +6029,4 @@ Commit #875 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #876 | Meme: Real programmers count from 0.
 Commit #877 | Meme: To understand recursion, you must first understand recursion.
 Commit #878 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #879 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
