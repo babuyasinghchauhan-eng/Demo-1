@@ -17926,3 +17926,4 @@ Commit #475 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #476 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #477 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #478 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #479 | Meme: Hide and seek champion since 1958: ';' in C/C++
