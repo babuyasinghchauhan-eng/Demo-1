@@ -18000,3 +18000,4 @@ Commit #549 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #550 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #551 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #552 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #553 | Meme: Deleting code is better than writing code.
