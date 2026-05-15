@@ -18430,3 +18430,4 @@ Commit #979 | Meme: To understand recursion, you must first understand recursion
 Commit #980 | Meme: It's not a bug, it's an undocumented feature.
 Commit #981 | Meme: Real programmers count from 0.
 Commit #982 | Meme: Deleting code is better than writing code.
+Commit #983 | Meme: Why do Java developers wear glasses? Because they don't C#.
