@@ -13047,3 +13047,4 @@ Commit #596 | Meme: There are 10 types of people: those who understand binary, a
 Commit #597 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #598 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #599 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #600 | Meme: There's no place like 127.0.0.1
