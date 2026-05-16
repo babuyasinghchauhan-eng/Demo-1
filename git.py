@@ -22035,3 +22035,4 @@ Commit #584 | Meme: Real programmers count from 0.
 Commit #585 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #586 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #587 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #588 | Meme: To understand recursion, you must first understand recursion.
