@@ -18829,3 +18829,4 @@ Commit #378 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #379 | Meme: Real programmers count from 0.
 Commit #380 | Meme: Real programmers count from 0.
 Commit #381 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #382 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
