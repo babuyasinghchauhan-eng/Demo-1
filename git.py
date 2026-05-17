@@ -12015,3 +12015,4 @@ Commit #964 | Meme: Real programmers count from 0.
 Commit #965 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #966 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #967 | Meme: There's no place like 127.0.0.1
+Commit #968 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
