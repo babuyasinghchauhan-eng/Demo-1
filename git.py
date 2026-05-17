@@ -9323,3 +9323,4 @@ Commit #272 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #273 | Meme: Deleting code is better than writing code.
 Commit #274 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #275 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #276 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
