@@ -12000,3 +12000,4 @@ Commit #949 | Meme: Software and cathedrals are much the same – first we build
 Commit #950 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #951 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #952 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #953 | Meme: Hide and seek champion since 1958: ';' in C/C++
