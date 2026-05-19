@@ -9167,3 +9167,4 @@ Commit #116 | Meme: In case of fire: git commit, git push, leave building.
 Commit #117 | Meme: To understand recursion, you must first understand recursion.
 Commit #118 | Meme: Deleting code is better than writing code.
 Commit #119 | Meme: Deleting code is better than writing code.
+Commit #120 | Meme: Hide and seek champion since 1958: ';' in C/C++
