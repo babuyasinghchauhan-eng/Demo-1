@@ -9246,3 +9246,4 @@ Commit #195 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #196 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #197 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #198 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #199 | Meme: There are 10 types of people: those who understand binary, and those who don't.
