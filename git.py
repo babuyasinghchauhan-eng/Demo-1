@@ -11673,3 +11673,4 @@ Commit #622 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #623 | Meme: To understand recursion, you must first understand recursion.
 Commit #624 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #625 | Meme: It's not a bug, it's an undocumented feature.
+Commit #626 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
