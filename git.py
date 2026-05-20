@@ -11752,3 +11752,4 @@ Commit #701 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #702 | Meme: To understand recursion, you must first understand recursion.
 Commit #703 | Meme: To understand recursion, you must first understand recursion.
 Commit #704 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #705 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
