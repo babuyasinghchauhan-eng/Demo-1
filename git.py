@@ -13017,3 +13017,4 @@ Commit #566 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #567 | Meme: In case of fire: git commit, git push, leave building.
 Commit #568 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #569 | Meme: Deleting code is better than writing code.
+Commit #570 | Meme: To understand recursion, you must first understand recursion.
