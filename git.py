@@ -5333,3 +5333,4 @@ Commit #179 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #180 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #181 | Meme: There's no place like 127.0.0.1
 Commit #182 | Meme: To understand recursion, you must first understand recursion.
+Commit #183 | Meme: Real programmers count from 0.
