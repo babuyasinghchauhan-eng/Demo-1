@@ -9159,3 +9159,4 @@ Commit #108 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #109 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #110 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #111 | Meme: It's not a bug, it's an undocumented feature.
+Commit #112 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
