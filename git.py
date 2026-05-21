@@ -9426,3 +9426,4 @@ Commit #375 | Meme: There's no place like 127.0.0.1
 Commit #376 | Meme: Deleting code is better than writing code.
 Commit #377 | Meme: In case of fire: git commit, git push, leave building.
 Commit #378 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #379 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
