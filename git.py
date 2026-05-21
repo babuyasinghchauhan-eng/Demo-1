@@ -11785,3 +11785,4 @@ Commit #734 | Meme: In case of fire: git commit, git push, leave building.
 Commit #735 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #736 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #737 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #738 | Meme: Deleting code is better than writing code.
