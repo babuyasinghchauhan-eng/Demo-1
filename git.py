@@ -11640,3 +11640,4 @@ Commit #589 | Meme: In case of fire: git commit, git push, leave building.
 Commit #590 | Meme: Real programmers count from 0.
 Commit #591 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #592 | Meme: Real programmers count from 0.
+Commit #593 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
