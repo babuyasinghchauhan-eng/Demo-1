@@ -9412,3 +9412,4 @@ Commit #361 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #362 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #363 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #364 | Meme: Deleting code is better than writing code.
+Commit #365 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
