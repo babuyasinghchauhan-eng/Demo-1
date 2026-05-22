@@ -21865,3 +21865,4 @@ Commit #414 | Meme: In case of fire: git commit, git push, leave building.
 Commit #415 | Meme: To understand recursion, you must first understand recursion.
 Commit #416 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #417 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #418 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
