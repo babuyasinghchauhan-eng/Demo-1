@@ -11797,3 +11797,4 @@ Commit #746 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #747 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #748 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #749 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #750 | Meme: Deleting code is better than writing code.
