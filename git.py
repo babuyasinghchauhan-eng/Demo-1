@@ -11609,3 +11609,4 @@ Commit #558 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #559 | Meme: Deleting code is better than writing code.
 Commit #560 | Meme: Deleting code is better than writing code.
 Commit #561 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #562 | Meme: Hide and seek champion since 1958: ';' in C/C++
