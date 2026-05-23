@@ -7934,3 +7934,4 @@ Commit #881 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #882 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #883 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #884 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #885 | Meme: Hide and seek champion since 1958: ';' in C/C++
