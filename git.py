@@ -11836,3 +11836,4 @@ Commit #785 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #786 | Meme: Deleting code is better than writing code.
 Commit #787 | Meme: There's no place like 127.0.0.1
 Commit #788 | Meme: It's not a bug, it's an undocumented feature.
+Commit #789 | Meme: There are 10 types of people: those who understand binary, and those who don't.
