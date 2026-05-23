@@ -10025,3 +10025,4 @@ Commit #974 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #975 | Meme: It's not a bug, it's an undocumented feature.
 Commit #976 | Meme: It's not a bug, it's an undocumented feature.
 Commit #977 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #978 | Meme: Real programmers count from 0.
