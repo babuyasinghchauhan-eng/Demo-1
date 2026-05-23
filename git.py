@@ -11160,3 +11160,4 @@ Commit #109 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #110 | Meme: There's no place like 127.0.0.1
 Commit #111 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #112 | Meme: In case of fire: git commit, git push, leave building.
+Commit #113 | Meme: Hide and seek champion since 1958: ';' in C/C++
