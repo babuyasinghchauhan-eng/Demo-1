@@ -5516,3 +5516,4 @@ Commit #362 | Meme: To understand recursion, you must first understand recursion
 Commit #363 | Meme: It's not a bug, it's an undocumented feature.
 Commit #364 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #365 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #366 | Meme: Why do Java developers wear glasses? Because they don't C#.
