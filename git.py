@@ -5305,3 +5305,4 @@ Commit #151 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #152 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #153 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #154 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #155 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
