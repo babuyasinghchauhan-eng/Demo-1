@@ -7160,3 +7160,4 @@ Commit #107 | Meme: In case of fire: git commit, git push, leave building.
 Commit #108 | Meme: In case of fire: git commit, git push, leave building.
 Commit #109 | Meme: Deleting code is better than writing code.
 Commit #110 | Meme: There's no place like 127.0.0.1
+Commit #111 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
