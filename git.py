@@ -17550,3 +17550,4 @@ Commit #99 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #100 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #101 | Meme: To understand recursion, you must first understand recursion.
 Commit #102 | Meme: Deleting code is better than writing code.
+Commit #103 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
