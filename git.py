@@ -17824,3 +17824,4 @@ Commit #373 | Meme: Software and cathedrals are much the same – first we build
 Commit #374 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #375 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #376 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #377 | Meme: In case of fire: git commit, git push, leave building.
