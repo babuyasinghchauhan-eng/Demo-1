@@ -11669,3 +11669,4 @@ Commit #618 | Meme: Real programmers count from 0.
 Commit #619 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #620 | Meme: There's no place like 127.0.0.1
 Commit #621 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #622 | Meme: Why do Java developers wear glasses? Because they don't C#.
