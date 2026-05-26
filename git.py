@@ -11449,3 +11449,4 @@ Commit #398 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #399 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #400 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #401 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #402 | Meme: Why do Java developers wear glasses? Because they don't C#.
