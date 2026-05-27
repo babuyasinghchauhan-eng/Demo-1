@@ -5373,3 +5373,4 @@ Commit #219 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #220 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #221 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #222 | Meme: In case of fire: git commit, git push, leave building.
+Commit #223 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
