@@ -5187,3 +5187,4 @@ Commit #33 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #34 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #35 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #36 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #37 | Meme: There are 10 types of people: those who understand binary, and those who don't.
