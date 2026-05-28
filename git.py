@@ -7137,3 +7137,4 @@ Commit #84 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #85 | Meme: There's no place like 127.0.0.1
 Commit #86 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #87 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #88 | Meme: Deleting code is better than writing code.
