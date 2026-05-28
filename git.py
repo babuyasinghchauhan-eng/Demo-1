@@ -11098,3 +11098,4 @@ Commit #47 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #48 | Meme: It's not a bug, it's an undocumented feature.
 Commit #49 | Meme: To understand recursion, you must first understand recursion.
 Commit #50 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #51 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
