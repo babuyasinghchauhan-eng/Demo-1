@@ -7314,3 +7314,4 @@ Commit #261 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #262 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #263 | Meme: Deleting code is better than writing code.
 Commit #264 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #265 | Meme: There are 10 types of people: those who understand binary, and those who don't.
