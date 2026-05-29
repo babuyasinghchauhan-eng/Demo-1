@@ -18658,3 +18658,4 @@ Commit #207 | Meme: Software and cathedrals are much the same – first we build
 Commit #208 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #209 | Meme: There's no place like 127.0.0.1
 Commit #210 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #211 | Meme: There are 10 types of people: those who understand binary, and those who don't.
