@@ -18210,3 +18210,4 @@ Commit #759 | Meme: In case of fire: git commit, git push, leave building.
 Commit #760 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #761 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #762 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #763 | Meme: Why do Java developers wear glasses? Because they don't C#.
