@@ -17469,3 +17469,4 @@ Commit #18 | Meme: There's no place like 127.0.0.1
 Commit #19 | Meme: It's not a bug, it's an undocumented feature.
 Commit #20 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #21 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #22 | Meme: Deleting code is better than writing code.
