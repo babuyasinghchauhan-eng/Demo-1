@@ -13205,3 +13205,4 @@ Commit #754 | Meme: Deleting code is better than writing code.
 Commit #755 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #756 | Meme: Real programmers count from 0.
 Commit #757 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #758 | Meme: In case of fire: git commit, git push, leave building.
