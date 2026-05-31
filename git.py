@@ -18390,3 +18390,4 @@ Commit #939 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #940 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #941 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #942 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #943 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
