@@ -17765,3 +17765,4 @@ Commit #314 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #315 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #316 | Meme: There's no place like 127.0.0.1
 Commit #317 | Meme: To understand recursion, you must first understand recursion.
+Commit #318 | Meme: It's not a bug, it's an undocumented feature.
