@@ -9767,3 +9767,4 @@ Commit #716 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #717 | Meme: To understand recursion, you must first understand recursion.
 Commit #718 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #719 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #720 | Meme: Real programmers count from 0.
