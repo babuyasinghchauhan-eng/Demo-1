@@ -11426,3 +11426,4 @@ Commit #375 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #376 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #377 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #378 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #379 | Meme: Real programmers count from 0.
