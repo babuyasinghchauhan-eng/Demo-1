@@ -12021,3 +12021,4 @@ Commit #970 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #971 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #972 | Meme: Deleting code is better than writing code.
 Commit #973 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #974 | Meme: Hide and seek champion since 1958: ';' in C/C++
