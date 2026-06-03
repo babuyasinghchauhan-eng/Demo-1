@@ -12687,3 +12687,4 @@ Commit #236 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #237 | Meme: To understand recursion, you must first understand recursion.
 Commit #238 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #239 | Meme: Deleting code is better than writing code.
+Commit #240 | Meme: There are 10 types of people: those who understand binary, and those who don't.
