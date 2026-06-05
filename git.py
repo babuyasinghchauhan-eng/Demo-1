@@ -11231,3 +11231,4 @@ Commit #180 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #181 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #182 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #183 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #184 | Meme: Why do Java developers wear glasses? Because they don't C#.
