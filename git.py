@@ -11560,3 +11560,4 @@ Commit #509 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #510 | Meme: Real programmers count from 0.
 Commit #511 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #512 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #513 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
