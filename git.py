@@ -18375,3 +18375,4 @@ Commit #924 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #925 | Meme: Deleting code is better than writing code.
 Commit #926 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #927 | Meme: Real programmers count from 0.
+Commit #928 | Meme: Real programmers count from 0.
