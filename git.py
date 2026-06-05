@@ -18185,3 +18185,4 @@ Commit #734 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #735 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #736 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #737 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #738 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
