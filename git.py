@@ -9307,3 +9307,4 @@ Commit #256 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #257 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #258 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #259 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #260 | Meme: Hide and seek champion since 1958: ';' in C/C++
