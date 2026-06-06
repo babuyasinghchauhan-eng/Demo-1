@@ -11420,3 +11420,4 @@ Commit #369 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #370 | Meme: It's not a bug, it's an undocumented feature.
 Commit #371 | Meme: It's not a bug, it's an undocumented feature.
 Commit #372 | Meme: To understand recursion, you must first understand recursion.
+Commit #373 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
