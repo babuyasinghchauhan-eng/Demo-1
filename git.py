@@ -18679,3 +18679,4 @@ Commit #228 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #229 | Meme: To understand recursion, you must first understand recursion.
 Commit #230 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #231 | Meme: There's no place like 127.0.0.1
+Commit #232 | Meme: To understand recursion, you must first understand recursion.
