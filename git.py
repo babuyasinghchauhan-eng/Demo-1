@@ -11636,3 +11636,4 @@ Commit #585 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #586 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #587 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #588 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #589 | Meme: In case of fire: git commit, git push, leave building.
