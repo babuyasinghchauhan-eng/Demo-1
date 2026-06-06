@@ -11108,3 +11108,4 @@ Commit #57 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #58 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #59 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #60 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #61 | Meme: In case of fire: git commit, git push, leave building.
