@@ -18114,3 +18114,4 @@ Commit #663 | Meme: It's not a bug, it's an undocumented feature.
 Commit #664 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #665 | Meme: Real programmers count from 0.
 Commit #666 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #667 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
