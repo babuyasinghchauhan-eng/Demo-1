@@ -11330,3 +11330,4 @@ Commit #279 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #280 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #281 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #282 | Meme: Real programmers count from 0.
+Commit #283 | Meme: Deleting code is better than writing code.
