@@ -5912,3 +5912,4 @@ Commit #758 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #759 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #760 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #761 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #762 | Meme: In case of fire: git commit, git push, leave building.
