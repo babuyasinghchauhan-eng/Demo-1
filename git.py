@@ -7097,3 +7097,4 @@ Commit #44 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #45 | Meme: There's no place like 127.0.0.1
 Commit #46 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #47 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #48 | Meme: In case of fire: git commit, git push, leave building.
