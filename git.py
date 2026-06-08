@@ -7159,3 +7159,4 @@ Commit #106 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #107 | Meme: In case of fire: git commit, git push, leave building.
 Commit #108 | Meme: In case of fire: git commit, git push, leave building.
 Commit #109 | Meme: Deleting code is better than writing code.
+Commit #110 | Meme: There's no place like 127.0.0.1
