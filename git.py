@@ -7393,3 +7393,4 @@ Commit #340 | Meme: To understand recursion, you must first understand recursion
 Commit #341 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #342 | Meme: Deleting code is better than writing code.
 Commit #343 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #344 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
