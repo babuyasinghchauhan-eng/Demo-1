@@ -11236,3 +11236,4 @@ Commit #185 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #186 | Meme: It's not a bug, it's an undocumented feature.
 Commit #187 | Meme: Deleting code is better than writing code.
 Commit #188 | Meme: It's not a bug, it's an undocumented feature.
+Commit #189 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
