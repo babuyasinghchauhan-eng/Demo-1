@@ -9428,3 +9428,4 @@ Commit #377 | Meme: In case of fire: git commit, git push, leave building.
 Commit #378 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #379 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #380 | Meme: Real programmers count from 0.
+Commit #381 | Meme: Real programmers count from 0.
