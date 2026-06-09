@@ -11715,3 +11715,4 @@ Commit #664 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #665 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #666 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #667 | Meme: Real programmers count from 0.
+Commit #668 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
