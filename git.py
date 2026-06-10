@@ -9566,3 +9566,4 @@ Commit #515 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #516 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #517 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #518 | Meme: To understand recursion, you must first understand recursion.
+Commit #519 | Meme: There's no place like 127.0.0.1
