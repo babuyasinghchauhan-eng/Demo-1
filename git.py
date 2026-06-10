@@ -11345,3 +11345,4 @@ Commit #294 | Meme: Software and cathedrals are much the same – first we build
 Commit #295 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #296 | Meme: Deleting code is better than writing code.
 Commit #297 | Meme: There's no place like 127.0.0.1
+Commit #298 | Meme: Hide and seek champion since 1958: ';' in C/C++
