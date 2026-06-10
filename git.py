@@ -11781,3 +11781,4 @@ Commit #730 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #731 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #732 | Meme: It's not a bug, it's an undocumented feature.
 Commit #733 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #734 | Meme: In case of fire: git commit, git push, leave building.
