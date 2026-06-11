@@ -7636,3 +7636,4 @@ Commit #583 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #584 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #585 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #586 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #587 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
