@@ -11118,3 +11118,4 @@ Commit #67 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #68 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #69 | Meme: There's no place like 127.0.0.1
 Commit #70 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #71 | Meme: Deleting code is better than writing code.
