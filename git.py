@@ -7105,3 +7105,4 @@ Commit #52 | Meme: Real programmers count from 0.
 Commit #53 | Meme: To understand recursion, you must first understand recursion.
 Commit #54 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #55 | Meme: There's no place like 127.0.0.1
+Commit #56 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
