@@ -9632,3 +9632,4 @@ Commit #581 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #582 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #583 | Meme: Deleting code is better than writing code.
 Commit #584 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #585 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
