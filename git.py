@@ -10000,3 +10000,4 @@ Commit #949 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #950 | Meme: To understand recursion, you must first understand recursion.
 Commit #951 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #952 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #953 | Meme: There are 10 types of people: those who understand binary, and those who don't.
