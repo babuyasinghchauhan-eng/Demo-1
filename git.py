@@ -13,3 +13,4 @@ Commit #11 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #12 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #13 | Meme: Real programmers count from 0.
 Commit #14 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #15 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
