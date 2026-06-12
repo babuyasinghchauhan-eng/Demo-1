@@ -18093,3 +18093,4 @@ Commit #642 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #643 | Meme: There's no place like 127.0.0.1
 Commit #644 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #645 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #646 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
