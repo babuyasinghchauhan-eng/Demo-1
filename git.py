@@ -11821,3 +11821,4 @@ Commit #770 | Meme: Software and cathedrals are much the same – first we build
 Commit #771 | Meme: In case of fire: git commit, git push, leave building.
 Commit #772 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #773 | Meme: There's no place like 127.0.0.1
+Commit #774 | Meme: Deleting code is better than writing code.
