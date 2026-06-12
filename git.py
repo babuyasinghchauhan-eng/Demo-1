@@ -7448,3 +7448,4 @@ Commit #395 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #396 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #397 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #398 | Meme: It's not a bug, it's an undocumented feature.
+Commit #399 | Meme: Hide and seek champion since 1958: ';' in C/C++
