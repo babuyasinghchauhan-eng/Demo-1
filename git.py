@@ -9572,3 +9572,4 @@ Commit #521 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #522 | Meme: It's not a bug, it's an undocumented feature.
 Commit #523 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #524 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #525 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
