@@ -7874,3 +7874,4 @@ Commit #821 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #822 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #823 | Meme: To understand recursion, you must first understand recursion.
 Commit #824 | Meme: Real programmers count from 0.
+Commit #825 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
