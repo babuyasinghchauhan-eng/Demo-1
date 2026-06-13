@@ -9183,3 +9183,4 @@ Commit #132 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #133 | Meme: There's no place like 127.0.0.1
 Commit #134 | Meme: In case of fire: git commit, git push, leave building.
 Commit #135 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #136 | Meme: To understand recursion, you must first understand recursion.
