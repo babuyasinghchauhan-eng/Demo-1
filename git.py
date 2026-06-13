@@ -11176,3 +11176,4 @@ Commit #125 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #126 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #127 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #128 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #129 | Meme: There are 10 types of people: those who understand binary, and those who don't.
