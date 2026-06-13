@@ -5692,3 +5692,4 @@ Commit #538 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #539 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #540 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #541 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #542 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
