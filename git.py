@@ -11557,3 +11557,4 @@ Commit #506 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #507 | Meme: It's not a bug, it's an undocumented feature.
 Commit #508 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #509 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #510 | Meme: Real programmers count from 0.
