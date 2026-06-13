@@ -11601,3 +11601,4 @@ Commit #550 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #551 | Meme: To understand recursion, you must first understand recursion.
 Commit #552 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #553 | Meme: It's not a bug, it's an undocumented feature.
+Commit #554 | Meme: Why do Java developers wear glasses? Because they don't C#.
