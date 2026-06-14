@@ -18332,3 +18332,4 @@ Commit #881 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #882 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #883 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #884 | Meme: To understand recursion, you must first understand recursion.
+Commit #885 | Meme: Hide and seek champion since 1958: ';' in C/C++
