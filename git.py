@@ -7130,3 +7130,4 @@ Commit #77 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #78 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #79 | Meme: Deleting code is better than writing code.
 Commit #80 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #81 | Meme: Hide and seek champion since 1958: ';' in C/C++
