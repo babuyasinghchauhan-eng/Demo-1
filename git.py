@@ -11063,3 +11063,4 @@ Commit #12 | Meme: Software and cathedrals are much the same – first we build 
 Commit #13 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #14 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #15 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #16 | Meme: There are 10 types of people: those who understand binary, and those who don't.
