@@ -18324,3 +18324,4 @@ Commit #873 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #874 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #875 | Meme: It's not a bug, it's an undocumented feature.
 Commit #876 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #877 | Meme: In case of fire: git commit, git push, leave building.
