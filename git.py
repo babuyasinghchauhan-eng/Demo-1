@@ -11965,3 +11965,4 @@ Commit #914 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #915 | Meme: To understand recursion, you must first understand recursion.
 Commit #916 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #917 | Meme: To understand recursion, you must first understand recursion.
+Commit #918 | Meme: Why do Java developers wear glasses? Because they don't C#.
