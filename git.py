@@ -11696,3 +11696,4 @@ Commit #645 | Meme: It's not a bug, it's an undocumented feature.
 Commit #646 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #647 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #648 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #649 | Meme: Real programmers count from 0.
