@@ -7736,3 +7736,4 @@ Commit #683 | Meme: There are 10 types of people: those who understand binary, a
 Commit #684 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #685 | Meme: There's no place like 127.0.0.1
 Commit #686 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #687 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
