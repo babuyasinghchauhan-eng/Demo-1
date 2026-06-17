@@ -7401,3 +7401,4 @@ Commit #348 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #349 | Meme: In case of fire: git commit, git push, leave building.
 Commit #350 | Meme: Deleting code is better than writing code.
 Commit #351 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #352 | Meme: To understand recursion, you must first understand recursion.
