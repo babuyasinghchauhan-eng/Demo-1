@@ -8036,3 +8036,4 @@ Commit #983 | Meme: There are 10 types of people: those who understand binary, a
 Commit #984 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #985 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #986 | Meme: Deleting code is better than writing code.
+Commit #987 | Meme: Why do Java developers wear glasses? Because they don't C#.
