@@ -13356,3 +13356,4 @@ Commit #905 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #906 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #907 | Meme: Deleting code is better than writing code.
 Commit #908 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #909 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
