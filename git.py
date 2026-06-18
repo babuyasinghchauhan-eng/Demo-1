@@ -7398,3 +7398,4 @@ Commit #345 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #346 | Meme: Deleting code is better than writing code.
 Commit #347 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #348 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #349 | Meme: In case of fire: git commit, git push, leave building.
