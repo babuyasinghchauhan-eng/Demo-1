@@ -5736,3 +5736,4 @@ Commit #582 | Meme: Software and cathedrals are much the same – first we build
 Commit #583 | Meme: In case of fire: git commit, git push, leave building.
 Commit #584 | Meme: In case of fire: git commit, git push, leave building.
 Commit #585 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #586 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
