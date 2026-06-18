@@ -11857,3 +11857,4 @@ Commit #806 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #807 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #808 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #809 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #810 | Meme: Hide and seek champion since 1958: ';' in C/C++
