@@ -9449,3 +9449,4 @@ Commit #398 | Meme: Real programmers count from 0.
 Commit #399 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #400 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #401 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #402 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
