@@ -13376,3 +13376,4 @@ Commit #925 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #926 | Meme: To understand recursion, you must first understand recursion.
 Commit #927 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #928 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #929 | Meme: In case of fire: git commit, git push, leave building.
