@@ -18149,3 +18149,4 @@ Commit #698 | Meme: There are 10 types of people: those who understand binary, a
 Commit #699 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #700 | Meme: Deleting code is better than writing code.
 Commit #701 | Meme: To understand recursion, you must first understand recursion.
+Commit #702 | Meme: Real programmers count from 0.
