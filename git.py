@@ -11321,3 +11321,4 @@ Commit #270 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #271 | Meme: To understand recursion, you must first understand recursion.
 Commit #272 | Meme: Real programmers count from 0.
 Commit #273 | Meme: Deleting code is better than writing code.
+Commit #274 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
