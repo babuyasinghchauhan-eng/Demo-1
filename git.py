@@ -11627,3 +11627,4 @@ Commit #576 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #577 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #578 | Meme: In case of fire: git commit, git push, leave building.
 Commit #579 | Meme: In case of fire: git commit, git push, leave building.
+Commit #580 | Meme: It's not a bug, it's an undocumented feature.
