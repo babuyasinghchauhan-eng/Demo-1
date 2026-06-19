@@ -17575,3 +17575,4 @@ Commit #124 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #125 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #126 | Meme: It's not a bug, it's an undocumented feature.
 Commit #127 | Meme: It's not a bug, it's an undocumented feature.
+Commit #128 | Meme: To understand recursion, you must first understand recursion.
