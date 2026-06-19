@@ -5371,3 +5371,4 @@ Commit #217 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #218 | Meme: Deleting code is better than writing code.
 Commit #219 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #220 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #221 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
