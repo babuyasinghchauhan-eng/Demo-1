@@ -11,3 +11,4 @@ Commit #9 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #10 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #11 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #12 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #13 | Meme: Real programmers count from 0.
