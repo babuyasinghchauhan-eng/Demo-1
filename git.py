@@ -7669,3 +7669,4 @@ Commit #616 | Meme: There's no place like 127.0.0.1
 Commit #617 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #618 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #619 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #620 | Meme: Deleting code is better than writing code.
