@@ -18275,3 +18275,4 @@ Commit #824 | Meme: To understand recursion, you must first understand recursion
 Commit #825 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #826 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #827 | Meme: Real programmers count from 0.
+Commit #828 | Meme: It's not a bug, it's an undocumented feature.
