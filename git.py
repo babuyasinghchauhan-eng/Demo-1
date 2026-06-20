@@ -7645,3 +7645,4 @@ Commit #592 | Meme: To understand recursion, you must first understand recursion
 Commit #593 | Meme: Deleting code is better than writing code.
 Commit #594 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #595 | Meme: There's no place like 127.0.0.1
+Commit #596 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
