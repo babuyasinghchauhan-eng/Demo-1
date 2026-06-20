@@ -11558,3 +11558,4 @@ Commit #507 | Meme: It's not a bug, it's an undocumented feature.
 Commit #508 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #509 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #510 | Meme: Real programmers count from 0.
+Commit #511 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
