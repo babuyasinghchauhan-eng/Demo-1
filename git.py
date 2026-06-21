@@ -12770,3 +12770,4 @@ Commit #319 | Meme: It's not a bug, it's an undocumented feature.
 Commit #320 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #321 | Meme: Deleting code is better than writing code.
 Commit #322 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #323 | Meme: In case of fire: git commit, git push, leave building.
