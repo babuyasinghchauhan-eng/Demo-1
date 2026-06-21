@@ -13268,3 +13268,4 @@ Commit #817 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #818 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #819 | Meme: Deleting code is better than writing code.
 Commit #820 | Meme: It's not a bug, it's an undocumented feature.
+Commit #821 | Meme: Real programmers count from 0.
