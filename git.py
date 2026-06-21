@@ -18890,3 +18890,4 @@ Commit #439 | Meme: Software and cathedrals are much the same – first we build
 Commit #440 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #441 | Meme: In case of fire: git commit, git push, leave building.
 Commit #442 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #443 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
