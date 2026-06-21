@@ -8030,3 +8030,4 @@ Commit #977 | Meme: There are 10 types of people: those who understand binary, a
 Commit #978 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #979 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #980 | Meme: Deleting code is better than writing code.
+Commit #981 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
