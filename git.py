@@ -19340,3 +19340,4 @@ Commit #889 | Meme: Real programmers count from 0.
 Commit #890 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #891 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #892 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #893 | Meme: There are 10 types of people: those who understand binary, and those who don't.
