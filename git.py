@@ -6027,3 +6027,4 @@ Commit #873 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #874 | Meme: Deleting code is better than writing code.
 Commit #875 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #876 | Meme: Real programmers count from 0.
+Commit #877 | Meme: To understand recursion, you must first understand recursion.
