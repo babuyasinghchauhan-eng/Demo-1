@@ -17721,3 +17721,4 @@ Commit #270 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #271 | Meme: To understand recursion, you must first understand recursion.
 Commit #272 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #273 | Meme: Deleting code is better than writing code.
+Commit #274 | Meme: Real programmers count from 0.
