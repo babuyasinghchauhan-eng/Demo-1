@@ -30,3 +30,4 @@ Commit #28 | Meme: To understand recursion, you must first understand recursion.
 Commit #29 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #30 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #31 | Meme: To understand recursion, you must first understand recursion.
+Commit #32 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
