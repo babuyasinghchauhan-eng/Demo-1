@@ -5468,3 +5468,4 @@ Commit #314 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #315 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #316 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #317 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #318 | Meme: To understand recursion, you must first understand recursion.
