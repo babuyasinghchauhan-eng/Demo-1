@@ -11810,3 +11810,4 @@ Commit #759 | Meme: Software and cathedrals are much the same – first we build
 Commit #760 | Meme: It's not a bug, it's an undocumented feature.
 Commit #761 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #762 | Meme: It's not a bug, it's an undocumented feature.
+Commit #763 | Meme: Why do Java developers wear glasses? Because they don't C#.
