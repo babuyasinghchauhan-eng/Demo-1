@@ -37,3 +37,4 @@ Commit #35 | Meme: Real programmers count from 0.
 Commit #36 | Meme: Deleting code is better than writing code.
 Commit #37 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #38 | Meme: It's not a bug, it's an undocumented feature.
+Commit #39 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
