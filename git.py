@@ -5514,3 +5514,4 @@ Commit #360 | Meme: In case of fire: git commit, git push, leave building.
 Commit #361 | Meme: To understand recursion, you must first understand recursion.
 Commit #362 | Meme: To understand recursion, you must first understand recursion.
 Commit #363 | Meme: It's not a bug, it's an undocumented feature.
+Commit #364 | Meme: There are 10 types of people: those who understand binary, and those who don't.
