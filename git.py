@@ -12467,3 +12467,4 @@ Commit #16 | Meme: It's not a bug, it's an undocumented feature.
 Commit #17 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #18 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #19 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #20 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
