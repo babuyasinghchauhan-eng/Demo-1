@@ -8014,3 +8014,4 @@ Commit #961 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #962 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #963 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #964 | Meme: Real programmers count from 0.
+Commit #965 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
