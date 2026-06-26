@@ -11214,3 +11214,4 @@ Commit #163 | Meme: Software and cathedrals are much the same – first we build
 Commit #164 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #165 | Meme: To understand recursion, you must first understand recursion.
 Commit #166 | Meme: In case of fire: git commit, git push, leave building.
+Commit #167 | Meme: Why do Java developers wear glasses? Because they don't C#.
