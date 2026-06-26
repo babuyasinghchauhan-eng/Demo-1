@@ -11249,3 +11249,4 @@ Commit #198 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #199 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #200 | Meme: In case of fire: git commit, git push, leave building.
 Commit #201 | Meme: Real programmers count from 0.
+Commit #202 | Meme: Why do Java developers wear glasses? Because they don't C#.
