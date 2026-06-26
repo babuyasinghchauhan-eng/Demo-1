@@ -7940,3 +7940,4 @@ Commit #887 | Meme: To understand recursion, you must first understand recursion
 Commit #888 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #889 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #890 | Meme: There's no place like 127.0.0.1
+Commit #891 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
