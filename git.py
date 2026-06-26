@@ -11598,3 +11598,4 @@ Commit #547 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #548 | Meme: Deleting code is better than writing code.
 Commit #549 | Meme: To understand recursion, you must first understand recursion.
 Commit #550 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #551 | Meme: To understand recursion, you must first understand recursion.
