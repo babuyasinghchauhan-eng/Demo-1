@@ -11444,3 +11444,4 @@ Commit #393 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #394 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #395 | Meme: Deleting code is better than writing code.
 Commit #396 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #397 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
