@@ -7597,3 +7597,4 @@ Commit #544 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #545 | Meme: Deleting code is better than writing code.
 Commit #546 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #547 | Meme: It's not a bug, it's an undocumented feature.
+Commit #548 | Meme: To understand recursion, you must first understand recursion.
