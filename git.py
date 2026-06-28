@@ -7755,3 +7755,4 @@ Commit #702 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #703 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #704 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #705 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #706 | Meme: There are 10 types of people: those who understand binary, and those who don't.
