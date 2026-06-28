@@ -11373,3 +11373,4 @@ Commit #322 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #323 | Meme: There's no place like 127.0.0.1
 Commit #324 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #325 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #326 | Meme: Real programmers count from 0.
