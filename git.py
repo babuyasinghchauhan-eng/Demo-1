@@ -11672,3 +11672,4 @@ Commit #621 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #622 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #623 | Meme: To understand recursion, you must first understand recursion.
 Commit #624 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #625 | Meme: It's not a bug, it's an undocumented feature.
