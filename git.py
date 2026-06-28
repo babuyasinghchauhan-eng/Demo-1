@@ -7652,3 +7652,4 @@ Commit #599 | Meme: To understand recursion, you must first understand recursion
 Commit #600 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #601 | Meme: To understand recursion, you must first understand recursion.
 Commit #602 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #603 | Meme: In case of fire: git commit, git push, leave building.
