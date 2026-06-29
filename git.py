@@ -13468,3 +13468,4 @@ Commit #17 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #18 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #19 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #20 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #21 | Meme: Why do Java developers wear glasses? Because they don't C#.
