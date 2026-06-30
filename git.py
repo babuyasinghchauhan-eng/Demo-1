@@ -14099,3 +14099,4 @@ Commit #648 | Meme: It's not a bug, it's an undocumented feature.
 Commit #649 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #650 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #651 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #652 | Meme: In case of fire: git commit, git push, leave building.
