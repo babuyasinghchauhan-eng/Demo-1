@@ -13500,3 +13500,4 @@ Commit #49 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #50 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #51 | Meme: In case of fire: git commit, git push, leave building.
 Commit #52 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #53 | Meme: Deleting code is better than writing code.
