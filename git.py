@@ -13938,3 +13938,4 @@ Commit #487 | Meme: There are 10 types of people: those who understand binary, a
 Commit #488 | Meme: It's not a bug, it's an undocumented feature.
 Commit #489 | Meme: It's not a bug, it's an undocumented feature.
 Commit #490 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #491 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
