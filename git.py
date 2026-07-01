@@ -13707,3 +13707,4 @@ Commit #256 | Meme: Real programmers count from 0.
 Commit #257 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #258 | Meme: There's no place like 127.0.0.1
 Commit #259 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #260 | Meme: There's no place like 127.0.0.1
