@@ -18744,3 +18744,4 @@ Commit #293 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #294 | Meme: In case of fire: git commit, git push, leave building.
 Commit #295 | Meme: In case of fire: git commit, git push, leave building.
 Commit #296 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #297 | Meme: Hide and seek champion since 1958: ';' in C/C++
