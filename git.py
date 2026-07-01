@@ -14214,3 +14214,4 @@ Commit #763 | Meme: In case of fire: git commit, git push, leave building.
 Commit #764 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #765 | Meme: It's not a bug, it's an undocumented feature.
 Commit #766 | Meme: To understand recursion, you must first understand recursion.
+Commit #767 | Meme: Why do Java developers wear glasses? Because they don't C#.
