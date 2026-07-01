@@ -7976,3 +7976,4 @@ Commit #923 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #924 | Meme: It's not a bug, it's an undocumented feature.
 Commit #925 | Meme: Real programmers count from 0.
 Commit #926 | Meme: In case of fire: git commit, git push, leave building.
+Commit #927 | Meme: Deleting code is better than writing code.
