@@ -5221,3 +5221,4 @@ Commit #67 | Meme: To understand recursion, you must first understand recursion.
 Commit #68 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #69 | Meme: In case of fire: git commit, git push, leave building.
 Commit #70 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #71 | Meme: It's not a bug, it's an undocumented feature.
