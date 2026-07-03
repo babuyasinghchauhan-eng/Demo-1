@@ -7453,3 +7453,4 @@ Commit #400 | Meme: There's no place like 127.0.0.1
 Commit #401 | Meme: There's no place like 127.0.0.1
 Commit #402 | Meme: Deleting code is better than writing code.
 Commit #403 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #404 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
