@@ -13667,3 +13667,4 @@ Commit #216 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #217 | Meme: Real programmers count from 0.
 Commit #218 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #219 | Meme: Real programmers count from 0.
+Commit #220 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
