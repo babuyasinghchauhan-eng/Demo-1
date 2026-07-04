@@ -13526,3 +13526,4 @@ Commit #75 | Meme: Software and cathedrals are much the same – first we build 
 Commit #76 | Meme: It's not a bug, it's an undocumented feature.
 Commit #77 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #78 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #79 | Meme: Real programmers count from 0.
