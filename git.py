@@ -7878,3 +7878,4 @@ Commit #825 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #826 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #827 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #828 | Meme: In case of fire: git commit, git push, leave building.
+Commit #829 | Meme: Why do Java developers wear glasses? Because they don't C#.
