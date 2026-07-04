@@ -13865,3 +13865,4 @@ Commit #414 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #415 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #416 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #417 | Meme: Real programmers count from 0.
+Commit #418 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
