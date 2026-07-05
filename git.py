@@ -5949,3 +5949,4 @@ Commit #795 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #796 | Meme: In case of fire: git commit, git push, leave building.
 Commit #797 | Meme: It's not a bug, it's an undocumented feature.
 Commit #798 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #799 | Meme: Real programmers count from 0.
