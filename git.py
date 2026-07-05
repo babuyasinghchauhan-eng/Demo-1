@@ -14412,3 +14412,4 @@ Commit #961 | Meme: To understand recursion, you must first understand recursion
 Commit #962 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #963 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #964 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #965 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
