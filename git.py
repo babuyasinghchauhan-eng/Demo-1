@@ -5245,3 +5245,4 @@ Commit #91 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #92 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #93 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #94 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #95 | Meme: Why do Java developers wear glasses? Because they don't C#.
