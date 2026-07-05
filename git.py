@@ -13792,3 +13792,4 @@ Commit #341 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #342 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #343 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #344 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #345 | Meme: It's not a bug, it's an undocumented feature.
