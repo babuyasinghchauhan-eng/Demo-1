@@ -14160,3 +14160,4 @@ Commit #709 | Meme: To understand recursion, you must first understand recursion
 Commit #710 | Meme: In case of fire: git commit, git push, leave building.
 Commit #711 | Meme: It's not a bug, it's an undocumented feature.
 Commit #712 | Meme: There's no place like 127.0.0.1
+Commit #713 | Meme: There are 10 types of people: those who understand binary, and those who don't.
