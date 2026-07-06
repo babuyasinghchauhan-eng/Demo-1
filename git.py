@@ -14188,3 +14188,4 @@ Commit #737 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #738 | Meme: Deleting code is better than writing code.
 Commit #739 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #740 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #741 | Meme: Deleting code is better than writing code.
