@@ -13816,3 +13816,4 @@ Commit #365 | Meme: There are 10 types of people: those who understand binary, a
 Commit #366 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #367 | Meme: Real programmers count from 0.
 Commit #368 | Meme: Real programmers count from 0.
+Commit #369 | Meme: Hide and seek champion since 1958: ';' in C/C++
