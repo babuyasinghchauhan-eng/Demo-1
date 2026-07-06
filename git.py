@@ -14427,3 +14427,4 @@ Commit #976 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #977 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #978 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #979 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #980 | Meme: Deleting code is better than writing code.
