@@ -13995,3 +13995,4 @@ Commit #544 | Meme: To understand recursion, you must first understand recursion
 Commit #545 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #546 | Meme: It's not a bug, it's an undocumented feature.
 Commit #547 | Meme: To understand recursion, you must first understand recursion.
+Commit #548 | Meme: Real programmers count from 0.
