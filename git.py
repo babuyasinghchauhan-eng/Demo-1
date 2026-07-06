@@ -5824,3 +5824,4 @@ Commit #670 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #671 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #672 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #673 | Meme: Deleting code is better than writing code.
+Commit #674 | Meme: There's no place like 127.0.0.1
