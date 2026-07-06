@@ -12659,3 +12659,4 @@ Commit #208 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #209 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #210 | Meme: Deleting code is better than writing code.
 Commit #211 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #212 | Meme: Real programmers count from 0.
