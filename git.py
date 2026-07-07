@@ -8796,3 +8796,4 @@ Commit #744 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #745 | Meme: It's not a bug, it's an undocumented feature.
 Commit #746 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #747 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #748 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
