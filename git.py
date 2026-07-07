@@ -14058,3 +14058,4 @@ Commit #607 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #608 | Meme: To understand recursion, you must first understand recursion.
 Commit #609 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #610 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #611 | Meme: Real programmers count from 0.
