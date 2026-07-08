@@ -14175,3 +14175,4 @@ Commit #724 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #725 | Meme: In case of fire: git commit, git push, leave building.
 Commit #726 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #727 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #728 | Meme: There are 10 types of people: those who understand binary, and those who don't.
