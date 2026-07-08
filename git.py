@@ -5743,3 +5743,4 @@ Commit #589 | Meme: In case of fire: git commit, git push, leave building.
 Commit #590 | Meme: To understand recursion, you must first understand recursion.
 Commit #591 | Meme: To understand recursion, you must first understand recursion.
 Commit #592 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #593 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
