@@ -12729,3 +12729,4 @@ Commit #278 | Meme: In case of fire: git commit, git push, leave building.
 Commit #279 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #280 | Meme: In case of fire: git commit, git push, leave building.
 Commit #281 | Meme: Real programmers count from 0.
+Commit #282 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
