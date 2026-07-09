@@ -13853,3 +13853,4 @@ Commit #402 | Meme: Real programmers count from 0.
 Commit #403 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #404 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #405 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #406 | Meme: Real programmers count from 0.
