@@ -8952,3 +8952,4 @@ Commit #900 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #901 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #902 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #903 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #904 | Meme: Deleting code is better than writing code.
