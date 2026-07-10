@@ -8459,3 +8459,4 @@ Commit #407 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #408 | Meme: It's not a bug, it's an undocumented feature.
 Commit #409 | Meme: It's not a bug, it's an undocumented feature.
 Commit #410 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #411 | Meme: Deleting code is better than writing code.
