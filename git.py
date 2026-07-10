@@ -5660,3 +5660,4 @@ Commit #506 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #507 | Meme: There's no place like 127.0.0.1
 Commit #508 | Meme: In case of fire: git commit, git push, leave building.
 Commit #509 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #510 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
