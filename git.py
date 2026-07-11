@@ -13700,3 +13700,4 @@ Commit #249 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #250 | Meme: To understand recursion, you must first understand recursion.
 Commit #251 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #252 | Meme: There's no place like 127.0.0.1
+Commit #253 | Meme: Deleting code is better than writing code.
