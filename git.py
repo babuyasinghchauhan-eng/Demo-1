@@ -7996,3 +7996,4 @@ Commit #943 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #944 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #945 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #946 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #947 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
