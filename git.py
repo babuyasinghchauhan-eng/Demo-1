@@ -12794,3 +12794,4 @@ Commit #343 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #344 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #345 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #346 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #347 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
