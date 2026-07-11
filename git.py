@@ -8223,3 +8223,4 @@ Commit #171 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #172 | Meme: In case of fire: git commit, git push, leave building.
 Commit #173 | Meme: Deleting code is better than writing code.
 Commit #174 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #175 | Meme: Hide and seek champion since 1958: ';' in C/C++
