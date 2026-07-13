@@ -8302,3 +8302,4 @@ Commit #250 | Meme: Software and cathedrals are much the same – first we build
 Commit #251 | Meme: Deleting code is better than writing code.
 Commit #252 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #253 | Meme: It's not a bug, it's an undocumented feature.
+Commit #254 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
