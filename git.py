@@ -7431,3 +7431,4 @@ Commit #378 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #379 | Meme: In case of fire: git commit, git push, leave building.
 Commit #380 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #381 | Meme: To understand recursion, you must first understand recursion.
+Commit #382 | Meme: Real programmers count from 0.
