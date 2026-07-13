@@ -14395,3 +14395,4 @@ Commit #944 | Meme: To understand recursion, you must first understand recursion
 Commit #945 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #946 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #947 | Meme: There's no place like 127.0.0.1
+Commit #948 | Meme: Real programmers count from 0.
