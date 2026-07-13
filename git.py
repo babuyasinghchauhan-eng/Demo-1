@@ -19044,3 +19044,4 @@ Commit #593 | Meme: In case of fire: git commit, git push, leave building.
 Commit #594 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #595 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #596 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #597 | Meme: Real programmers count from 0.
