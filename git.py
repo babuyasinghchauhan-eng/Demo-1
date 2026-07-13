@@ -8978,3 +8978,4 @@ Commit #926 | Meme: To understand recursion, you must first understand recursion
 Commit #927 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #928 | Meme: There's no place like 127.0.0.1
 Commit #929 | Meme: In case of fire: git commit, git push, leave building.
+Commit #930 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
