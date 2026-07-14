@@ -8612,3 +8612,4 @@ Commit #560 | Meme: To understand recursion, you must first understand recursion
 Commit #561 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #562 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #563 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #564 | Meme: It's not a bug, it's an undocumented feature.
