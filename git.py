@@ -8720,3 +8720,4 @@ Commit #668 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #669 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #670 | Meme: It's not a bug, it's an undocumented feature.
 Commit #671 | Meme: It's not a bug, it's an undocumented feature.
+Commit #672 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
