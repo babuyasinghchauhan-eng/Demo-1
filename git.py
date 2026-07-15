@@ -7767,3 +7767,4 @@ Commit #714 | Meme: Software and cathedrals are much the same – first we build
 Commit #715 | Meme: To understand recursion, you must first understand recursion.
 Commit #716 | Meme: Real programmers count from 0.
 Commit #717 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #718 | Meme: To understand recursion, you must first understand recursion.
