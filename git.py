@@ -8995,3 +8995,4 @@ Commit #943 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #944 | Meme: It's not a bug, it's an undocumented feature.
 Commit #945 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #946 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #947 | Meme: There are 10 types of people: those who understand binary, and those who don't.
