@@ -5852,3 +5852,4 @@ Commit #698 | Meme: There are 10 types of people: those who understand binary, a
 Commit #699 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #700 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #701 | Meme: It's not a bug, it's an undocumented feature.
+Commit #702 | Meme: Hide and seek champion since 1958: ';' in C/C++
