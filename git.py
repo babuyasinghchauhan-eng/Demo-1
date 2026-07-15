@@ -13988,3 +13988,4 @@ Commit #537 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #538 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #539 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #540 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #541 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
