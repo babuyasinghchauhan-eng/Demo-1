@@ -13755,3 +13755,4 @@ Commit #304 | Meme: Real programmers count from 0.
 Commit #305 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #306 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #307 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #308 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
