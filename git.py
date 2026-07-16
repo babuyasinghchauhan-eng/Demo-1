@@ -12665,3 +12665,4 @@ Commit #214 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #215 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #216 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #217 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #218 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
