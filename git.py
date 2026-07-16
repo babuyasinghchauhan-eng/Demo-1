@@ -14155,3 +14155,4 @@ Commit #704 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #705 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #706 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #707 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #708 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
