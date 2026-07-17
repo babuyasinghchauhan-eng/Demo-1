@@ -14418,3 +14418,4 @@ Commit #967 | Meme: Software and cathedrals are much the same – first we build
 Commit #968 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #969 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #970 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #971 | Meme: Real programmers count from 0.
