@@ -8997,3 +8997,4 @@ Commit #945 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #946 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #947 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #948 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #949 | Meme: To understand recursion, you must first understand recursion.
