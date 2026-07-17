@@ -8009,3 +8009,4 @@ Commit #956 | Meme: Deleting code is better than writing code.
 Commit #957 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #958 | Meme: It's not a bug, it's an undocumented feature.
 Commit #959 | Meme: Real programmers count from 0.
+Commit #960 | Meme: It's not a bug, it's an undocumented feature.
