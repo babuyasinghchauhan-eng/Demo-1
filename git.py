@@ -14249,3 +14249,4 @@ Commit #798 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #799 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #800 | Meme: In case of fire: git commit, git push, leave building.
 Commit #801 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #802 | Meme: There's no place like 127.0.0.1
