@@ -18731,3 +18731,4 @@ Commit #280 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #281 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #282 | Meme: There's no place like 127.0.0.1
 Commit #283 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #284 | Meme: Real programmers count from 0.
