@@ -13652,3 +13652,4 @@ Commit #201 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #202 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #203 | Meme: Deleting code is better than writing code.
 Commit #204 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #205 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
