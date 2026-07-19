@@ -5954,3 +5954,4 @@ Commit #800 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #801 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #802 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #803 | Meme: It's not a bug, it's an undocumented feature.
+Commit #804 | Meme: It's not a bug, it's an undocumented feature.
