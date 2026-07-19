@@ -7244,3 +7244,4 @@ Commit #191 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #192 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #193 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #194 | Meme: Deleting code is better than writing code.
+Commit #195 | Meme: In case of fire: git commit, git push, leave building.
