@@ -8206,3 +8206,4 @@ Commit #154 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #155 | Meme: In case of fire: git commit, git push, leave building.
 Commit #156 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #157 | Meme: In case of fire: git commit, git push, leave building.
+Commit #158 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
