@@ -13915,3 +13915,4 @@ Commit #464 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #465 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #466 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #467 | Meme: Real programmers count from 0.
+Commit #468 | Meme: Deleting code is better than writing code.
