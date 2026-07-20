@@ -13966,3 +13966,4 @@ Commit #515 | Meme: Real programmers count from 0.
 Commit #516 | Meme: There's no place like 127.0.0.1
 Commit #517 | Meme: To understand recursion, you must first understand recursion.
 Commit #518 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #519 | Meme: Why do Java developers wear glasses? Because they don't C#.
