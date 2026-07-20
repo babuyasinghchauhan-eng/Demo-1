@@ -8908,3 +8908,4 @@ Commit #856 | Meme: Software and cathedrals are much the same – first we build
 Commit #857 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #858 | Meme: To understand recursion, you must first understand recursion.
 Commit #859 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #860 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
