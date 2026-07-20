@@ -14286,3 +14286,4 @@ Commit #835 | Meme: It's not a bug, it's an undocumented feature.
 Commit #836 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #837 | Meme: In case of fire: git commit, git push, leave building.
 Commit #838 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #839 | Meme: To understand recursion, you must first understand recursion.
