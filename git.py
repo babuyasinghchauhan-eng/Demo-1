@@ -13627,3 +13627,4 @@ Commit #176 | Meme: It's not a bug, it's an undocumented feature.
 Commit #177 | Meme: In case of fire: git commit, git push, leave building.
 Commit #178 | Meme: There's no place like 127.0.0.1
 Commit #179 | Meme: It's not a bug, it's an undocumented feature.
+Commit #180 | Meme: There are 10 types of people: those who understand binary, and those who don't.
