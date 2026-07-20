@@ -7495,3 +7495,4 @@ Commit #442 | Meme: Real programmers count from 0.
 Commit #443 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #444 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #445 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #446 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
