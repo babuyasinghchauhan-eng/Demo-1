@@ -14085,3 +14085,4 @@ Commit #634 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #635 | Meme: There's no place like 127.0.0.1
 Commit #636 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #637 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #638 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
