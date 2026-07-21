@@ -8856,3 +8856,4 @@ Commit #804 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #805 | Meme: To understand recursion, you must first understand recursion.
 Commit #806 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #807 | Meme: In case of fire: git commit, git push, leave building.
+Commit #808 | Meme: To understand recursion, you must first understand recursion.
