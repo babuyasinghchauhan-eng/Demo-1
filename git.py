@@ -13843,3 +13843,4 @@ Commit #392 | Meme: In case of fire: git commit, git push, leave building.
 Commit #393 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #394 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #395 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #396 | Meme: Real programmers count from 0.
