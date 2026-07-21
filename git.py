@@ -14398,3 +14398,4 @@ Commit #947 | Meme: There's no place like 127.0.0.1
 Commit #948 | Meme: Real programmers count from 0.
 Commit #949 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #950 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #951 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
