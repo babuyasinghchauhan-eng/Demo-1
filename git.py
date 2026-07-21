@@ -8250,3 +8250,4 @@ Commit #198 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #199 | Meme: There's no place like 127.0.0.1
 Commit #200 | Meme: It's not a bug, it's an undocumented feature.
 Commit #201 | Meme: In case of fire: git commit, git push, leave building.
+Commit #202 | Meme: To understand recursion, you must first understand recursion.
