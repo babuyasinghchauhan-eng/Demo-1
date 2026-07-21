@@ -13845,3 +13845,4 @@ Commit #394 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #395 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #396 | Meme: Real programmers count from 0.
 Commit #397 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #398 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
