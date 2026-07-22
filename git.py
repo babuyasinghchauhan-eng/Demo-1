@@ -19434,3 +19434,4 @@ Commit #983 | Meme: Software and cathedrals are much the same – first we build
 Commit #984 | Meme: It's not a bug, it's an undocumented feature.
 Commit #985 | Meme: Deleting code is better than writing code.
 Commit #986 | Meme: Deleting code is better than writing code.
+Commit #987 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
