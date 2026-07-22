@@ -14335,3 +14335,4 @@ Commit #884 | Meme: It's not a bug, it's an undocumented feature.
 Commit #885 | Meme: To understand recursion, you must first understand recursion.
 Commit #886 | Meme: Real programmers count from 0.
 Commit #887 | Meme: Real programmers count from 0.
+Commit #888 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
