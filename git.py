@@ -7987,3 +7987,4 @@ Commit #934 | Meme: There are 10 types of people: those who understand binary, a
 Commit #935 | Meme: Deleting code is better than writing code.
 Commit #936 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #937 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #938 | Meme: To understand recursion, you must first understand recursion.
