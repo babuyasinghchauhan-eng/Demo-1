@@ -8059,3 +8059,4 @@ Commit #7 | Meme: 99 little bugs in the code. Take one down, patch it around. 12
 Commit #8 | Meme: Deleting code is better than writing code.
 Commit #9 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #10 | Meme: Deleting code is better than writing code.
+Commit #11 | Meme: To understand recursion, you must first understand recursion.
