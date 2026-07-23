@@ -7590,3 +7590,4 @@ Commit #537 | Meme: Real programmers count from 0.
 Commit #538 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #539 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #540 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #541 | Meme: Hide and seek champion since 1958: ';' in C/C++
