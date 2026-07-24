@@ -18563,3 +18563,4 @@ Commit #112 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #113 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #114 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #115 | Meme: There's no place like 127.0.0.1
+Commit #116 | Meme: Deleting code is better than writing code.
