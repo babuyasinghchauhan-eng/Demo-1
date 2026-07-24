@@ -13433,3 +13433,4 @@ Commit #982 | Meme: Real programmers count from 0.
 Commit #983 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #984 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #985 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #986 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
