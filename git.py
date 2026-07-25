@@ -5210,3 +5210,4 @@ Commit #56 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #57 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #58 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #59 | Meme: There's no place like 127.0.0.1
+Commit #60 | Meme: Real programmers count from 0.
