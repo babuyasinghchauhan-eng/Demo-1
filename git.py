@@ -13514,3 +13514,4 @@ Commit #63 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #64 | Meme: It's not a bug, it's an undocumented feature.
 Commit #65 | Meme: Deleting code is better than writing code.
 Commit #66 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #67 | Meme: Hide and seek champion since 1958: ';' in C/C++
