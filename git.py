@@ -8493,3 +8493,4 @@ Commit #441 | Meme: To understand recursion, you must first understand recursion
 Commit #442 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #443 | Meme: In case of fire: git commit, git push, leave building.
 Commit #444 | Meme: To understand recursion, you must first understand recursion.
+Commit #445 | Meme: There are 10 types of people: those who understand binary, and those who don't.
