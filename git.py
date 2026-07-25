@@ -14367,3 +14367,4 @@ Commit #916 | Meme: It's not a bug, it's an undocumented feature.
 Commit #917 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #918 | Meme: Deleting code is better than writing code.
 Commit #919 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #920 | Meme: In case of fire: git commit, git push, leave building.
