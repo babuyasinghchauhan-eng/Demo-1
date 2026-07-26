@@ -7190,3 +7190,4 @@ Commit #137 | Meme: In case of fire: git commit, git push, leave building.
 Commit #138 | Meme: Deleting code is better than writing code.
 Commit #139 | Meme: To understand recursion, you must first understand recursion.
 Commit #140 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #141 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
