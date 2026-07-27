@@ -13849,3 +13849,4 @@ Commit #398 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #399 | Meme: There's no place like 127.0.0.1
 Commit #400 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #401 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #402 | Meme: Real programmers count from 0.
