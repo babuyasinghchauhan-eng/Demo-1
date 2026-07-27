@@ -8859,3 +8859,4 @@ Commit #807 | Meme: In case of fire: git commit, git push, leave building.
 Commit #808 | Meme: To understand recursion, you must first understand recursion.
 Commit #809 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #810 | Meme: To understand recursion, you must first understand recursion.
+Commit #811 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
