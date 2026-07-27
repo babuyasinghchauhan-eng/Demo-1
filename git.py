@@ -14443,3 +14443,4 @@ Commit #992 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #993 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #994 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #995 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #996 | Meme: Real programmers count from 0.
