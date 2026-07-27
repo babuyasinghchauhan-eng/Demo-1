@@ -8700,3 +8700,4 @@ Commit #648 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #649 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #650 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #651 | Meme: It's not a bug, it's an undocumented feature.
+Commit #652 | Meme: Why do Java developers wear glasses? Because they don't C#.
