@@ -8638,3 +8638,4 @@ Commit #586 | Meme: Real programmers count from 0.
 Commit #587 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #588 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #589 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #590 | Meme: To understand recursion, you must first understand recursion.
