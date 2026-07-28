@@ -14190,3 +14190,4 @@ Commit #739 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #740 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #741 | Meme: Deleting code is better than writing code.
 Commit #742 | Meme: There's no place like 127.0.0.1
+Commit #743 | Meme: Hide and seek champion since 1958: ';' in C/C++
