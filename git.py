@@ -13984,3 +13984,4 @@ Commit #533 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #534 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #535 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #536 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #537 | Meme: Hide and seek champion since 1958: ';' in C/C++
