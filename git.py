@@ -13040,3 +13040,4 @@ Commit #589 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #590 | Meme: In case of fire: git commit, git push, leave building.
 Commit #591 | Meme: It's not a bug, it's an undocumented feature.
 Commit #592 | Meme: There's no place like 127.0.0.1
+Commit #593 | Meme: Why do Java developers wear glasses? Because they don't C#.
