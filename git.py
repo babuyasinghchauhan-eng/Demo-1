@@ -14273,3 +14273,4 @@ Commit #822 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #823 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #824 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #825 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #826 | Meme: Real programmers count from 0.
