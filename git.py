@@ -5951,3 +5951,4 @@ Commit #797 | Meme: It's not a bug, it's an undocumented feature.
 Commit #798 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #799 | Meme: Real programmers count from 0.
 Commit #800 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #801 | Meme: Hide and seek champion since 1958: ';' in C/C++
