@@ -14406,3 +14406,4 @@ Commit #955 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #956 | Meme: Real programmers count from 0.
 Commit #957 | Meme: To understand recursion, you must first understand recursion.
 Commit #958 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #959 | Meme: To understand recursion, you must first understand recursion.
