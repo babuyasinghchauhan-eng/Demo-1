@@ -14284,3 +14284,4 @@ Commit #833 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #834 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #835 | Meme: It's not a bug, it's an undocumented feature.
 Commit #836 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #837 | Meme: In case of fire: git commit, git push, leave building.
