@@ -13043,3 +13043,4 @@ Commit #592 | Meme: There's no place like 127.0.0.1
 Commit #593 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #594 | Meme: Real programmers count from 0.
 Commit #595 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #596 | Meme: There are 10 types of people: those who understand binary, and those who don't.
