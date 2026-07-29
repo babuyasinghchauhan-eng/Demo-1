@@ -13761,3 +13761,4 @@ Commit #310 | Meme: There's no place like 127.0.0.1
 Commit #311 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #312 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #313 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #314 | Meme: In case of fire: git commit, git push, leave building.
