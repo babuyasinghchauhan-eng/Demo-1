@@ -5292,3 +5292,4 @@ Commit #138 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #139 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #140 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #141 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #142 | Meme: Real programmers count from 0.
