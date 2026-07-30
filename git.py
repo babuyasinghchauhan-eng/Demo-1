@@ -13575,3 +13575,4 @@ Commit #124 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #125 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #126 | Meme: In case of fire: git commit, git push, leave building.
 Commit #127 | Meme: To understand recursion, you must first understand recursion.
+Commit #128 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
