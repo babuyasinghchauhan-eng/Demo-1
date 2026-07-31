@@ -13991,3 +13991,4 @@ Commit #540 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #541 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #542 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #543 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #544 | Meme: To understand recursion, you must first understand recursion.
