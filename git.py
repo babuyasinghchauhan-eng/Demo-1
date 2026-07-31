@@ -8753,3 +8753,4 @@ Commit #701 | Meme: To understand recursion, you must first understand recursion
 Commit #702 | Meme: To understand recursion, you must first understand recursion.
 Commit #703 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #704 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #705 | Meme: It's not a bug, it's an undocumented feature.
