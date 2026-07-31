@@ -8334,3 +8334,4 @@ Commit #282 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #283 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #284 | Meme: Real programmers count from 0.
 Commit #285 | Meme: In case of fire: git commit, git push, leave building.
+Commit #286 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
