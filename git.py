@@ -12717,3 +12717,4 @@ Commit #266 | Meme: Software and cathedrals are much the same – first we build
 Commit #267 | Meme: It's not a bug, it's an undocumented feature.
 Commit #268 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #269 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #270 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
