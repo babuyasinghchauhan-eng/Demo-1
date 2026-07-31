@@ -12774,3 +12774,4 @@ Commit #323 | Meme: In case of fire: git commit, git push, leave building.
 Commit #324 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #325 | Meme: Deleting code is better than writing code.
 Commit #326 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #327 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
