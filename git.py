@@ -8984,3 +8984,4 @@ Commit #932 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #933 | Meme: It's not a bug, it's an undocumented feature.
 Commit #934 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #935 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #936 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
