@@ -5566,3 +5566,4 @@ Commit #412 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #413 | Meme: In case of fire: git commit, git push, leave building.
 Commit #414 | Meme: Deleting code is better than writing code.
 Commit #415 | Meme: Deleting code is better than writing code.
+Commit #416 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
