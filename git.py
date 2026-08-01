@@ -14320,3 +14320,4 @@ Commit #869 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #870 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #871 | Meme: To understand recursion, you must first understand recursion.
 Commit #872 | Meme: In case of fire: git commit, git push, leave building.
+Commit #873 | Meme: There's no place like 127.0.0.1
