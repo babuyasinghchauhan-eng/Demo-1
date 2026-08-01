@@ -8115,3 +8115,4 @@ Commit #63 | Meme: Deleting code is better than writing code.
 Commit #64 | Meme: Deleting code is better than writing code.
 Commit #65 | Meme: In case of fire: git commit, git push, leave building.
 Commit #66 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #67 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
