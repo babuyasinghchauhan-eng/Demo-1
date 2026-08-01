@@ -8320,3 +8320,4 @@ Commit #268 | Meme: There's no place like 127.0.0.1
 Commit #269 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #270 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #271 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #272 | Meme: Deleting code is better than writing code.
