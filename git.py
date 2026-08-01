@@ -14091,3 +14091,4 @@ Commit #640 | Meme: It's not a bug, it's an undocumented feature.
 Commit #641 | Meme: In case of fire: git commit, git push, leave building.
 Commit #642 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #643 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #644 | Meme: Real programmers count from 0.
