@@ -7801,3 +7801,4 @@ Commit #748 | Meme: It's not a bug, it's an undocumented feature.
 Commit #749 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #750 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #751 | Meme: It's not a bug, it's an undocumented feature.
+Commit #752 | Meme: To understand recursion, you must first understand recursion.
