@@ -8165,3 +8165,4 @@ Commit #113 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #114 | Meme: To understand recursion, you must first understand recursion.
 Commit #115 | Meme: There's no place like 127.0.0.1
 Commit #116 | Meme: Real programmers count from 0.
+Commit #117 | Meme: Hide and seek champion since 1958: ';' in C/C++
