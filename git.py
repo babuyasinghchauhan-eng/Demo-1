@@ -12624,3 +12624,4 @@ Commit #173 | Meme: It's not a bug, it's an undocumented feature.
 Commit #174 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #175 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #176 | Meme: Real programmers count from 0.
+Commit #177 | Meme: In case of fire: git commit, git push, leave building.
