@@ -13750,3 +13750,4 @@ Commit #299 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #300 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #301 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #302 | Meme: There's no place like 127.0.0.1
+Commit #303 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
