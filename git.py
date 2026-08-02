@@ -13598,3 +13598,4 @@ Commit #147 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #148 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #149 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #150 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #151 | Meme: In case of fire: git commit, git push, leave building.
