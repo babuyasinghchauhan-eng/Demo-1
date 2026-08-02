@@ -8418,3 +8418,4 @@ Commit #366 | Meme: There are 10 types of people: those who understand binary, a
 Commit #367 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #368 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #369 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #370 | Meme: To understand recursion, you must first understand recursion.
