@@ -14088,3 +14088,4 @@ Commit #637 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #638 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #639 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #640 | Meme: It's not a bug, it's an undocumented feature.
+Commit #641 | Meme: In case of fire: git commit, git push, leave building.
