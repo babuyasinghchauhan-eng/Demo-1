@@ -18608,3 +18608,4 @@ Commit #157 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #158 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #159 | Meme: Deleting code is better than writing code.
 Commit #160 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #161 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
