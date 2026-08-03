@@ -5428,3 +5428,4 @@ Commit #274 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #275 | Meme: In case of fire: git commit, git push, leave building.
 Commit #276 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #277 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #278 | Meme: It's not a bug, it's an undocumented feature.
