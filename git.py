@@ -13957,3 +13957,4 @@ Commit #506 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #507 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #508 | Meme: Deleting code is better than writing code.
 Commit #509 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #510 | Meme: To understand recursion, you must first understand recursion.
