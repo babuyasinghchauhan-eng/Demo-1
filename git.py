@@ -8593,3 +8593,4 @@ Commit #541 | Meme: Deleting code is better than writing code.
 Commit #542 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #543 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #544 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #545 | Meme: To understand recursion, you must first understand recursion.
