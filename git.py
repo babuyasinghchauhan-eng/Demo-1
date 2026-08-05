@@ -14326,3 +14326,4 @@ Commit #875 | Meme: Software and cathedrals are much the same – first we build
 Commit #876 | Meme: To understand recursion, you must first understand recursion.
 Commit #877 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #878 | Meme: Real programmers count from 0.
+Commit #879 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
