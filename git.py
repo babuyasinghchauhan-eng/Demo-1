@@ -6035,3 +6035,4 @@ Commit #881 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #882 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #883 | Meme: In case of fire: git commit, git push, leave building.
 Commit #884 | Meme: Real programmers count from 0.
+Commit #885 | Meme: To understand recursion, you must first understand recursion.
