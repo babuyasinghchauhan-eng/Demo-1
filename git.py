@@ -14049,3 +14049,4 @@ Commit #598 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #599 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #600 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #601 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #602 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
