@@ -7490,3 +7490,4 @@ Commit #437 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #438 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #439 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #440 | Meme: It's not a bug, it's an undocumented feature.
+Commit #441 | Meme: In case of fire: git commit, git push, leave building.
