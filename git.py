@@ -13474,3 +13474,4 @@ Commit #23 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #24 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #25 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #26 | Meme: To understand recursion, you must first understand recursion.
+Commit #27 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
