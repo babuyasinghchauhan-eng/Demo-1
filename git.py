@@ -8314,3 +8314,4 @@ Commit #262 | Meme: Deleting code is better than writing code.
 Commit #263 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #264 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #265 | Meme: Real programmers count from 0.
+Commit #266 | Meme: To understand recursion, you must first understand recursion.
