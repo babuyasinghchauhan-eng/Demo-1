@@ -12622,3 +12622,4 @@ Commit #171 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #172 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #173 | Meme: It's not a bug, it's an undocumented feature.
 Commit #174 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #175 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
