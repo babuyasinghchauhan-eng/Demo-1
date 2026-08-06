@@ -8279,3 +8279,4 @@ Commit #227 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #228 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #229 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #230 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #231 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
