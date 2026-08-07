@@ -13817,3 +13817,4 @@ Commit #366 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #367 | Meme: Real programmers count from 0.
 Commit #368 | Meme: Real programmers count from 0.
 Commit #369 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #370 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
