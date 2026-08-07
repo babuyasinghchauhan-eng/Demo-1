@@ -7469,3 +7469,4 @@ Commit #416 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #417 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #418 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #419 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #420 | Meme: Why do Java developers wear glasses? Because they don't C#.
