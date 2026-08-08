@@ -14094,3 +14094,4 @@ Commit #643 | Meme: Software and cathedrals are much the same – first we build
 Commit #644 | Meme: Real programmers count from 0.
 Commit #645 | Meme: Real programmers count from 0.
 Commit #646 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #647 | Meme: Deleting code is better than writing code.
