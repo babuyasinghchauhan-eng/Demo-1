@@ -8379,3 +8379,4 @@ Commit #327 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #328 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #329 | Meme: To understand recursion, you must first understand recursion.
 Commit #330 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #331 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
