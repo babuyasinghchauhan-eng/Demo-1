@@ -8474,3 +8474,4 @@ Commit #422 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #423 | Meme: It's not a bug, it's an undocumented feature.
 Commit #424 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #425 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #426 | Meme: To understand recursion, you must first understand recursion.
