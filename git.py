@@ -17273,3 +17273,4 @@ Commit #822 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #823 | Meme: There's no place like 127.0.0.1
 Commit #824 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #825 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #826 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
