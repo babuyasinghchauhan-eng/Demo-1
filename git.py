@@ -13566,3 +13566,4 @@ Commit #115 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #116 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #117 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #118 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #119 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
