@@ -16733,3 +16733,4 @@ Commit #282 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #283 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #284 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #285 | Meme: Real programmers count from 0.
+Commit #286 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
