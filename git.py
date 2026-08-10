@@ -12927,3 +12927,4 @@ Commit #476 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #477 | Meme: It's not a bug, it's an undocumented feature.
 Commit #478 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #479 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #480 | Meme: Real programmers count from 0.
