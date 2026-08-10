@@ -8547,3 +8547,4 @@ Commit #495 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #496 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #497 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #498 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #499 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
