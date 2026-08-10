@@ -8196,3 +8196,4 @@ Commit #144 | Meme: There are 10 types of people: those who understand binary, a
 Commit #145 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #146 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #147 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #148 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
