@@ -2321,3 +2321,4 @@ Commit #2269 | Meme: To understand recursion, you must first understand recursio
 Commit #2270 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2271 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2272 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2273 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
