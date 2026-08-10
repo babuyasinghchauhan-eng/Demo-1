@@ -4529,3 +4529,4 @@ Commit #4477 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #4478 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4479 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4480 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #4481 | Meme: There are 10 types of people: those who understand binary, and those who don't.
