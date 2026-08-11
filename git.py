@@ -17411,3 +17411,4 @@ Commit #960 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #961 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #962 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #963 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #964 | Meme: There are 10 types of people: those who understand binary, and those who don't.
