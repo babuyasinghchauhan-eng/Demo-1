@@ -867,3 +867,4 @@ Commit #815 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #816 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #817 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #818 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #819 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
