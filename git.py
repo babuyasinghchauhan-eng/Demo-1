@@ -9010,3 +9010,4 @@ Commit #958 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #959 | Meme: Deleting code is better than writing code.
 Commit #960 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #961 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #962 | Meme: There's no place like 127.0.0.1
