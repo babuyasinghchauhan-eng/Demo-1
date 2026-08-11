@@ -1760,3 +1760,4 @@ Commit #1708 | Meme: Real programmers count from 0.
 Commit #1709 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1710 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1711 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1712 | Meme: There are 10 types of people: those who understand binary, and those who don't.
