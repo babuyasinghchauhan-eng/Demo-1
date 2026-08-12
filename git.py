@@ -982,3 +982,4 @@ Commit #930 | Meme: In case of fire: git commit, git push, leave building.
 Commit #931 | Meme: In case of fire: git commit, git push, leave building.
 Commit #932 | Meme: In case of fire: git commit, git push, leave building.
 Commit #933 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #934 | Meme: There are 10 types of people: those who understand binary, and those who don't.
