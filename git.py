@@ -19059,3 +19059,4 @@ Commit #608 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #609 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #610 | Meme: It's not a bug, it's an undocumented feature.
 Commit #611 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #612 | Meme: To understand recursion, you must first understand recursion.
