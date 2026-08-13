@@ -16541,3 +16541,4 @@ Commit #90 | Meme: In case of fire: git commit, git push, leave building.
 Commit #91 | Meme: It's not a bug, it's an undocumented feature.
 Commit #92 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #93 | Meme: Real programmers count from 0.
+Commit #94 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
