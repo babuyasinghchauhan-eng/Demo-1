@@ -8148,3 +8148,4 @@ Commit #96 | Meme: It's not a bug, it's an undocumented feature.
 Commit #97 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #98 | Meme: To understand recursion, you must first understand recursion.
 Commit #99 | Meme: There's no place like 127.0.0.1
+Commit #100 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
