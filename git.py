@@ -1420,3 +1420,4 @@ Commit #1368 | Meme: Real programmers count from 0.
 Commit #1369 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1370 | Meme: Deleting code is better than writing code.
 Commit #1371 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #1372 | Meme: Why do Java developers wear glasses? Because they don't C#.
