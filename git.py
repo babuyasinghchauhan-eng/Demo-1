@@ -3963,3 +3963,4 @@ Commit #3911 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3912 | Meme: To understand recursion, you must first understand recursion.
 Commit #3913 | Meme: Deleting code is better than writing code.
 Commit #3914 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3915 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
