@@ -1461,3 +1461,4 @@ Commit #1409 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1410 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1411 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1412 | Meme: Deleting code is better than writing code.
+Commit #1413 | Meme: It's not a bug, it's an undocumented feature.
