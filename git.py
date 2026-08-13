@@ -8906,3 +8906,4 @@ Commit #854 | Meme: Deleting code is better than writing code.
 Commit #855 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #856 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #857 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #858 | Meme: To understand recursion, you must first understand recursion.
