@@ -104,3 +104,4 @@ Commit #52 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #53 | Meme: It's not a bug, it's an undocumented feature.
 Commit #54 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #55 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #56 | Meme: To understand recursion, you must first understand recursion.
