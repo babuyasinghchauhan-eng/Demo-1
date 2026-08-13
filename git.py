@@ -4209,3 +4209,4 @@ Commit #4157 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4158 | Meme: To understand recursion, you must first understand recursion.
 Commit #4159 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4160 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #4161 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
