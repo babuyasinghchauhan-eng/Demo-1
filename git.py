@@ -1610,3 +1610,4 @@ Commit #1558 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1559 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1560 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1561 | Meme: In case of fire: git commit, git push, leave building.
+Commit #1562 | Meme: There are 10 types of people: those who understand binary, and those who don't.
