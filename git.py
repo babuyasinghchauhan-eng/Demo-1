@@ -3258,3 +3258,4 @@ Commit #3206 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #3207 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3208 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3209 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #3210 | Meme: There are 10 types of people: those who understand binary, and those who don't.
