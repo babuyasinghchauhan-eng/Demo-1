@@ -12698,3 +12698,4 @@ Commit #247 | Meme: It's not a bug, it's an undocumented feature.
 Commit #248 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #249 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #250 | Meme: It's not a bug, it's an undocumented feature.
+Commit #251 | Meme: Real programmers count from 0.
