@@ -2461,3 +2461,4 @@ Commit #2409 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2410 | Meme: Deleting code is better than writing code.
 Commit #2411 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2412 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #2413 | Meme: There are 10 types of people: those who understand binary, and those who don't.
