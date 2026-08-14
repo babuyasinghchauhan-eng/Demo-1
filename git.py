@@ -111,3 +111,4 @@ Commit #59 | Meme: To understand recursion, you must first understand recursion.
 Commit #60 | Meme: In case of fire: git commit, git push, leave building.
 Commit #61 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #62 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #63 | Meme: In case of fire: git commit, git push, leave building.
