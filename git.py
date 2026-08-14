@@ -4476,3 +4476,4 @@ Commit #4424 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #4425 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4426 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4427 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #4428 | Meme: Deleting code is better than writing code.
