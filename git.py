@@ -580,3 +580,4 @@ Commit #528 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #529 | Meme: To understand recursion, you must first understand recursion.
 Commit #530 | Meme: To understand recursion, you must first understand recursion.
 Commit #531 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #532 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
