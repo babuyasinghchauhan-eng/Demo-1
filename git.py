@@ -3383,3 +3383,4 @@ Commit #3331 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3332 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3333 | Meme: There's no place like 127.0.0.1
 Commit #3334 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3335 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
