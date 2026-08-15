@@ -59,3 +59,4 @@ Commit #7 | Meme: A SQL query walks into a bar, walks up to two tables and asks:
 Commit #8 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #9 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #10 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #11 | Meme: In case of fire: git commit, git push, leave building.
