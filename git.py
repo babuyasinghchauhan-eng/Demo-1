@@ -3017,3 +3017,4 @@ Commit #2965 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #2966 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2967 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2968 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #2969 | Meme: Hide and seek champion since 1958: ';' in C/C++
