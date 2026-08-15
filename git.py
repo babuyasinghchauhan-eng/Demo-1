@@ -17107,3 +17107,4 @@ Commit #656 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #657 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #658 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #659 | Meme: Deleting code is better than writing code.
+Commit #660 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
