@@ -1298,3 +1298,4 @@ Commit #1246 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1247 | Meme: Real programmers count from 0.
 Commit #1248 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1249 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1250 | Meme: There's no place like 127.0.0.1
