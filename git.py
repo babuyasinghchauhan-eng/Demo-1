@@ -8974,3 +8974,4 @@ Commit #922 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #923 | Meme: Real programmers count from 0.
 Commit #924 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #925 | Meme: Real programmers count from 0.
+Commit #926 | Meme: To understand recursion, you must first understand recursion.
