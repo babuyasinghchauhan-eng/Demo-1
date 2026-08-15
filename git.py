@@ -2236,3 +2236,4 @@ Commit #2184 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2185 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2186 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #2187 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #2188 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
