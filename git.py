@@ -18959,3 +18959,4 @@ Commit #508 | Meme: To understand recursion, you must first understand recursion
 Commit #509 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #510 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #511 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #512 | Meme: There are 10 types of people: those who understand binary, and those who don't.
