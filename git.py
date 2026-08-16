@@ -3679,3 +3679,4 @@ Commit #3627 | Meme: There's no place like 127.0.0.1
 Commit #3628 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3629 | Meme: Deleting code is better than writing code.
 Commit #3630 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3631 | Meme: There are 10 types of people: those who understand binary, and those who don't.
