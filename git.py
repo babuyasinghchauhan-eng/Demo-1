@@ -669,3 +669,4 @@ Commit #617 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #618 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #619 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #620 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #621 | Meme: To understand recursion, you must first understand recursion.
