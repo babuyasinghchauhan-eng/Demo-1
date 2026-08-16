@@ -17433,3 +17433,4 @@ Commit #982 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #983 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #984 | Meme: In case of fire: git commit, git push, leave building.
 Commit #985 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #986 | Meme: Hide and seek champion since 1958: ';' in C/C++
