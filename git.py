@@ -2788,3 +2788,4 @@ Commit #2736 | Meme: There are 10 types of people: those who understand binary, 
 Commit #2737 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2738 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2739 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2740 | Meme: To understand recursion, you must first understand recursion.
