@@ -2556,3 +2556,4 @@ Commit #2504 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2505 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2506 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2507 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2508 | Meme: Deleting code is better than writing code.
