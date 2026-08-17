@@ -4219,3 +4219,4 @@ Commit #4167 | Meme: To understand recursion, you must first understand recursio
 Commit #4168 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4169 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4170 | Meme: It's not a bug, it's an undocumented feature.
+Commit #4171 | Meme: Hide and seek champion since 1958: ';' in C/C++
