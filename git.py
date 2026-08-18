@@ -2624,3 +2624,4 @@ Commit #2572 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2573 | Meme: To understand recursion, you must first understand recursion.
 Commit #2574 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2575 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2576 | Meme: Why do Java developers wear glasses? Because they don't C#.
