@@ -2658,3 +2658,4 @@ Commit #2606 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2607 | Meme: To understand recursion, you must first understand recursion.
 Commit #2608 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2609 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2610 | Meme: Deleting code is better than writing code.
