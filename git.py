@@ -16470,3 +16470,4 @@ Commit #19 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #20 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #21 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #22 | Meme: To understand recursion, you must first understand recursion.
+Commit #23 | Meme: There's no place like 127.0.0.1
