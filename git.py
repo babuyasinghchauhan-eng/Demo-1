@@ -2050,3 +2050,4 @@ Commit #1998 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1999 | Meme: There's no place like 127.0.0.1
 Commit #2000 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2001 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2002 | Meme: There are 10 types of people: those who understand binary, and those who don't.
