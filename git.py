@@ -8309,3 +8309,4 @@ Commit #257 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #258 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #259 | Meme: Deleting code is better than writing code.
 Commit #260 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #261 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
