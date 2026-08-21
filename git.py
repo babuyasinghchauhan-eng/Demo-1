@@ -1161,3 +1161,4 @@ Commit #1109 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1110 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1111 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1112 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #1113 | Meme: Real programmers count from 0.
