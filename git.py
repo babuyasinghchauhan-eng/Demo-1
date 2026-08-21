@@ -3194,3 +3194,4 @@ Commit #3142 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3143 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3144 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3145 | Meme: Deleting code is better than writing code.
+Commit #3146 | Meme: It's not a bug, it's an undocumented feature.
