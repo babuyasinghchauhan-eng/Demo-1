@@ -4065,3 +4065,4 @@ Commit #4013 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4014 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4015 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4016 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4017 | Meme: Real programmers count from 0.
