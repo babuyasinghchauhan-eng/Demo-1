@@ -34,3 +34,4 @@ Commit #32 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #33 | Meme: Real programmers count from 0.
 Commit #34 | Meme: In case of fire: git commit, git push, leave building.
 Commit #35 | Meme: Real programmers count from 0.
+Commit #36 | Meme: Deleting code is better than writing code.
