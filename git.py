@@ -2803,3 +2803,4 @@ Commit #2751 | Meme: There are 10 types of people: those who understand binary, 
 Commit #2752 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2753 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2754 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2755 | Meme: Real programmers count from 0.
