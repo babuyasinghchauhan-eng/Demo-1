@@ -1871,3 +1871,4 @@ Commit #1819 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1820 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1821 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1822 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #1823 | Meme: Works on my machine! ¯\_(ツ)_/¯
