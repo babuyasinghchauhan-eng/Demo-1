@@ -2669,3 +2669,4 @@ Commit #2617 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2618 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2619 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2620 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #2621 | Meme: It's not a bug, it's an undocumented feature.
