@@ -1344,3 +1344,4 @@ Commit #1292 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1293 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1294 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1295 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #1296 | Meme: In case of fire: git commit, git push, leave building.
