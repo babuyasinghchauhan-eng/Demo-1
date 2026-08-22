@@ -269,3 +269,4 @@ Commit #217 | Meme: To understand recursion, you must first understand recursion
 Commit #218 | Meme: There's no place like 127.0.0.1
 Commit #219 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #220 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #221 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
