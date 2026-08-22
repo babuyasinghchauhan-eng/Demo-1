@@ -4309,3 +4309,4 @@ Commit #4257 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #4258 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #4259 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4260 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #4261 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
