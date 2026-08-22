@@ -2548,3 +2548,4 @@ Commit #2496 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #2497 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2498 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #2499 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #2500 | Meme: There are 10 types of people: those who understand binary, and those who don't.
