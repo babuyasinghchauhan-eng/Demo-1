@@ -328,3 +328,4 @@ Commit #276 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #277 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #278 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #279 | Meme: To understand recursion, you must first understand recursion.
+Commit #280 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
