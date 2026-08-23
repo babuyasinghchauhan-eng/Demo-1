@@ -730,3 +730,4 @@ Commit #678 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #679 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #680 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #681 | Meme: There's no place like 127.0.0.1
+Commit #682 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
