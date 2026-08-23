@@ -8880,3 +8880,4 @@ Commit #828 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #829 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #830 | Meme: In case of fire: git commit, git push, leave building.
 Commit #831 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #832 | Meme: Hide and seek champion since 1958: ';' in C/C++
