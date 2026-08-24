@@ -532,3 +532,4 @@ Commit #480 | Meme: It's not a bug, it's an undocumented feature.
 Commit #481 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #482 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #483 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #484 | Meme: Why do Java developers wear glasses? Because they don't C#.
