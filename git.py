@@ -3891,3 +3891,4 @@ Commit #3839 | Meme: Software and cathedrals are much the same – first we buil
 Commit #3840 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3841 | Meme: Real programmers count from 0.
 Commit #3842 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3843 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
