@@ -17327,3 +17327,4 @@ Commit #876 | Meme: There are 10 types of people: those who understand binary, a
 Commit #877 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #878 | Meme: In case of fire: git commit, git push, leave building.
 Commit #879 | Meme: Real programmers count from 0.
+Commit #880 | Meme: To understand recursion, you must first understand recursion.
