@@ -4069,3 +4069,4 @@ Commit #4017 | Meme: Real programmers count from 0.
 Commit #4018 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4019 | Meme: Real programmers count from 0.
 Commit #4020 | Meme: Deleting code is better than writing code.
+Commit #4021 | Meme: Hide and seek champion since 1958: ';' in C/C++
