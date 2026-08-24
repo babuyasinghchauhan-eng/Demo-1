@@ -1581,3 +1581,4 @@ Commit #1529 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #1530 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1531 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1532 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1533 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
