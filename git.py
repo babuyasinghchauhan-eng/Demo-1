@@ -521,3 +521,4 @@ Commit #469 | Meme: Deleting code is better than writing code.
 Commit #470 | Meme: Real programmers count from 0.
 Commit #471 | Meme: Real programmers count from 0.
 Commit #472 | Meme: Real programmers count from 0.
+Commit #473 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
