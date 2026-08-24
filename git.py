@@ -4466,3 +4466,4 @@ Commit #4414 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4415 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4416 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4417 | Meme: In case of fire: git commit, git push, leave building.
+Commit #4418 | Meme: Hide and seek champion since 1958: ';' in C/C++
