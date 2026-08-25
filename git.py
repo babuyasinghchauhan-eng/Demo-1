@@ -3339,3 +3339,4 @@ Commit #3287 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3288 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3289 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3290 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #3291 | Meme: Why do Java developers wear glasses? Because they don't C#.
