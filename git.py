@@ -3036,3 +3036,4 @@ Commit #2984 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #2985 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2986 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2987 | Meme: To understand recursion, you must first understand recursion.
+Commit #2988 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
