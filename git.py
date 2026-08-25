@@ -4184,3 +4184,4 @@ Commit #4132 | Meme: There's no place like 127.0.0.1
 Commit #4133 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4134 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4135 | Meme: Real programmers count from 0.
+Commit #4136 | Meme: Deleting code is better than writing code.
