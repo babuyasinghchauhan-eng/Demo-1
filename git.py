@@ -3402,3 +3402,4 @@ Commit #3350 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3351 | Meme: To understand recursion, you must first understand recursion.
 Commit #3352 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3353 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3354 | Meme: Hide and seek champion since 1958: ';' in C/C++
