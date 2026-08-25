@@ -8994,3 +8994,4 @@ Commit #942 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #943 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #944 | Meme: It's not a bug, it's an undocumented feature.
 Commit #945 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #946 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
