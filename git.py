@@ -3730,3 +3730,4 @@ Commit #3678 | Meme: Software and cathedrals are much the same – first we buil
 Commit #3679 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3680 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3681 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #3682 | Meme: It's not a bug, it's an undocumented feature.
