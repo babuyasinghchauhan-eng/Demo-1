@@ -3987,3 +3987,4 @@ Commit #3935 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3936 | Meme: There's no place like 127.0.0.1
 Commit #3937 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3938 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #3939 | Meme: There are 10 types of people: those who understand binary, and those who don't.
