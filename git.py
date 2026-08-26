@@ -959,3 +959,4 @@ Commit #907 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #908 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #909 | Meme: To understand recursion, you must first understand recursion.
 Commit #910 | Meme: There's no place like 127.0.0.1
+Commit #911 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
