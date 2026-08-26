@@ -2560,3 +2560,4 @@ Commit #2508 | Meme: Deleting code is better than writing code.
 Commit #2509 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2510 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2511 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #2512 | Meme: In case of fire: git commit, git push, leave building.
