@@ -3617,3 +3617,4 @@ Commit #3565 | Meme: Deleting code is better than writing code.
 Commit #3566 | Meme: To understand recursion, you must first understand recursion.
 Commit #3567 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3568 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3569 | Meme: It's not a bug, it's an undocumented feature.
