@@ -8787,3 +8787,4 @@ Commit #735 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #736 | Meme: Deleting code is better than writing code.
 Commit #737 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #738 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #739 | Meme: Real programmers count from 0.
