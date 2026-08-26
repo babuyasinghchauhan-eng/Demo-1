@@ -3344,3 +3344,4 @@ Commit #3292 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3293 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3294 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3295 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3296 | Meme: There's no place like 127.0.0.1
