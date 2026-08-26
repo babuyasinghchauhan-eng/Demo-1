@@ -16615,3 +16615,4 @@ Commit #164 | Meme: Real programmers count from 0.
 Commit #165 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #166 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #167 | Meme: To understand recursion, you must first understand recursion.
+Commit #168 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
