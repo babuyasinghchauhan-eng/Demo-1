@@ -2621,3 +2621,4 @@ Commit #2569 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #2570 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2571 | Meme: Real programmers count from 0.
 Commit #2572 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2573 | Meme: To understand recursion, you must first understand recursion.
