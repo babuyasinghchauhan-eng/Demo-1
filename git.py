@@ -3040,3 +3040,4 @@ Commit #2988 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #2989 | Meme: There's no place like 127.0.0.1
 Commit #2990 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2991 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2992 | Meme: Hide and seek champion since 1958: ';' in C/C++
