@@ -4491,3 +4491,4 @@ Commit #4439 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #4440 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4441 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4442 | Meme: In case of fire: git commit, git push, leave building.
+Commit #4443 | Meme: To understand recursion, you must first understand recursion.
