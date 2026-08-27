@@ -16946,3 +16946,4 @@ Commit #495 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #496 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #497 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #498 | Meme: Deleting code is better than writing code.
+Commit #499 | Meme: Real programmers count from 0.
