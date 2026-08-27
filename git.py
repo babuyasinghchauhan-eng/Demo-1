@@ -8524,3 +8524,4 @@ Commit #472 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #473 | Meme: Deleting code is better than writing code.
 Commit #474 | Meme: In case of fire: git commit, git push, leave building.
 Commit #475 | Meme: Deleting code is better than writing code.
+Commit #476 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
