@@ -8114,3 +8114,4 @@ Commit #62 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #63 | Meme: Deleting code is better than writing code.
 Commit #64 | Meme: Deleting code is better than writing code.
 Commit #65 | Meme: In case of fire: git commit, git push, leave building.
+Commit #66 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
