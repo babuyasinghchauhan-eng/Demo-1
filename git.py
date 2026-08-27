@@ -1531,3 +1531,4 @@ Commit #1479 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1480 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1481 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1482 | Meme: Real programmers count from 0.
+Commit #1483 | Meme: Works on my machine! ¯\_(ツ)_/¯
