@@ -2442,3 +2442,4 @@ Commit #2390 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #2391 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2392 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #2393 | Meme: It's not a bug, it's an undocumented feature.
+Commit #2394 | Meme: Hide and seek champion since 1958: ';' in C/C++
