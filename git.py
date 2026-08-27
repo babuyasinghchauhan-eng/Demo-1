@@ -2163,3 +2163,4 @@ Commit #2111 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #2112 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2113 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2114 | Meme: There's no place like 127.0.0.1
+Commit #2115 | Meme: To understand recursion, you must first understand recursion.
