@@ -2132,3 +2132,4 @@ Commit #2080 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #2081 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2082 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2083 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2084 | Meme: Real programmers count from 0.
