@@ -913,3 +913,4 @@ Commit #861 | Meme: It's not a bug, it's an undocumented feature.
 Commit #862 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #863 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #864 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #865 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
