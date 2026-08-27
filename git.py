@@ -4218,3 +4218,4 @@ Commit #4166 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4167 | Meme: To understand recursion, you must first understand recursion.
 Commit #4168 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4169 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4170 | Meme: It's not a bug, it's an undocumented feature.
