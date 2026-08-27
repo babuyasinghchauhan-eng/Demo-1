@@ -8145,3 +8145,4 @@ Commit #93 | Meme: In case of fire: git commit, git push, leave building.
 Commit #94 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #95 | Meme: It's not a bug, it's an undocumented feature.
 Commit #96 | Meme: It's not a bug, it's an undocumented feature.
+Commit #97 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
