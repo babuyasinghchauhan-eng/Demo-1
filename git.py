@@ -953,3 +953,4 @@ Commit #901 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #902 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #903 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #904 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #905 | Meme: It's not a bug, it's an undocumented feature.
