@@ -910,3 +910,4 @@ Commit #858 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #859 | Meme: Deleting code is better than writing code.
 Commit #860 | Meme: It's not a bug, it's an undocumented feature.
 Commit #861 | Meme: It's not a bug, it's an undocumented feature.
+Commit #862 | Meme: There are 10 types of people: those who understand binary, and those who don't.
