@@ -795,3 +795,4 @@ Commit #743 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #744 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #745 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #746 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #747 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
