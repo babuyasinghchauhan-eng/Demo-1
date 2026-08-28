@@ -3055,3 +3055,4 @@ Commit #3003 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3004 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #3005 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3006 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #3007 | Meme: Deleting code is better than writing code.
