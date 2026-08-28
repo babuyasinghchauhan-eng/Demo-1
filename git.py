@@ -1714,3 +1714,4 @@ Commit #1662 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1663 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1664 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1665 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1666 | Meme: In case of fire: git commit, git push, leave building.
