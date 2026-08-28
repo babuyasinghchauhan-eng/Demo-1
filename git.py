@@ -4222,3 +4222,4 @@ Commit #4170 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4171 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4172 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4173 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #4174 | Meme: Real programmers count from 0.
