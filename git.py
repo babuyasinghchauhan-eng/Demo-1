@@ -16631,3 +16631,4 @@ Commit #180 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #181 | Meme: There's no place like 127.0.0.1
 Commit #182 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #183 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #184 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
