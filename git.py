@@ -8844,3 +8844,4 @@ Commit #792 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #793 | Meme: To understand recursion, you must first understand recursion.
 Commit #794 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #795 | Meme: Deleting code is better than writing code.
+Commit #796 | Meme: It's not a bug, it's an undocumented feature.
