@@ -8770,3 +8770,4 @@ Commit #718 | Meme: There are 10 types of people: those who understand binary, a
 Commit #719 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #720 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #721 | Meme: In case of fire: git commit, git push, leave building.
+Commit #722 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
