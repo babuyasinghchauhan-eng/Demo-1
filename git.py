@@ -8595,3 +8595,4 @@ Commit #543 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #544 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #545 | Meme: To understand recursion, you must first understand recursion.
 Commit #546 | Meme: There's no place like 127.0.0.1
+Commit #547 | Meme: Why do Java developers wear glasses? Because they don't C#.
