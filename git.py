@@ -8259,3 +8259,4 @@ Commit #207 | Meme: Deleting code is better than writing code.
 Commit #208 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #209 | Meme: Deleting code is better than writing code.
 Commit #210 | Meme: Real programmers count from 0.
+Commit #211 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
