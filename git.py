@@ -3995,3 +3995,4 @@ Commit #3943 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3944 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3945 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3946 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #3947 | Meme: In case of fire: git commit, git push, leave building.
