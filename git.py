@@ -619,3 +619,4 @@ Commit #567 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #568 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #569 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #570 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #571 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
