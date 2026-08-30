@@ -16573,3 +16573,4 @@ Commit #122 | Meme: Deleting code is better than writing code.
 Commit #123 | Meme: In case of fire: git commit, git push, leave building.
 Commit #124 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #125 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #126 | Meme: It's not a bug, it's an undocumented feature.
