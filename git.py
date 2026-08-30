@@ -4272,3 +4272,4 @@ Commit #4220 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4221 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #4222 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #4223 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4224 | Meme: In case of fire: git commit, git push, leave building.
