@@ -16990,3 +16990,4 @@ Commit #539 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #540 | Meme: It's not a bug, it's an undocumented feature.
 Commit #541 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #542 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #543 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
