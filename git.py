@@ -1257,3 +1257,4 @@ Commit #1205 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1206 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1207 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1208 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #1209 | Meme: In case of fire: git commit, git push, leave building.
