@@ -16565,3 +16565,4 @@ Commit #114 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #115 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #116 | Meme: Real programmers count from 0.
 Commit #117 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #118 | Meme: Why do Java developers wear glasses? Because they don't C#.
