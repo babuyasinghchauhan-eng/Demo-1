@@ -17048,3 +17048,4 @@ Commit #597 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #598 | Meme: To understand recursion, you must first understand recursion.
 Commit #599 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #600 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #601 | Meme: It's not a bug, it's an undocumented feature.
