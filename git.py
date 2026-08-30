@@ -8076,3 +8076,4 @@ Commit #24 | Meme: In case of fire: git commit, git push, leave building.
 Commit #25 | Meme: Real programmers count from 0.
 Commit #26 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #27 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #28 | Meme: Why do Java developers wear glasses? Because they don't C#.
