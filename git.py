@@ -16737,3 +16737,4 @@ Commit #286 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #287 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #288 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #289 | Meme: To understand recursion, you must first understand recursion.
+Commit #290 | Meme: In case of fire: git commit, git push, leave building.
