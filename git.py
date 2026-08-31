@@ -16860,3 +16860,4 @@ Commit #409 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #410 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #411 | Meme: To understand recursion, you must first understand recursion.
 Commit #412 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #413 | Meme: Why do Java developers wear glasses? Because they don't C#.
