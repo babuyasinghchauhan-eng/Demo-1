@@ -1268,3 +1268,4 @@ Commit #1216 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #1217 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1218 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1219 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1220 | Meme: Why do Java developers wear glasses? Because they don't C#.
