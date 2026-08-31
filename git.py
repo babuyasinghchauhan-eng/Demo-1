@@ -790,3 +790,4 @@ Commit #738 | Meme: Deleting code is better than writing code.
 Commit #739 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #740 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #741 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #742 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
