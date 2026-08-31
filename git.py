@@ -16624,3 +16624,4 @@ Commit #173 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #174 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #175 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #176 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #177 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
