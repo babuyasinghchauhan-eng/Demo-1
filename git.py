@@ -8460,3 +8460,4 @@ Commit #408 | Meme: It's not a bug, it's an undocumented feature.
 Commit #409 | Meme: It's not a bug, it's an undocumented feature.
 Commit #410 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #411 | Meme: Deleting code is better than writing code.
+Commit #412 | Meme: To understand recursion, you must first understand recursion.
