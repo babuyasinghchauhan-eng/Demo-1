@@ -645,3 +645,4 @@ Commit #593 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #594 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #595 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #596 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #597 | Meme: Real programmers count from 0.
