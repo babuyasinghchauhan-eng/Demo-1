@@ -1585,3 +1585,4 @@ Commit #1533 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1534 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1535 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1536 | Meme: To understand recursion, you must first understand recursion.
+Commit #1537 | Meme: Hide and seek champion since 1958: ';' in C/C++
