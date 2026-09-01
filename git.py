@@ -17384,3 +17384,4 @@ Commit #933 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #934 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #935 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #936 | Meme: There's no place like 127.0.0.1
+Commit #937 | Meme: Why do Java developers wear glasses? Because they don't C#.
