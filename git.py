@@ -2082,3 +2082,4 @@ Commit #2030 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2031 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2032 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2033 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2034 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
