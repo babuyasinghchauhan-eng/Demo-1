@@ -3150,3 +3150,4 @@ Commit #3098 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3099 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3100 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #3101 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #3102 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
