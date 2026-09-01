@@ -19325,3 +19325,4 @@ Commit #874 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #875 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #876 | Meme: It's not a bug, it's an undocumented feature.
 Commit #877 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #878 | Meme: Deleting code is better than writing code.
