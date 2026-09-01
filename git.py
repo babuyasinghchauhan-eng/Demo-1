@@ -3725,3 +3725,4 @@ Commit #3673 | Meme: There are 10 types of people: those who understand binary, 
 Commit #3674 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3675 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3676 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #3677 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
