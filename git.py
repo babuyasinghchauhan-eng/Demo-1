@@ -765,3 +765,4 @@ Commit #713 | Meme: There are 10 types of people: those who understand binary, a
 Commit #714 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #715 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #716 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #717 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
