@@ -2645,3 +2645,4 @@ Commit #2593 | Meme: There are 10 types of people: those who understand binary, 
 Commit #2594 | Meme: Deleting code is better than writing code.
 Commit #2595 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2596 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #2597 | Meme: There are 10 types of people: those who understand binary, and those who don't.
