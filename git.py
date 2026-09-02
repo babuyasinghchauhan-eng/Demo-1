@@ -8553,3 +8553,4 @@ Commit #501 | Meme: Deleting code is better than writing code.
 Commit #502 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #503 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #504 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #505 | Meme: Hide and seek champion since 1958: ';' in C/C++
