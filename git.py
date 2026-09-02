@@ -8272,3 +8272,4 @@ Commit #220 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #221 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #222 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #223 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #224 | Meme: In case of fire: git commit, git push, leave building.
