@@ -4569,3 +4569,4 @@ Commit #4517 | Meme: There's no place like 127.0.0.1
 Commit #4518 | Meme: Deleting code is better than writing code.
 Commit #4519 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #4520 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #4521 | Meme: Why do Java developers wear glasses? Because they don't C#.
