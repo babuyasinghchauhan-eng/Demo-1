@@ -8902,3 +8902,4 @@ Commit #850 | Meme: There are 10 types of people: those who understand binary, a
 Commit #851 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #852 | Meme: Real programmers count from 0.
 Commit #853 | Meme: To understand recursion, you must first understand recursion.
+Commit #854 | Meme: Deleting code is better than writing code.
