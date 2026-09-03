@@ -3594,3 +3594,4 @@ Commit #3542 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #3543 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3544 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3545 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3546 | Meme: Hide and seek champion since 1958: ';' in C/C++
