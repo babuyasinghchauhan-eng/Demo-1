@@ -734,3 +734,4 @@ Commit #682 | Meme: Software and cathedrals are much the same – first we build
 Commit #683 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #684 | Meme: It's not a bug, it's an undocumented feature.
 Commit #685 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #686 | Meme: To understand recursion, you must first understand recursion.
