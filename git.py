@@ -16634,3 +16634,4 @@ Commit #183 | Meme: There are 10 types of people: those who understand binary, a
 Commit #184 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #185 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #186 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #187 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
