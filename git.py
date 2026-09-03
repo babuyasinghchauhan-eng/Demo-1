@@ -17255,3 +17255,4 @@ Commit #804 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #805 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #806 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #807 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #808 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
