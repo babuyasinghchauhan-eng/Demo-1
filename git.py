@@ -1761,3 +1761,4 @@ Commit #1709 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1710 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1711 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1712 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1713 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
