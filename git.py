@@ -8091,3 +8091,4 @@ Commit #39 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #40 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #41 | Meme: It's not a bug, it's an undocumented feature.
 Commit #42 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #43 | Meme: In case of fire: git commit, git push, leave building.
