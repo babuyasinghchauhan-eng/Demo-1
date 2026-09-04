@@ -8393,3 +8393,4 @@ Commit #341 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #342 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #343 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #344 | Meme: There's no place like 127.0.0.1
+Commit #345 | Meme: There are 10 types of people: those who understand binary, and those who don't.
