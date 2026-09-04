@@ -4552,3 +4552,4 @@ Commit #4500 | Meme: There's no place like 127.0.0.1
 Commit #4501 | Meme: To understand recursion, you must first understand recursion.
 Commit #4502 | Meme: To understand recursion, you must first understand recursion.
 Commit #4503 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #4504 | Meme: Deleting code is better than writing code.
