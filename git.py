@@ -8055,3 +8055,4 @@ Commit #3 | Meme: Real programmers count from 0.
 Commit #4 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #5 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #6 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #7 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
