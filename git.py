@@ -2380,3 +2380,4 @@ Commit #2328 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2329 | Meme: There's no place like 127.0.0.1
 Commit #2330 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2331 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2332 | Meme: Deleting code is better than writing code.
