@@ -1057,3 +1057,4 @@ Commit #1005 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1006 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1007 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1008 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #1009 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
