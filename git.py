@@ -2641,3 +2641,4 @@ Commit #2589 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2590 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2591 | Meme: To understand recursion, you must first understand recursion.
 Commit #2592 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #2593 | Meme: There are 10 types of people: those who understand binary, and those who don't.
