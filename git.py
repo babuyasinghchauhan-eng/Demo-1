@@ -8431,3 +8431,4 @@ Commit #379 | Meme: There are 10 types of people: those who understand binary, a
 Commit #380 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #381 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #382 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #383 | Meme: Real programmers count from 0.
