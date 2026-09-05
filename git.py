@@ -4364,3 +4364,4 @@ Commit #4312 | Meme: To understand recursion, you must first understand recursio
 Commit #4313 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4314 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #4315 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #4316 | Meme: To understand recursion, you must first understand recursion.
