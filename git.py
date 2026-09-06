@@ -720,3 +720,4 @@ Commit #668 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #669 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #670 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #671 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #672 | Meme: Real programmers count from 0.
