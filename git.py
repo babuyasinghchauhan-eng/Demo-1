@@ -8860,3 +8860,4 @@ Commit #808 | Meme: To understand recursion, you must first understand recursion
 Commit #809 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #810 | Meme: To understand recursion, you must first understand recursion.
 Commit #811 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #812 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
