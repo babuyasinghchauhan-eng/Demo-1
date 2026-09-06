@@ -2382,3 +2382,4 @@ Commit #2330 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2331 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2332 | Meme: Deleting code is better than writing code.
 Commit #2333 | Meme: To understand recursion, you must first understand recursion.
+Commit #2334 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
