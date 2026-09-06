@@ -2097,3 +2097,4 @@ Commit #2045 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2046 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2047 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2048 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2049 | Meme: It's not a bug, it's an undocumented feature.
