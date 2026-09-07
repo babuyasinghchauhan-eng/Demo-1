@@ -17291,3 +17291,4 @@ Commit #840 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #841 | Meme: In case of fire: git commit, git push, leave building.
 Commit #842 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #843 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #844 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
