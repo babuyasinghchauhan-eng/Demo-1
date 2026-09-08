@@ -3691,3 +3691,4 @@ Commit #3639 | Meme: To understand recursion, you must first understand recursio
 Commit #3640 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3641 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3642 | Meme: To understand recursion, you must first understand recursion.
+Commit #3643 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
