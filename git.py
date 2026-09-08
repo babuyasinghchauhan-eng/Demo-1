@@ -1024,3 +1024,4 @@ Commit #972 | Meme: There's no place like 127.0.0.1
 Commit #973 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #974 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #975 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #976 | Meme: Deleting code is better than writing code.
