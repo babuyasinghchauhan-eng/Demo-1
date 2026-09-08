@@ -1172,3 +1172,4 @@ Commit #1120 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1121 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1122 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1123 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #1124 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
