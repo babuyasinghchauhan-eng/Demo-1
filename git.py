@@ -3306,3 +3306,4 @@ Commit #3254 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #3255 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #3256 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3257 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #3258 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
