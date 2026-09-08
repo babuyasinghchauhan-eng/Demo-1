@@ -8288,3 +8288,4 @@ Commit #236 | Meme: Deleting code is better than writing code.
 Commit #237 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #238 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #239 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #240 | Meme: To understand recursion, you must first understand recursion.
