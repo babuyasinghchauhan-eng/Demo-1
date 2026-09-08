@@ -1887,3 +1887,4 @@ Commit #1835 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #1836 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1837 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1838 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #1839 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
