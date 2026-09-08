@@ -3683,3 +3683,4 @@ Commit #3631 | Meme: There are 10 types of people: those who understand binary, 
 Commit #3632 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3633 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3634 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3635 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
