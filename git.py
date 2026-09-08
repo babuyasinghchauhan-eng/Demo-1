@@ -4404,3 +4404,4 @@ Commit #4352 | Meme: Software and cathedrals are much the same – first we buil
 Commit #4353 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #4354 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4355 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #4356 | Meme: There are 10 types of people: those who understand binary, and those who don't.
