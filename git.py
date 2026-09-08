@@ -8614,3 +8614,4 @@ Commit #562 | Meme: There are 10 types of people: those who understand binary, a
 Commit #563 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #564 | Meme: It's not a bug, it's an undocumented feature.
 Commit #565 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #566 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
