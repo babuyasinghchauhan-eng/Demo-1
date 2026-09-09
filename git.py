@@ -3802,3 +3802,4 @@ Commit #3750 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #3751 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3752 | Meme: Deleting code is better than writing code.
 Commit #3753 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #3754 | Meme: Real programmers count from 0.
