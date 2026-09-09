@@ -3646,3 +3646,4 @@ Commit #3594 | Meme: There are 10 types of people: those who understand binary, 
 Commit #3595 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #3596 | Meme: Deleting code is better than writing code.
 Commit #3597 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #3598 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
