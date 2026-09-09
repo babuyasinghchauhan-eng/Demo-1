@@ -8245,3 +8245,4 @@ Commit #193 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #194 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #195 | Meme: It's not a bug, it's an undocumented feature.
 Commit #196 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #197 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
