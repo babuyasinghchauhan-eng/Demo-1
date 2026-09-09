@@ -1776,3 +1776,4 @@ Commit #1724 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1725 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1726 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1727 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #1728 | Meme: To understand recursion, you must first understand recursion.
