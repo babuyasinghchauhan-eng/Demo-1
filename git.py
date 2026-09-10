@@ -2719,3 +2719,4 @@ Commit #2667 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2668 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2669 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2670 | Meme: To understand recursion, you must first understand recursion.
+Commit #2671 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
