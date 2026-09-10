@@ -4614,3 +4614,4 @@ Commit #4562 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4563 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #4564 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4565 | Meme: Deleting code is better than writing code.
+Commit #4566 | Meme: Hide and seek champion since 1958: ';' in C/C++
