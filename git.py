@@ -2776,3 +2776,4 @@ Commit #2724 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2725 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2726 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2727 | Meme: Deleting code is better than writing code.
+Commit #2728 | Meme: Deleting code is better than writing code.
