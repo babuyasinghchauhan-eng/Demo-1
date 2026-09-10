@@ -2503,3 +2503,4 @@ Commit #2451 | Meme: Real programmers count from 0.
 Commit #2452 | Meme: To understand recursion, you must first understand recursion.
 Commit #2453 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2454 | Meme: To understand recursion, you must first understand recursion.
+Commit #2455 | Meme: There are 10 types of people: those who understand binary, and those who don't.
