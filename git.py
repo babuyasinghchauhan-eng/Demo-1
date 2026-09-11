@@ -250,3 +250,4 @@ Commit #198 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #199 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #200 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #201 | Meme: In case of fire: git commit, git push, leave building.
+Commit #202 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
