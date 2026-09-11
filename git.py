@@ -8340,3 +8340,4 @@ Commit #288 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #289 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #290 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #291 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #292 | Meme: Real programmers count from 0.
