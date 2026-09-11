@@ -1357,3 +1357,4 @@ Commit #1305 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #1306 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1307 | Meme: Real programmers count from 0.
 Commit #1308 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #1309 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
