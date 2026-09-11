@@ -8693,3 +8693,4 @@ Commit #641 | Meme: Software and cathedrals are much the same – first we build
 Commit #642 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #643 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #644 | Meme: It's not a bug, it's an undocumented feature.
+Commit #645 | Meme: Real programmers count from 0.
