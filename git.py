@@ -3065,3 +3065,4 @@ Commit #3013 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #3014 | Meme: Real programmers count from 0.
 Commit #3015 | Meme: Real programmers count from 0.
 Commit #3016 | Meme: To understand recursion, you must first understand recursion.
+Commit #3017 | Meme: Hide and seek champion since 1958: ';' in C/C++
