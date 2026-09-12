@@ -1025,3 +1025,4 @@ Commit #973 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #974 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #975 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #976 | Meme: Deleting code is better than writing code.
+Commit #977 | Meme: In case of fire: git commit, git push, leave building.
