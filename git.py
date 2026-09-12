@@ -625,3 +625,4 @@ Commit #573 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #574 | Meme: It's not a bug, it's an undocumented feature.
 Commit #575 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #576 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #577 | Meme: Why do Java developers wear glasses? Because they don't C#.
