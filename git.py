@@ -19438,3 +19438,4 @@ Commit #987 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #988 | Meme: There's no place like 127.0.0.1
 Commit #989 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #990 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #991 | Meme: There are 10 types of people: those who understand binary, and those who don't.
