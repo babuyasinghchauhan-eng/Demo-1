@@ -802,3 +802,4 @@ Commit #750 | Meme: Real programmers count from 0.
 Commit #751 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #752 | Meme: There's no place like 127.0.0.1
 Commit #753 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #754 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
