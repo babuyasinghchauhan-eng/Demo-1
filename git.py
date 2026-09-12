@@ -1468,3 +1468,4 @@ Commit #1416 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1417 | Meme: Real programmers count from 0.
 Commit #1418 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1419 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1420 | Meme: Deleting code is better than writing code.
