@@ -1331,3 +1331,4 @@ Commit #1279 | Meme: To understand recursion, you must first understand recursio
 Commit #1280 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1281 | Meme: There's no place like 127.0.0.1
 Commit #1282 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1283 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
