@@ -8136,3 +8136,4 @@ Commit #84 | Meme: Real programmers count from 0.
 Commit #85 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #86 | Meme: It's not a bug, it's an undocumented feature.
 Commit #87 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #88 | Meme: Real programmers count from 0.
