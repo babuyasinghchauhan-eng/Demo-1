@@ -4243,3 +4243,4 @@ Commit #4191 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4192 | Meme: There's no place like 127.0.0.1
 Commit #4193 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4194 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #4195 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
