@@ -9005,3 +9005,4 @@ Commit #953 | Meme: Software and cathedrals are much the same – first we build
 Commit #954 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #955 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #956 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #957 | Meme: Real programmers count from 0.
