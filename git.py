@@ -16533,3 +16533,4 @@ Commit #82 | Meme: There are 10 types of people: those who understand binary, an
 Commit #83 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #84 | Meme: In case of fire: git commit, git push, leave building.
 Commit #85 | Meme: Real programmers count from 0.
+Commit #86 | Meme: There are 10 types of people: those who understand binary, and those who don't.
