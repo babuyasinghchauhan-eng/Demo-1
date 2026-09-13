@@ -8068,3 +8068,4 @@ Commit #16 | Meme: There's no place like 127.0.0.1
 Commit #17 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #18 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #19 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #20 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
