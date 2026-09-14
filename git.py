@@ -3941,3 +3941,4 @@ Commit #3889 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #3890 | Meme: Real programmers count from 0.
 Commit #3891 | Meme: Real programmers count from 0.
 Commit #3892 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3893 | Meme: Deleting code is better than writing code.
