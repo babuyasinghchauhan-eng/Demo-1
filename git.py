@@ -8111,3 +8111,4 @@ Commit #59 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #60 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #61 | Meme: In case of fire: git commit, git push, leave building.
 Commit #62 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #63 | Meme: Deleting code is better than writing code.
