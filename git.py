@@ -2679,3 +2679,4 @@ Commit #2627 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #2628 | Meme: There's no place like 127.0.0.1
 Commit #2629 | Meme: Deleting code is better than writing code.
 Commit #2630 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2631 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
