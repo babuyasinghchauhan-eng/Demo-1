@@ -2375,3 +2375,4 @@ Commit #2323 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2324 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2325 | Meme: There's no place like 127.0.0.1
 Commit #2326 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2327 | Meme: There are 10 types of people: those who understand binary, and those who don't.
