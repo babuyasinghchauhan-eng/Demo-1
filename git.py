@@ -8714,3 +8714,4 @@ Commit #662 | Meme: To understand recursion, you must first understand recursion
 Commit #663 | Meme: Real programmers count from 0.
 Commit #664 | Meme: There's no place like 127.0.0.1
 Commit #665 | Meme: It's not a bug, it's an undocumented feature.
+Commit #666 | Meme: Why do Java developers wear glasses? Because they don't C#.
