@@ -4067,3 +4067,4 @@ Commit #4015 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4016 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4017 | Meme: Real programmers count from 0.
 Commit #4018 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #4019 | Meme: Real programmers count from 0.
