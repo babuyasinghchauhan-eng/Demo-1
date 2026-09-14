@@ -4354,3 +4354,4 @@ Commit #4302 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4303 | Meme: Real programmers count from 0.
 Commit #4304 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4305 | Meme: Real programmers count from 0.
+Commit #4306 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
