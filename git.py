@@ -17421,3 +17421,4 @@ Commit #970 | Meme: To understand recursion, you must first understand recursion
 Commit #971 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #972 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #973 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #974 | Meme: Real programmers count from 0.
