@@ -2152,3 +2152,4 @@ Commit #2100 | Meme: There's no place like 127.0.0.1
 Commit #2101 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2102 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2103 | Meme: It's not a bug, it's an undocumented feature.
+Commit #2104 | Meme: Hide and seek champion since 1958: ';' in C/C++
