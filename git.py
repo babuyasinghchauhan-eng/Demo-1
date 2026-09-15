@@ -3135,3 +3135,4 @@ Commit #3083 | Meme: Deleting code is better than writing code.
 Commit #3084 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3085 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3086 | Meme: Real programmers count from 0.
+Commit #3087 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
