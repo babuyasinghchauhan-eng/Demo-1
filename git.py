@@ -8109,3 +8109,4 @@ Commit #57 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #58 | Meme: Deleting code is better than writing code.
 Commit #59 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #60 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #61 | Meme: In case of fire: git commit, git push, leave building.
