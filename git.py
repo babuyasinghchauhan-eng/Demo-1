@@ -4018,3 +4018,4 @@ Commit #3966 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3967 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3968 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3969 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #3970 | Meme: In case of fire: git commit, git push, leave building.
