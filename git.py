@@ -3672,3 +3672,4 @@ Commit #3620 | Meme: To understand recursion, you must first understand recursio
 Commit #3621 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3622 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3623 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #3624 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
