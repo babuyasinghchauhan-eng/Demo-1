@@ -8711,3 +8711,4 @@ Commit #659 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #660 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #661 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #662 | Meme: To understand recursion, you must first understand recursion.
+Commit #663 | Meme: Real programmers count from 0.
