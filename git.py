@@ -16899,3 +16899,4 @@ Commit #448 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #449 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #450 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #451 | Meme: It's not a bug, it's an undocumented feature.
+Commit #452 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
