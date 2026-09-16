@@ -2744,3 +2744,4 @@ Commit #2692 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2693 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2694 | Meme: Deleting code is better than writing code.
 Commit #2695 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #2696 | Meme: In case of fire: git commit, git push, leave building.
