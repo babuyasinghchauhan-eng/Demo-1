@@ -16548,3 +16548,4 @@ Commit #97 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #98 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #99 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #100 | Meme: In case of fire: git commit, git push, leave building.
+Commit #101 | Meme: There are 10 types of people: those who understand binary, and those who don't.
