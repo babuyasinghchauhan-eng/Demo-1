@@ -4020,3 +4020,4 @@ Commit #3968 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #3969 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3970 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3971 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #3972 | Meme: Deleting code is better than writing code.
