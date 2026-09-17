@@ -318,3 +318,4 @@ Commit #266 | Meme: There's no place like 127.0.0.1
 Commit #267 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #268 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #269 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #270 | Meme: Deleting code is better than writing code.
