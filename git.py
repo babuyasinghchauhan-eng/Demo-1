@@ -17308,3 +17308,4 @@ Commit #857 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #858 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #859 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #860 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #861 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
