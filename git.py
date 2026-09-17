@@ -3498,3 +3498,4 @@ Commit #3446 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #3447 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3448 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #3449 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #3450 | Meme: Why do Java developers wear glasses? Because they don't C#.
