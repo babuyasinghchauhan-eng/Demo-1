@@ -2016,3 +2016,4 @@ Commit #1964 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1965 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1966 | Meme: Real programmers count from 0.
 Commit #1967 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1968 | Meme: Why do Java developers wear glasses? Because they don't C#.
