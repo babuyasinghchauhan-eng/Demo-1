@@ -4339,3 +4339,4 @@ Commit #4287 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4288 | Meme: There's no place like 127.0.0.1
 Commit #4289 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #4290 | Meme: In case of fire: git commit, git push, leave building.
+Commit #4291 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
