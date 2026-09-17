@@ -1117,3 +1117,4 @@ Commit #1065 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1066 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1067 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1068 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1069 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
