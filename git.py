@@ -2759,3 +2759,4 @@ Commit #2707 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2708 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2709 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2710 | Meme: To understand recursion, you must first understand recursion.
+Commit #2711 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
