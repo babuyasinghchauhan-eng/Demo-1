@@ -12798,3 +12798,4 @@ Commit #347 | Meme: Software and cathedrals are much the same – first we build
 Commit #348 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #349 | Meme: In case of fire: git commit, git push, leave building.
 Commit #350 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #351 | Meme: Real programmers count from 0.
