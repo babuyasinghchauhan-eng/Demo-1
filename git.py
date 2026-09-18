@@ -3483,3 +3483,4 @@ Commit #3431 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3432 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3433 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3434 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #3435 | Meme: Deleting code is better than writing code.
