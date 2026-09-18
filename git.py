@@ -16948,3 +16948,4 @@ Commit #497 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #498 | Meme: Deleting code is better than writing code.
 Commit #499 | Meme: Real programmers count from 0.
 Commit #500 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #501 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
