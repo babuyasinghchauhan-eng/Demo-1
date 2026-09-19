@@ -17054,3 +17054,4 @@ Commit #603 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #604 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #605 | Meme: Real programmers count from 0.
 Commit #606 | Meme: In case of fire: git commit, git push, leave building.
+Commit #607 | Meme: To understand recursion, you must first understand recursion.
