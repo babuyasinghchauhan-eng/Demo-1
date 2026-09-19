@@ -404,3 +404,4 @@ Commit #352 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #353 | Meme: In case of fire: git commit, git push, leave building.
 Commit #354 | Meme: Deleting code is better than writing code.
 Commit #355 | Meme: Deleting code is better than writing code.
+Commit #356 | Meme: Hide and seek champion since 1958: ';' in C/C++
