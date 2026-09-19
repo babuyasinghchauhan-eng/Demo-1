@@ -9019,3 +9019,4 @@ Commit #967 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #968 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #969 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #970 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #971 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
