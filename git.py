@@ -1995,3 +1995,4 @@ Commit #1943 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1944 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1945 | Meme: To understand recursion, you must first understand recursion.
 Commit #1946 | Meme: There's no place like 127.0.0.1
+Commit #1947 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
