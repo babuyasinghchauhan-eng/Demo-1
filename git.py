@@ -3130,3 +3130,4 @@ Commit #3078 | Meme: Software and cathedrals are much the same – first we buil
 Commit #3079 | Meme: Real programmers count from 0.
 Commit #3080 | Meme: Real programmers count from 0.
 Commit #3081 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3082 | Meme: There's no place like 127.0.0.1
