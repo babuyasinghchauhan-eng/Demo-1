@@ -870,3 +870,4 @@ Commit #818 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #819 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #820 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #821 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #822 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
