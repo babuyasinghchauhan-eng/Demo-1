@@ -17315,3 +17315,4 @@ Commit #864 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #865 | Meme: In case of fire: git commit, git push, leave building.
 Commit #866 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #867 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #868 | Meme: There's no place like 127.0.0.1
