@@ -187,3 +187,4 @@ Commit #135 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #136 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #137 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #138 | Meme: Real programmers count from 0.
+Commit #139 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
