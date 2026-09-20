@@ -1947,3 +1947,4 @@ Commit #1895 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1896 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1897 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1898 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #1899 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
