@@ -1768,3 +1768,4 @@ Commit #1716 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1717 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1718 | Meme: Real programmers count from 0.
 Commit #1719 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1720 | Meme: To understand recursion, you must first understand recursion.
