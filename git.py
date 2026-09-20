@@ -2386,3 +2386,4 @@ Commit #2334 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2335 | Meme: Real programmers count from 0.
 Commit #2336 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2337 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2338 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
