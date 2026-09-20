@@ -2395,3 +2395,4 @@ Commit #2343 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2344 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2345 | Meme: Real programmers count from 0.
 Commit #2346 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #2347 | Meme: Why do Java developers wear glasses? Because they don't C#.
