@@ -1824,3 +1824,4 @@ Commit #1772 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1773 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1774 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1775 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #1776 | Meme: Hide and seek champion since 1958: ';' in C/C++
