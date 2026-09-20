@@ -8348,3 +8348,4 @@ Commit #296 | Meme: There's no place like 127.0.0.1
 Commit #297 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #298 | Meme: Deleting code is better than writing code.
 Commit #299 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #300 | Meme: Why do Java developers wear glasses? Because they don't C#.
