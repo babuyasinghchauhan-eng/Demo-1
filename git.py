@@ -3067,3 +3067,4 @@ Commit #3015 | Meme: Real programmers count from 0.
 Commit #3016 | Meme: To understand recursion, you must first understand recursion.
 Commit #3017 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3018 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3019 | Meme: There's no place like 127.0.0.1
