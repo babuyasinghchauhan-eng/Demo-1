@@ -8052,3 +8052,4 @@ Commit #999 | Meme: To understand recursion, you must first understand recursion
 Commit #1 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2 | Meme: To understand recursion, you must first understand recursion.
 Commit #3 | Meme: Real programmers count from 0.
+Commit #4 | Meme: Works on my machine! ¯\_(ツ)_/¯
