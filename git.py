@@ -1860,3 +1860,4 @@ Commit #1808 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1809 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1810 | Meme: Deleting code is better than writing code.
 Commit #1811 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #1812 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
