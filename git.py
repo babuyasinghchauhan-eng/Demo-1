@@ -1866,3 +1866,4 @@ Commit #1814 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #1815 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1816 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1817 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #1818 | Meme: Deleting code is better than writing code.
