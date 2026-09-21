@@ -3997,3 +3997,4 @@ Commit #3945 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3946 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #3947 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3948 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #3949 | Meme: Why do Java developers wear glasses? Because they don't C#.
