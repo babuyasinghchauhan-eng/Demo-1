@@ -823,3 +823,4 @@ Commit #771 | Meme: Deleting code is better than writing code.
 Commit #772 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #773 | Meme: Deleting code is better than writing code.
 Commit #774 | Meme: It's not a bug, it's an undocumented feature.
+Commit #775 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
