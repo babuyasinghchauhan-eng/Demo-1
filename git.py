@@ -1177,3 +1177,4 @@ Commit #1125 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1126 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1127 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1128 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #1129 | Meme: In case of fire: git commit, git push, leave building.
