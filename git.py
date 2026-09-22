@@ -4575,3 +4575,4 @@ Commit #4523 | Meme: To understand recursion, you must first understand recursio
 Commit #4524 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4525 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #4526 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #4527 | Meme: Hide and seek champion since 1958: ';' in C/C++
