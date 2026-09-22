@@ -3610,3 +3610,4 @@ Commit #3558 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3559 | Meme: There's no place like 127.0.0.1
 Commit #3560 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3561 | Meme: Deleting code is better than writing code.
+Commit #3562 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
