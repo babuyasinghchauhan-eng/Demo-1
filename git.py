@@ -8937,3 +8937,4 @@ Commit #885 | Meme: In case of fire: git commit, git push, leave building.
 Commit #886 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #887 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #888 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #889 | Meme: There are 10 types of people: those who understand binary, and those who don't.
