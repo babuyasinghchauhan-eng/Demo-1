@@ -12856,3 +12856,4 @@ Commit #405 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #406 | Meme: Real programmers count from 0.
 Commit #407 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #408 | Meme: Real programmers count from 0.
+Commit #409 | Meme: Hide and seek champion since 1958: ';' in C/C++
