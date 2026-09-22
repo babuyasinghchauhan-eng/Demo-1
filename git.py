@@ -1957,3 +1957,4 @@ Commit #1905 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1906 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1907 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1908 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1909 | Meme: Real programmers count from 0.
