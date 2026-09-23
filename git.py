@@ -1745,3 +1745,4 @@ Commit #1693 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1694 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1695 | Meme: To understand recursion, you must first understand recursion.
 Commit #1696 | Meme: Real programmers count from 0.
+Commit #1697 | Meme: There's no place like 127.0.0.1
