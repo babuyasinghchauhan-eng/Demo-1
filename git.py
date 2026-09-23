@@ -2906,3 +2906,4 @@ Commit #2854 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2855 | Meme: Deleting code is better than writing code.
 Commit #2856 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2857 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #2858 | Meme: In case of fire: git commit, git push, leave building.
