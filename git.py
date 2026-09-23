@@ -697,3 +697,4 @@ Commit #645 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #646 | Meme: It's not a bug, it's an undocumented feature.
 Commit #647 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #648 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #649 | Meme: Real programmers count from 0.
