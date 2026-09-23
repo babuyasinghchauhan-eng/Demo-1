@@ -108,3 +108,4 @@ Commit #56 | Meme: To understand recursion, you must first understand recursion.
 Commit #57 | Meme: Deleting code is better than writing code.
 Commit #58 | Meme: There's no place like 127.0.0.1
 Commit #59 | Meme: To understand recursion, you must first understand recursion.
+Commit #60 | Meme: In case of fire: git commit, git push, leave building.
