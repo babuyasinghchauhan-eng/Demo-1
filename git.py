@@ -16878,3 +16878,4 @@ Commit #427 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #428 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #429 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #430 | Meme: In case of fire: git commit, git push, leave building.
+Commit #431 | Meme: There are 10 types of people: those who understand binary, and those who don't.
