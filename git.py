@@ -9007,3 +9007,4 @@ Commit #955 | Meme: Software and cathedrals are much the same – first we build
 Commit #956 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #957 | Meme: Real programmers count from 0.
 Commit #958 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #959 | Meme: Deleting code is better than writing code.
