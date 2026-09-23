@@ -1085,3 +1085,4 @@ Commit #1033 | Meme: There are 10 types of people: those who understand binary, 
 Commit #1034 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1035 | Meme: Deleting code is better than writing code.
 Commit #1036 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1037 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
