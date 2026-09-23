@@ -8210,3 +8210,4 @@ Commit #158 | Meme: Software and cathedrals are much the same – first we build
 Commit #159 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #160 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #161 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #162 | Meme: Why do Java developers wear glasses? Because they don't C#.
