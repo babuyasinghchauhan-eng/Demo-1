@@ -1315,3 +1315,4 @@ Commit #1263 | Meme: To understand recursion, you must first understand recursio
 Commit #1264 | Meme: Deleting code is better than writing code.
 Commit #1265 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1266 | Meme: In case of fire: git commit, git push, leave building.
+Commit #1267 | Meme: To understand recursion, you must first understand recursion.
