@@ -12873,3 +12873,4 @@ Commit #422 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #423 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #424 | Meme: There's no place like 127.0.0.1
 Commit #425 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #426 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
