@@ -1401,3 +1401,4 @@ Commit #1349 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1350 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1351 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1352 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1353 | Meme: Real programmers count from 0.
