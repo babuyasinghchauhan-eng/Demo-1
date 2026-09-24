@@ -1080,3 +1080,4 @@ Commit #1028 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1029 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1030 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1031 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #1032 | Meme: To understand recursion, you must first understand recursion.
