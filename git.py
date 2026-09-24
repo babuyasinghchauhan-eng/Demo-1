@@ -3246,3 +3246,4 @@ Commit #3194 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3195 | Meme: There's no place like 127.0.0.1
 Commit #3196 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3197 | Meme: Deleting code is better than writing code.
+Commit #3198 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
