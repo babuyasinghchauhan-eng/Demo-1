@@ -16991,3 +16991,4 @@ Commit #540 | Meme: It's not a bug, it's an undocumented feature.
 Commit #541 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #542 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #543 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #544 | Meme: Deleting code is better than writing code.
