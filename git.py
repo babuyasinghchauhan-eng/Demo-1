@@ -1041,3 +1041,4 @@ Commit #989 | Meme: To understand recursion, you must first understand recursion
 Commit #990 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #991 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #992 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #993 | Meme: It's not a bug, it's an undocumented feature.
