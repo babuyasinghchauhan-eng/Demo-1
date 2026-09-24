@@ -8192,3 +8192,4 @@ Commit #140 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #141 | Meme: In case of fire: git commit, git push, leave building.
 Commit #142 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #143 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #144 | Meme: There are 10 types of people: those who understand binary, and those who don't.
