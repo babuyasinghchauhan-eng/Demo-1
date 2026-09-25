@@ -8733,3 +8733,4 @@ Commit #681 | Meme: Deleting code is better than writing code.
 Commit #682 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #683 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #684 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #685 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
