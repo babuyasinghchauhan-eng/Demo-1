@@ -4519,3 +4519,4 @@ Commit #4467 | Meme: Software and cathedrals are much the same – first we buil
 Commit #4468 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4469 | Meme: There's no place like 127.0.0.1
 Commit #4470 | Meme: Deleting code is better than writing code.
+Commit #4471 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
