@@ -8388,3 +8388,4 @@ Commit #336 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #337 | Meme: Deleting code is better than writing code.
 Commit #338 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #339 | Meme: There's no place like 127.0.0.1
+Commit #340 | Meme: Real programmers count from 0.
