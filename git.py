@@ -17298,3 +17298,4 @@ Commit #847 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #848 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #849 | Meme: There's no place like 127.0.0.1
 Commit #850 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #851 | Meme: It's not a bug, it's an undocumented feature.
