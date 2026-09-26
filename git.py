@@ -1447,3 +1447,4 @@ Commit #1395 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #1396 | Meme: There's no place like 127.0.0.1
 Commit #1397 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1398 | Meme: To understand recursion, you must first understand recursion.
+Commit #1399 | Meme: It's not a bug, it's an undocumented feature.
