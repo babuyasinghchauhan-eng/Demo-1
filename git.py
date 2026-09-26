@@ -17068,3 +17068,4 @@ Commit #617 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #618 | Meme: Real programmers count from 0.
 Commit #619 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #620 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #621 | Meme: Deleting code is better than writing code.
