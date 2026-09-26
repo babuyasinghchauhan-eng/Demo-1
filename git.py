@@ -3719,3 +3719,4 @@ Commit #3667 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3668 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3669 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3670 | Meme: Deleting code is better than writing code.
+Commit #3671 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
