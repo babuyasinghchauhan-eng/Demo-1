@@ -4522,3 +4522,4 @@ Commit #4470 | Meme: Deleting code is better than writing code.
 Commit #4471 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4472 | Meme: Real programmers count from 0.
 Commit #4473 | Meme: It's not a bug, it's an undocumented feature.
+Commit #4474 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
