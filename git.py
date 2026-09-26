@@ -4351,3 +4351,4 @@ Commit #4299 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4300 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4301 | Meme: To understand recursion, you must first understand recursion.
 Commit #4302 | Meme: It's not a bug, it's an undocumented feature.
+Commit #4303 | Meme: Real programmers count from 0.
