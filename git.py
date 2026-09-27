@@ -878,3 +878,4 @@ Commit #826 | Meme: Software and cathedrals are much the same – first we build
 Commit #827 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #828 | Meme: It's not a bug, it's an undocumented feature.
 Commit #829 | Meme: Deleting code is better than writing code.
+Commit #830 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
