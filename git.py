@@ -2952,3 +2952,4 @@ Commit #2900 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2901 | Meme: To understand recursion, you must first understand recursion.
 Commit #2902 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2903 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #2904 | Meme: There are 10 types of people: those who understand binary, and those who don't.
