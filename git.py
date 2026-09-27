@@ -2842,3 +2842,4 @@ Commit #2790 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2791 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2792 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2793 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2794 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
