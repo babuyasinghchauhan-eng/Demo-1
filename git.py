@@ -3766,3 +3766,4 @@ Commit #3714 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3715 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3716 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3717 | Meme: To understand recursion, you must first understand recursion.
+Commit #3718 | Meme: In case of fire: git commit, git push, leave building.
