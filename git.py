@@ -17213,3 +17213,4 @@ Commit #762 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #763 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #764 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #765 | Meme: Deleting code is better than writing code.
+Commit #766 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
