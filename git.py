@@ -1892,3 +1892,4 @@ Commit #1840 | Meme: To understand recursion, you must first understand recursio
 Commit #1841 | Meme: There's no place like 127.0.0.1
 Commit #1842 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1843 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #1844 | Meme: Why do Java developers wear glasses? Because they don't C#.
