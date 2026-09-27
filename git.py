@@ -8619,3 +8619,4 @@ Commit #567 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #568 | Meme: Deleting code is better than writing code.
 Commit #569 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #570 | Meme: There's no place like 127.0.0.1
+Commit #571 | Meme: Hide and seek champion since 1958: ';' in C/C++
