@@ -2753,3 +2753,4 @@ Commit #2701 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2702 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2703 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2704 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #2705 | Meme: There are 10 types of people: those who understand binary, and those who don't.
