@@ -8125,3 +8125,4 @@ Commit #73 | Meme: Software and cathedrals are much the same – first we build 
 Commit #74 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #75 | Meme: To understand recursion, you must first understand recursion.
 Commit #76 | Meme: It's not a bug, it's an undocumented feature.
+Commit #77 | Meme: In case of fire: git commit, git push, leave building.
