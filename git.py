@@ -8660,3 +8660,4 @@ Commit #608 | Meme: It's not a bug, it's an undocumented feature.
 Commit #609 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #610 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #611 | Meme: In case of fire: git commit, git push, leave building.
+Commit #612 | Meme: To understand recursion, you must first understand recursion.
