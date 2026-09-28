@@ -491,3 +491,4 @@ Commit #439 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #440 | Meme: Deleting code is better than writing code.
 Commit #441 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #442 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #443 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
