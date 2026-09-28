@@ -2627,3 +2627,4 @@ Commit #2575 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #2576 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2577 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2578 | Meme: To understand recursion, you must first understand recursion.
+Commit #2579 | Meme: Why do Java developers wear glasses? Because they don't C#.
