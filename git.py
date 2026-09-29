@@ -2792,3 +2792,4 @@ Commit #2740 | Meme: To understand recursion, you must first understand recursio
 Commit #2741 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #2742 | Meme: To understand recursion, you must first understand recursion.
 Commit #2743 | Meme: Real programmers count from 0.
+Commit #2744 | Meme: Deleting code is better than writing code.
