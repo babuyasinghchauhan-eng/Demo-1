@@ -1955,3 +1955,4 @@ Commit #1903 | Meme: Software and cathedrals are much the same – first we buil
 Commit #1904 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1905 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1906 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1907 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
