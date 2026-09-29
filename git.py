@@ -137,3 +137,4 @@ Commit #85 | Meme: Software and cathedrals are much the same – first we build 
 Commit #86 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #87 | Meme: It's not a bug, it's an undocumented feature.
 Commit #88 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #89 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
