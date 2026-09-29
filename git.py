@@ -395,3 +395,4 @@ Commit #343 | Meme: To understand recursion, you must first understand recursion
 Commit #344 | Meme: Real programmers count from 0.
 Commit #345 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #346 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #347 | Meme: There are 10 types of people: those who understand binary, and those who don't.
