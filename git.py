@@ -772,3 +772,4 @@ Commit #720 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #721 | Meme: There's no place like 127.0.0.1
 Commit #722 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #723 | Meme: It's not a bug, it's an undocumented feature.
+Commit #724 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
