@@ -2822,3 +2822,4 @@ Commit #2770 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2771 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #2772 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2773 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2774 | Meme: Real programmers count from 0.
