@@ -2691,3 +2691,4 @@ Commit #2639 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2640 | Meme: There's no place like 127.0.0.1
 Commit #2641 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2642 | Meme: It's not a bug, it's an undocumented feature.
+Commit #2643 | Meme: To understand recursion, you must first understand recursion.
