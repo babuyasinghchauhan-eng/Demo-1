@@ -12190,3 +12190,4 @@ Commit #139 | Meme: Deleting code is better than writing code.
 Commit #140 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #141 | Meme: To understand recursion, you must first understand recursion.
 Commit #142 | Meme: Deleting code is better than writing code.
+Commit #143 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
