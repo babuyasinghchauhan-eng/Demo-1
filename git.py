@@ -12298,3 +12298,4 @@ Commit #247 | Meme: There are 10 types of people: those who understand binary, a
 Commit #248 | Meme: There's no place like 127.0.0.1
 Commit #249 | Meme: To understand recursion, you must first understand recursion.
 Commit #250 | Meme: It's not a bug, it's an undocumented feature.
+Commit #251 | Meme: Hide and seek champion since 1958: ';' in C/C++
