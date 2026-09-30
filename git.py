@@ -1306,3 +1306,4 @@ Commit #1254 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1255 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1256 | Meme: Deleting code is better than writing code.
 Commit #1257 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1258 | Meme: To understand recursion, you must first understand recursion.
