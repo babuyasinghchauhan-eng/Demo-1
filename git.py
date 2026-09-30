@@ -12370,3 +12370,4 @@ Commit #319 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #320 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #321 | Meme: To understand recursion, you must first understand recursion.
 Commit #322 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #323 | Meme: There are 10 types of people: those who understand binary, and those who don't.
