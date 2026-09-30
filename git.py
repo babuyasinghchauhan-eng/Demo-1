@@ -12439,3 +12439,4 @@ Commit #388 | Meme: Deleting code is better than writing code.
 Commit #389 | Meme: In case of fire: git commit, git push, leave building.
 Commit #390 | Meme: Deleting code is better than writing code.
 Commit #391 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #392 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
