@@ -4566,3 +4566,4 @@ Commit #4514 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #4515 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4516 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4517 | Meme: There's no place like 127.0.0.1
+Commit #4518 | Meme: Deleting code is better than writing code.
