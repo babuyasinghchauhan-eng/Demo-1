@@ -3823,3 +3823,4 @@ Commit #3771 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #3772 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3773 | Meme: Deleting code is better than writing code.
 Commit #3774 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3775 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
