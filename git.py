@@ -323,3 +323,4 @@ Commit #271 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #272 | Meme: In case of fire: git commit, git push, leave building.
 Commit #273 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #274 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #275 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
