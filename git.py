@@ -12247,3 +12247,4 @@ Commit #196 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #197 | Meme: In case of fire: git commit, git push, leave building.
 Commit #198 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #199 | Meme: Deleting code is better than writing code.
+Commit #200 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
