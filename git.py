@@ -12290,3 +12290,4 @@ Commit #239 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #240 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #241 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #242 | Meme: To understand recursion, you must first understand recursion.
+Commit #243 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
