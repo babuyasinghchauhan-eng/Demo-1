@@ -12065,3 +12065,4 @@ Commit #14 | Meme: To understand recursion, you must first understand recursion.
 Commit #15 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #16 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #17 | Meme: To understand recursion, you must first understand recursion.
+Commit #18 | Meme: In case of fire: git commit, git push, leave building.
