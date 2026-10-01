@@ -3589,3 +3589,4 @@ Commit #3537 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3538 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3539 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3540 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3541 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
