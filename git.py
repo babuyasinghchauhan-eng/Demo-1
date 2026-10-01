@@ -956,3 +956,4 @@ Commit #904 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #905 | Meme: It's not a bug, it's an undocumented feature.
 Commit #906 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #907 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #908 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
