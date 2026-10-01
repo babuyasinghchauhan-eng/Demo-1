@@ -4344,3 +4344,4 @@ Commit #4292 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4293 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4294 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4295 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #4296 | Meme: There's no place like 127.0.0.1
