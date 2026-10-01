@@ -12325,3 +12325,4 @@ Commit #274 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #275 | Meme: To understand recursion, you must first understand recursion.
 Commit #276 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #277 | Meme: It's not a bug, it's an undocumented feature.
+Commit #278 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
