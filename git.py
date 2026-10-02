@@ -2701,3 +2701,4 @@ Commit #2649 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2650 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2651 | Meme: Real programmers count from 0.
 Commit #2652 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2653 | Meme: To understand recursion, you must first understand recursion.
