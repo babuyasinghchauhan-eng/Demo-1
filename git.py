@@ -3472,3 +3472,4 @@ Commit #3420 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3421 | Meme: Deleting code is better than writing code.
 Commit #3422 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3423 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3424 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
