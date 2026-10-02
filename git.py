@@ -987,3 +987,4 @@ Commit #935 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #936 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #937 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #938 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #939 | Meme: Real programmers count from 0.
