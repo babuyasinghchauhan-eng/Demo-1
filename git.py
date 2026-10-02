@@ -399,3 +399,4 @@ Commit #347 | Meme: There are 10 types of people: those who understand binary, a
 Commit #348 | Meme: In case of fire: git commit, git push, leave building.
 Commit #349 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #350 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #351 | Meme: It's not a bug, it's an undocumented feature.
