@@ -3221,3 +3221,4 @@ Commit #3169 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3170 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3171 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3172 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3173 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
