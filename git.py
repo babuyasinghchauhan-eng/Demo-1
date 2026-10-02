@@ -2046,3 +2046,4 @@ Commit #1994 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1995 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1996 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1997 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1998 | Meme: Why do Java developers wear glasses? Because they don't C#.
