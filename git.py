@@ -3011,3 +3011,4 @@ Commit #2959 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #2960 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2961 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2962 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #2963 | Meme: Deleting code is better than writing code.
