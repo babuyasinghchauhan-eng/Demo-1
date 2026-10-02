@@ -3868,3 +3868,4 @@ Commit #3816 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #3817 | Meme: There's no place like 127.0.0.1
 Commit #3818 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #3819 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3820 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
