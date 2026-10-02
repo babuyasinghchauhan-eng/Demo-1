@@ -12393,3 +12393,4 @@ Commit #342 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #343 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #344 | Meme: There's no place like 127.0.0.1
 Commit #345 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #346 | Meme: Why do Java developers wear glasses? Because they don't C#.
