@@ -1023,3 +1023,4 @@ Commit #971 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #972 | Meme: There's no place like 127.0.0.1
 Commit #973 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #974 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #975 | Meme: There are 10 types of people: those who understand binary, and those who don't.
