@@ -2623,3 +2623,4 @@ Commit #2571 | Meme: Real programmers count from 0.
 Commit #2572 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2573 | Meme: To understand recursion, you must first understand recursion.
 Commit #2574 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2575 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
