@@ -1960,3 +1960,4 @@ Commit #1908 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1909 | Meme: Real programmers count from 0.
 Commit #1910 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1911 | Meme: In case of fire: git commit, git push, leave building.
+Commit #1912 | Meme: To understand recursion, you must first understand recursion.
