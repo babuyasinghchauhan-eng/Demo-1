@@ -356,3 +356,4 @@ Commit #304 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #305 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #306 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #307 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #308 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
