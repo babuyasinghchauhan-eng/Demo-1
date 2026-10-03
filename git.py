@@ -1627,3 +1627,4 @@ Commit #1575 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1576 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1577 | Meme: To understand recursion, you must first understand recursion.
 Commit #1578 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1579 | Meme: To understand recursion, you must first understand recursion.
