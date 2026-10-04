@@ -12340,3 +12340,4 @@ Commit #289 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #290 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #291 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #292 | Meme: Deleting code is better than writing code.
+Commit #293 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
