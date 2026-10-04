@@ -1347,3 +1347,4 @@ Commit #1295 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1296 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1297 | Meme: Deleting code is better than writing code.
 Commit #1298 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1299 | Meme: There's no place like 127.0.0.1
