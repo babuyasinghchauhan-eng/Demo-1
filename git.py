@@ -4424,3 +4424,4 @@ Commit #4372 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4373 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4374 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4375 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #4376 | Meme: There are 10 types of people: those who understand binary, and those who don't.
