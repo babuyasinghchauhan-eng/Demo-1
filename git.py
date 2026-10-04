@@ -3235,3 +3235,4 @@ Commit #3183 | Meme: To understand recursion, you must first understand recursio
 Commit #3184 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3185 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3186 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3187 | Meme: It's not a bug, it's an undocumented feature.
