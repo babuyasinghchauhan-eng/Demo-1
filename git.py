@@ -2104,3 +2104,4 @@ Commit #2052 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2053 | Meme: To understand recursion, you must first understand recursion.
 Commit #2054 | Meme: To understand recursion, you must first understand recursion.
 Commit #2055 | Meme: Deleting code is better than writing code.
+Commit #2056 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
