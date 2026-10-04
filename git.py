@@ -209,3 +209,4 @@ Commit #157 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #158 | Meme: In case of fire: git commit, git push, leave building.
 Commit #159 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #160 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #161 | Meme: Deleting code is better than writing code.
