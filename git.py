@@ -12445,3 +12445,4 @@ Commit #394 | Meme: Software and cathedrals are much the same – first we build
 Commit #395 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #396 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #397 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #398 | Meme: Real programmers count from 0.
