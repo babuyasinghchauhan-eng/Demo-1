@@ -2039,3 +2039,4 @@ Commit #1987 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1988 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1989 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1990 | Meme: Real programmers count from 0.
+Commit #1991 | Meme: There are 10 types of people: those who understand binary, and those who don't.
