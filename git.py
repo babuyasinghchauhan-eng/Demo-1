@@ -674,3 +674,4 @@ Commit #622 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #623 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #624 | Meme: In case of fire: git commit, git push, leave building.
 Commit #625 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #626 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
