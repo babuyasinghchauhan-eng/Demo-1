@@ -2390,3 +2390,4 @@ Commit #2338 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2339 | Meme: Real programmers count from 0.
 Commit #2340 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2341 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2342 | Meme: Real programmers count from 0.
