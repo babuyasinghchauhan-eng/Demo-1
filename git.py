@@ -3095,3 +3095,4 @@ Commit #3043 | Meme: To understand recursion, you must first understand recursio
 Commit #3044 | Meme: To understand recursion, you must first understand recursion.
 Commit #3045 | Meme: There's no place like 127.0.0.1
 Commit #3046 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #3047 | Meme: Why do Java developers wear glasses? Because they don't C#.
