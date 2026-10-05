@@ -1312,3 +1312,4 @@ Commit #1260 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1261 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1262 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1263 | Meme: To understand recursion, you must first understand recursion.
+Commit #1264 | Meme: Deleting code is better than writing code.
