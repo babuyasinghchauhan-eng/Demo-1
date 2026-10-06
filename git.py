@@ -12165,3 +12165,4 @@ Commit #114 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #115 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #116 | Meme: Deleting code is better than writing code.
 Commit #117 | Meme: It's not a bug, it's an undocumented feature.
+Commit #118 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
