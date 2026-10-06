@@ -3020,3 +3020,4 @@ Commit #2968 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2969 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2970 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #2971 | Meme: Real programmers count from 0.
+Commit #2972 | Meme: To understand recursion, you must first understand recursion.
