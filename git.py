@@ -19003,3 +19003,4 @@ Commit #552 | Meme: It's not a bug, it's an undocumented feature.
 Commit #553 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #554 | Meme: In case of fire: git commit, git push, leave building.
 Commit #555 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #556 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
