@@ -3938,3 +3938,4 @@ Commit #3886 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3887 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3888 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3889 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #3890 | Meme: Real programmers count from 0.
