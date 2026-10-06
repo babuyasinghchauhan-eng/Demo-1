@@ -12136,3 +12136,4 @@ Commit #85 | Meme: 99 little bugs in the code. Take one down, patch it around. 1
 Commit #86 | Meme: Deleting code is better than writing code.
 Commit #87 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #88 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #89 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
