@@ -2684,3 +2684,4 @@ Commit #2632 | Meme: There's no place like 127.0.0.1
 Commit #2633 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2634 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2635 | Meme: It's not a bug, it's an undocumented feature.
+Commit #2636 | Meme: Real programmers count from 0.
