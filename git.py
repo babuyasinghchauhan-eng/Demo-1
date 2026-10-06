@@ -994,3 +994,4 @@ Commit #942 | Meme: Software and cathedrals are much the same – first we build
 Commit #943 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #944 | Meme: Deleting code is better than writing code.
 Commit #945 | Meme: To understand recursion, you must first understand recursion.
+Commit #946 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
