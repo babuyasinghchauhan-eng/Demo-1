@@ -1765,3 +1765,4 @@ Commit #1713 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1714 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1715 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1716 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1717 | Meme: In case of fire: git commit, git push, leave building.
