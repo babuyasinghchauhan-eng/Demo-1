@@ -1229,3 +1229,4 @@ Commit #1177 | Meme: Deleting code is better than writing code.
 Commit #1178 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1179 | Meme: There's no place like 127.0.0.1
 Commit #1180 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #1181 | Meme: It's not a bug, it's an undocumented feature.
