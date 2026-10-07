@@ -2585,3 +2585,4 @@ Commit #2533 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2534 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2535 | Meme: Deleting code is better than writing code.
 Commit #2536 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #2537 | Meme: Real programmers count from 0.
