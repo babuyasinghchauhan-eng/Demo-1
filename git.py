@@ -16734,3 +16734,4 @@ Commit #283 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #284 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #285 | Meme: Real programmers count from 0.
 Commit #286 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #287 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
