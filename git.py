@@ -257,3 +257,4 @@ Commit #205 | Meme: Real programmers count from 0.
 Commit #206 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #207 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #208 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #209 | Meme: There's no place like 127.0.0.1
