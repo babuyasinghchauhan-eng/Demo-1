@@ -1291,3 +1291,4 @@ Commit #1239 | Meme: Deleting code is better than writing code.
 Commit #1240 | Meme: Real programmers count from 0.
 Commit #1241 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1242 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #1243 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
