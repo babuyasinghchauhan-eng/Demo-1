@@ -12097,3 +12097,4 @@ Commit #46 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #47 | Meme: To understand recursion, you must first understand recursion.
 Commit #48 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #49 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #50 | Meme: In case of fire: git commit, git push, leave building.
