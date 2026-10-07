@@ -1655,3 +1655,4 @@ Commit #1603 | Meme: Real programmers count from 0.
 Commit #1604 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #1605 | Meme: Real programmers count from 0.
 Commit #1606 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1607 | Meme: There's no place like 127.0.0.1
