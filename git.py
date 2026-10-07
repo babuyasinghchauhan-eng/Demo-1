@@ -3884,3 +3884,4 @@ Commit #3832 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3833 | Meme: To understand recursion, you must first understand recursion.
 Commit #3834 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3835 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #3836 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
