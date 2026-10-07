@@ -4105,3 +4105,4 @@ Commit #4053 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4054 | Meme: To understand recursion, you must first understand recursion.
 Commit #4055 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #4056 | Meme: It's not a bug, it's an undocumented feature.
+Commit #4057 | Meme: Deleting code is better than writing code.
