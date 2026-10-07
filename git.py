@@ -12366,3 +12366,4 @@ Commit #315 | Meme: It's not a bug, it's an undocumented feature.
 Commit #316 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #317 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #318 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #319 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
