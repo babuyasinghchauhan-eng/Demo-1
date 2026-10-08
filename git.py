@@ -546,3 +546,4 @@ Commit #494 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #495 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #496 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #497 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #498 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
