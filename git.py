@@ -2019,3 +2019,4 @@ Commit #1967 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1968 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1969 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1970 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #1971 | Meme: Real programmers count from 0.
