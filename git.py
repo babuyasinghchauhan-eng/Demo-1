@@ -4316,3 +4316,4 @@ Commit #4264 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #4265 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4266 | Meme: To understand recursion, you must first understand recursion.
 Commit #4267 | Meme: It's not a bug, it's an undocumented feature.
+Commit #4268 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
