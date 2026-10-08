@@ -2392,3 +2392,4 @@ Commit #2340 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2341 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2342 | Meme: Real programmers count from 0.
 Commit #2343 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2344 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
