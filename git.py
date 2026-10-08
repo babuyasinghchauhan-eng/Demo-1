@@ -930,3 +930,4 @@ Commit #878 | Meme: Deleting code is better than writing code.
 Commit #879 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #880 | Meme: Real programmers count from 0.
 Commit #881 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #882 | Meme: Deleting code is better than writing code.
