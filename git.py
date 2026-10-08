@@ -4245,3 +4245,4 @@ Commit #4193 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4194 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #4195 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4196 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #4197 | Meme: Hide and seek champion since 1958: ';' in C/C++
