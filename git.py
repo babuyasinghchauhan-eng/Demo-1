@@ -4030,3 +4030,4 @@ Commit #3978 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3979 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3980 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3981 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #3982 | Meme: Deleting code is better than writing code.
