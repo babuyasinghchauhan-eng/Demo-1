@@ -12902,3 +12902,4 @@ Commit #451 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #452 | Meme: There's no place like 127.0.0.1
 Commit #453 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #454 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #455 | Meme: Hide and seek champion since 1958: ';' in C/C++
