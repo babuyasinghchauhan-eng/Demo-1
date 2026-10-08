@@ -2887,3 +2887,4 @@ Commit #2835 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2836 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #2837 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #2838 | Meme: To understand recursion, you must first understand recursion.
+Commit #2839 | Meme: It's not a bug, it's an undocumented feature.
