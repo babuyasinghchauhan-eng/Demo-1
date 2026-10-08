@@ -2543,3 +2543,4 @@ Commit #2491 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2492 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2493 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2494 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #2495 | Meme: It's not a bug, it's an undocumented feature.
