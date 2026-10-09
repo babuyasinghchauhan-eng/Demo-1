@@ -1544,3 +1544,4 @@ Commit #1492 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1493 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1494 | Meme: To understand recursion, you must first understand recursion.
 Commit #1495 | Meme: In case of fire: git commit, git push, leave building.
+Commit #1496 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
