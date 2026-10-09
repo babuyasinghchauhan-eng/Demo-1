@@ -147,3 +147,4 @@ Commit #95 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #96 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #97 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #98 | Meme: Real programmers count from 0.
+Commit #99 | Meme: Hide and seek champion since 1958: ';' in C/C++
