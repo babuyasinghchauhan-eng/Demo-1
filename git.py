@@ -12600,3 +12600,4 @@ Commit #149 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #150 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #151 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #152 | Meme: To understand recursion, you must first understand recursion.
+Commit #153 | Meme: There's no place like 127.0.0.1
