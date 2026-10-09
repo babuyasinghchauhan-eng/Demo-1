@@ -2704,3 +2704,4 @@ Commit #2652 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2653 | Meme: To understand recursion, you must first understand recursion.
 Commit #2654 | Meme: To understand recursion, you must first understand recursion.
 Commit #2655 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #2656 | Meme: Real programmers count from 0.
