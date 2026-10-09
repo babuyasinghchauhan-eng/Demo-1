@@ -19328,3 +19328,4 @@ Commit #877 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #878 | Meme: Deleting code is better than writing code.
 Commit #879 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #880 | Meme: There's no place like 127.0.0.1
+Commit #881 | Meme: Hide and seek champion since 1958: ';' in C/C++
