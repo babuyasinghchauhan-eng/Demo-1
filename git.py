@@ -12308,3 +12308,4 @@ Commit #257 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #258 | Meme: In case of fire: git commit, git push, leave building.
 Commit #259 | Meme: Real programmers count from 0.
 Commit #260 | Meme: To understand recursion, you must first understand recursion.
+Commit #261 | Meme: Hide and seek champion since 1958: ';' in C/C++
