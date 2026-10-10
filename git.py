@@ -16639,3 +16639,4 @@ Commit #188 | Meme: Real programmers count from 0.
 Commit #189 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #190 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #191 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #192 | Meme: Real programmers count from 0.
