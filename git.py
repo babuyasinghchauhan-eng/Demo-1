@@ -12368,3 +12368,4 @@ Commit #317 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #318 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #319 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #320 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #321 | Meme: To understand recursion, you must first understand recursion.
