@@ -4392,3 +4392,4 @@ Commit #4340 | Meme: Real programmers count from 0.
 Commit #4341 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4342 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #4343 | Meme: There's no place like 127.0.0.1
+Commit #4344 | Meme: Hide and seek champion since 1958: ';' in C/C++
