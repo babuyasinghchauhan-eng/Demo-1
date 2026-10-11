@@ -12106,3 +12106,4 @@ Commit #55 | Meme: Deleting code is better than writing code.
 Commit #56 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #57 | Meme: To understand recursion, you must first understand recursion.
 Commit #58 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #59 | Meme: In case of fire: git commit, git push, leave building.
