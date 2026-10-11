@@ -1758,3 +1758,4 @@ Commit #1706 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #1707 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1708 | Meme: Real programmers count from 0.
 Commit #1709 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1710 | Meme: In case of fire: git commit, git push, leave building.
