@@ -12155,3 +12155,4 @@ Commit #104 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #105 | Meme: It's not a bug, it's an undocumented feature.
 Commit #106 | Meme: It's not a bug, it's an undocumented feature.
 Commit #107 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #108 | Meme: Why do Java developers wear glasses? Because they don't C#.
