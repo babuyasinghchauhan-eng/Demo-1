@@ -2673,3 +2673,4 @@ Commit #2621 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2622 | Meme: Deleting code is better than writing code.
 Commit #2623 | Meme: To understand recursion, you must first understand recursion.
 Commit #2624 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2625 | Meme: In case of fire: git commit, git push, leave building.
