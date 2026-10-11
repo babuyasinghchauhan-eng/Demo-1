@@ -12126,3 +12126,4 @@ Commit #75 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #76 | Meme: It's not a bug, it's an undocumented feature.
 Commit #77 | Meme: To understand recursion, you must first understand recursion.
 Commit #78 | Meme: To understand recursion, you must first understand recursion.
+Commit #79 | Meme: Hide and seek champion since 1958: ';' in C/C++
