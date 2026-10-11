@@ -4278,3 +4278,4 @@ Commit #4226 | Meme: Real programmers count from 0.
 Commit #4227 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4228 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4229 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4230 | Meme: Real programmers count from 0.
