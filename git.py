@@ -16810,3 +16810,4 @@ Commit #359 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #360 | Meme: To understand recursion, you must first understand recursion.
 Commit #361 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #362 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #363 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
