@@ -12428,3 +12428,4 @@ Commit #377 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #378 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #379 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #380 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #381 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
