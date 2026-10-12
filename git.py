@@ -3466,3 +3466,4 @@ Commit #3414 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #3415 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3416 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3417 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3418 | Meme: It's not a bug, it's an undocumented feature.
