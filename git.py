@@ -12156,3 +12156,4 @@ Commit #105 | Meme: It's not a bug, it's an undocumented feature.
 Commit #106 | Meme: It's not a bug, it's an undocumented feature.
 Commit #107 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #108 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #109 | Meme: Hide and seek champion since 1958: ';' in C/C++
