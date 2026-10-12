@@ -3907,3 +3907,4 @@ Commit #3855 | Meme: There's no place like 127.0.0.1
 Commit #3856 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3857 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3858 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #3859 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
