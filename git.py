@@ -2093,3 +2093,4 @@ Commit #2041 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2042 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2043 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2044 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2045 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
