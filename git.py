@@ -1179,3 +1179,4 @@ Commit #1127 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #1128 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1129 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1130 | Meme: To understand recursion, you must first understand recursion.
+Commit #1131 | Meme: Real programmers count from 0.
