@@ -2171,3 +2171,4 @@ Commit #2119 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #2120 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2121 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2122 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #2123 | Meme: Why do Java developers wear glasses? Because they don't C#.
