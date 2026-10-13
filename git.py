@@ -19216,3 +19216,4 @@ Commit #765 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #766 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #767 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #768 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #769 | Meme: Hide and seek champion since 1958: ';' in C/C++
