@@ -12417,3 +12417,4 @@ Commit #366 | Meme: It's not a bug, it's an undocumented feature.
 Commit #367 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #368 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #369 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #370 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
