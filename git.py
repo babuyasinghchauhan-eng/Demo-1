@@ -18674,3 +18674,4 @@ Commit #223 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #224 | Meme: Real programmers count from 0.
 Commit #225 | Meme: Real programmers count from 0.
 Commit #226 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #227 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
