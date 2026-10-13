@@ -1052,3 +1052,4 @@ Commit #1000 | Meme: There's no place like 127.0.0.1
 Commit #1001 | Meme: Deleting code is better than writing code.
 Commit #1002 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1003 | Meme: In case of fire: git commit, git push, leave building.
+Commit #1004 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
