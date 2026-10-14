@@ -3569,3 +3569,4 @@ Commit #3517 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3518 | Meme: Real programmers count from 0.
 Commit #3519 | Meme: Real programmers count from 0.
 Commit #3520 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #3521 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
