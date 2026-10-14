@@ -3409,3 +3409,4 @@ Commit #3357 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3358 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3359 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3360 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #3361 | Meme: Hide and seek champion since 1958: ';' in C/C++
