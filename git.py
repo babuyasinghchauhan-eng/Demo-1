@@ -12265,3 +12265,4 @@ Commit #214 | Meme: Software and cathedrals are much the same – first we build
 Commit #215 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #216 | Meme: To understand recursion, you must first understand recursion.
 Commit #217 | Meme: It's not a bug, it's an undocumented feature.
+Commit #218 | Meme: There are 10 types of people: those who understand binary, and those who don't.
