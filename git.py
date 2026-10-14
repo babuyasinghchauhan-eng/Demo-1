@@ -3742,3 +3742,4 @@ Commit #3690 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3691 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3692 | Meme: Real programmers count from 0.
 Commit #3693 | Meme: Real programmers count from 0.
+Commit #3694 | Meme: Why do Java developers wear glasses? Because they don't C#.
