@@ -655,3 +655,4 @@ Commit #603 | Meme: There are 10 types of people: those who understand binary, a
 Commit #604 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #605 | Meme: Deleting code is better than writing code.
 Commit #606 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #607 | Meme: Works on my machine! ¯\_(ツ)_/¯
