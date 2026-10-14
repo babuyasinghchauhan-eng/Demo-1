@@ -593,3 +593,4 @@ Commit #541 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #542 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #543 | Meme: To understand recursion, you must first understand recursion.
 Commit #544 | Meme: Deleting code is better than writing code.
+Commit #545 | Meme: To understand recursion, you must first understand recursion.
