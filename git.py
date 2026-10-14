@@ -2518,3 +2518,4 @@ Commit #2466 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #2467 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2468 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #2469 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #2470 | Meme: Real programmers count from 0.
