@@ -4397,3 +4397,4 @@ Commit #4345 | Meme: Deleting code is better than writing code.
 Commit #4346 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4347 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4348 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #4349 | Meme: There are 10 types of people: those who understand binary, and those who don't.
