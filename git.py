@@ -4438,3 +4438,4 @@ Commit #4386 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4387 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4388 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4389 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #4390 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
