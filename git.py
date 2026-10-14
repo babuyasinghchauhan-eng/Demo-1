@@ -3186,3 +3186,4 @@ Commit #3134 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #3135 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3136 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3137 | Meme: To understand recursion, you must first understand recursion.
+Commit #3138 | Meme: There's no place like 127.0.0.1
