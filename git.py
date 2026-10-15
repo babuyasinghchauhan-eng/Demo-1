@@ -19256,3 +19256,4 @@ Commit #805 | Meme: Software and cathedrals are much the same – first we build
 Commit #806 | Meme: Deleting code is better than writing code.
 Commit #807 | Meme: To understand recursion, you must first understand recursion.
 Commit #808 | Meme: In case of fire: git commit, git push, leave building.
+Commit #809 | Meme: There are 10 types of people: those who understand binary, and those who don't.
