@@ -1010,3 +1010,4 @@ Commit #958 | Meme: Software and cathedrals are much the same – first we build
 Commit #959 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #960 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #961 | Meme: Deleting code is better than writing code.
+Commit #962 | Meme: Deleting code is better than writing code.
