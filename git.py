@@ -3201,3 +3201,4 @@ Commit #3149 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #3150 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3151 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3152 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #3153 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
