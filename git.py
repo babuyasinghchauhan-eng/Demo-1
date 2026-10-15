@@ -19300,3 +19300,4 @@ Commit #849 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #850 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #851 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #852 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #853 | Meme: Why do Java developers wear glasses? Because they don't C#.
