@@ -53,3 +53,4 @@ Commit #1 | Meme: Programming is 10% writing code and 90% understanding why it's
 Commit #2 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4 | Meme: To understand recursion, you must first understand recursion.
+Commit #5 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
