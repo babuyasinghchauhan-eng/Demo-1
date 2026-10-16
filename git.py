@@ -3818,3 +3818,4 @@ Commit #3766 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #3767 | Meme: To understand recursion, you must first understand recursion.
 Commit #3768 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3769 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #3770 | Meme: Real programmers count from 0.
