@@ -12418,3 +12418,4 @@ Commit #367 | Meme: Software and cathedrals are much the same – first we build
 Commit #368 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #369 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #370 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #371 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
