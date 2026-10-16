@@ -12074,3 +12074,4 @@ Commit #23 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #24 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #25 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #26 | Meme: In case of fire: git commit, git push, leave building.
+Commit #27 | Meme: Why do Java developers wear glasses? Because they don't C#.
