@@ -3363,3 +3363,4 @@ Commit #3311 | Meme: There's no place like 127.0.0.1
 Commit #3312 | Meme: There's no place like 127.0.0.1
 Commit #3313 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #3314 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #3315 | Meme: Real programmers count from 0.
