@@ -12380,3 +12380,4 @@ Commit #329 | Meme: Software and cathedrals are much the same – first we build
 Commit #330 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #331 | Meme: There's no place like 127.0.0.1
 Commit #332 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #333 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
