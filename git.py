@@ -1285,3 +1285,4 @@ Commit #1233 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1234 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1235 | Meme: Real programmers count from 0.
 Commit #1236 | Meme: To understand recursion, you must first understand recursion.
+Commit #1237 | Meme: Why do Java developers wear glasses? Because they don't C#.
