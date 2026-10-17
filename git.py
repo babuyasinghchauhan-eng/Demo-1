@@ -17044,3 +17044,4 @@ Commit #593 | Meme: Real programmers count from 0.
 Commit #594 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #595 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #596 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #597 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
