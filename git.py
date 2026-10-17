@@ -3432,3 +3432,4 @@ Commit #3380 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3381 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3382 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3383 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #3384 | Meme: Deleting code is better than writing code.
