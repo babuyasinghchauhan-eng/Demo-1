@@ -16732,3 +16732,4 @@ Commit #281 | Meme: Software and cathedrals are much the same – first we build
 Commit #282 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #283 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #284 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #285 | Meme: Real programmers count from 0.
