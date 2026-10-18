@@ -3390,3 +3390,4 @@ Commit #3338 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3339 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3340 | Meme: Deleting code is better than writing code.
 Commit #3341 | Meme: Deleting code is better than writing code.
+Commit #3342 | Meme: To understand recursion, you must first understand recursion.
