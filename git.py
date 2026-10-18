@@ -3930,3 +3930,4 @@ Commit #3878 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #3879 | Meme: To understand recursion, you must first understand recursion.
 Commit #3880 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3881 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3882 | Meme: Deleting code is better than writing code.
