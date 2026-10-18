@@ -16497,3 +16497,4 @@ Commit #46 | Meme: It's not a bug, it's an undocumented feature.
 Commit #47 | Meme: In case of fire: git commit, git push, leave building.
 Commit #48 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #49 | Meme: Deleting code is better than writing code.
+Commit #50 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
