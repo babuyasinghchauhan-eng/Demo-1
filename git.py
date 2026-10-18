@@ -18940,3 +18940,4 @@ Commit #489 | Meme: Deleting code is better than writing code.
 Commit #490 | Meme: Deleting code is better than writing code.
 Commit #491 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #492 | Meme: It's not a bug, it's an undocumented feature.
+Commit #493 | Meme: Hide and seek champion since 1958: ';' in C/C++
