@@ -3724,3 +3724,4 @@ Commit #3672 | Meme: There are 10 types of people: those who understand binary, 
 Commit #3673 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #3674 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3675 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3676 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
