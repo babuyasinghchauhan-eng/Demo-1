@@ -602,3 +602,4 @@ Commit #550 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #551 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #552 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #553 | Meme: It's not a bug, it's an undocumented feature.
+Commit #554 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
