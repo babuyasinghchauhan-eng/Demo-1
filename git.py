@@ -3470,3 +3470,4 @@ Commit #3418 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3419 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3420 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3421 | Meme: Deleting code is better than writing code.
+Commit #3422 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
