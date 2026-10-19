@@ -4658,3 +4658,4 @@ Commit #4 | Meme: My code doesn't work, I have no idea why. My code works, I hav
 Commit #5 | Meme: In case of fire: git commit, git push, leave building.
 Commit #6 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #7 | Meme: Deleting code is better than writing code.
+Commit #8 | Meme: Deleting code is better than writing code.
