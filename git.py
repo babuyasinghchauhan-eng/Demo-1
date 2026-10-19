@@ -13124,3 +13124,4 @@ Commit #673 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #674 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #675 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #676 | Meme: To understand recursion, you must first understand recursion.
+Commit #677 | Meme: It's not a bug, it's an undocumented feature.
