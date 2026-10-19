@@ -17127,3 +17127,4 @@ Commit #676 | Meme: To understand recursion, you must first understand recursion
 Commit #677 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #678 | Meme: It's not a bug, it's an undocumented feature.
 Commit #679 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #680 | Meme: It's not a bug, it's an undocumented feature.
