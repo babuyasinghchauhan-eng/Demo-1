@@ -3860,3 +3860,4 @@ Commit #3808 | Meme: To understand recursion, you must first understand recursio
 Commit #3809 | Meme: There's no place like 127.0.0.1
 Commit #3810 | Meme: There's no place like 127.0.0.1
 Commit #3811 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #3812 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
