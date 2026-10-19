@@ -971,3 +971,4 @@ Commit #919 | Meme: In case of fire: git commit, git push, leave building.
 Commit #920 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #921 | Meme: It's not a bug, it's an undocumented feature.
 Commit #922 | Meme: Deleting code is better than writing code.
+Commit #923 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
