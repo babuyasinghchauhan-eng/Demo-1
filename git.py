@@ -19303,3 +19303,4 @@ Commit #852 | Meme: There are 10 types of people: those who understand binary, a
 Commit #853 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #854 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #855 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #856 | Meme: Real programmers count from 0.
