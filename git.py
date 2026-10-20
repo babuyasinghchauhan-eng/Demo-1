@@ -17320,3 +17320,4 @@ Commit #869 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #870 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #871 | Meme: It's not a bug, it's an undocumented feature.
 Commit #872 | Meme: It's not a bug, it's an undocumented feature.
+Commit #873 | Meme: There are 10 types of people: those who understand binary, and those who don't.
