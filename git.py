@@ -17277,3 +17277,4 @@ Commit #826 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #827 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #828 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #829 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #830 | Meme: In case of fire: git commit, git push, leave building.
