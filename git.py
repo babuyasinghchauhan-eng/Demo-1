@@ -4258,3 +4258,4 @@ Commit #4206 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4207 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4208 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #4209 | Meme: In case of fire: git commit, git push, leave building.
+Commit #4210 | Meme: Deleting code is better than writing code.
