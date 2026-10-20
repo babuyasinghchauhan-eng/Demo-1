@@ -2898,3 +2898,4 @@ Commit #2846 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2847 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2848 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2849 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2850 | Meme: Deleting code is better than writing code.
