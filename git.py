@@ -2179,3 +2179,4 @@ Commit #2127 | Meme: There's no place like 127.0.0.1
 Commit #2128 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2129 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2130 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2131 | Meme: Deleting code is better than writing code.
