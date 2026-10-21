@@ -876,3 +876,4 @@ Commit #824 | Meme: Deleting code is better than writing code.
 Commit #825 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #826 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #827 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #828 | Meme: It's not a bug, it's an undocumented feature.
