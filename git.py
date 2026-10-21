@@ -2875,3 +2875,4 @@ Commit #2823 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2824 | Meme: To understand recursion, you must first understand recursion.
 Commit #2825 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #2826 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #2827 | Meme: There's no place like 127.0.0.1
