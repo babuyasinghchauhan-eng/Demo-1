@@ -3949,3 +3949,4 @@ Commit #3897 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3898 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3899 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3900 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3901 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
