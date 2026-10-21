@@ -4452,3 +4452,4 @@ Commit #4400 | Meme: There's no place like 127.0.0.1
 Commit #4401 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4402 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4403 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #4404 | Meme: Deleting code is better than writing code.
