@@ -12617,3 +12617,4 @@ Commit #166 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #167 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #168 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #169 | Meme: It's not a bug, it's an undocumented feature.
+Commit #170 | Meme: Deleting code is better than writing code.
