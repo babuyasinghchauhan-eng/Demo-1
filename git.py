@@ -5024,3 +5024,4 @@ Commit #370 | Meme: In case of fire: git commit, git push, leave building.
 Commit #371 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #372 | Meme: In case of fire: git commit, git push, leave building.
 Commit #373 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #374 | Meme: It's not a bug, it's an undocumented feature.
