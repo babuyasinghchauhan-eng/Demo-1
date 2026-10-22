@@ -16528,3 +16528,4 @@ Commit #77 | Meme: There's no place like 127.0.0.1
 Commit #78 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #79 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #80 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #81 | Meme: Hide and seek champion since 1958: ';' in C/C++
