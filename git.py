@@ -627,3 +627,4 @@ Commit #575 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #576 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #577 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #578 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #579 | Meme: Deleting code is better than writing code.
