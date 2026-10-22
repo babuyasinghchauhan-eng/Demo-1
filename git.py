@@ -17238,3 +17238,4 @@ Commit #787 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #788 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #789 | Meme: There's no place like 127.0.0.1
 Commit #790 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #791 | Meme: Deleting code is better than writing code.
