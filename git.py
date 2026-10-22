@@ -5033,3 +5033,4 @@ Commit #379 | Meme: Deleting code is better than writing code.
 Commit #380 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #381 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #382 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #383 | Meme: Why do Java developers wear glasses? Because they don't C#.
