@@ -434,3 +434,4 @@ Commit #382 | Meme: There are 10 types of people: those who understand binary, a
 Commit #383 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #384 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #385 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #386 | Meme: Why do Java developers wear glasses? Because they don't C#.
