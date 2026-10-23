@@ -5100,3 +5100,4 @@ Commit #446 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #447 | Meme: There's no place like 127.0.0.1
 Commit #448 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #449 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #450 | Meme: To understand recursion, you must first understand recursion.
