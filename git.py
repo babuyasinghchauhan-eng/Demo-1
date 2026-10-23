@@ -4833,3 +4833,4 @@ Commit #179 | Meme: Software and cathedrals are much the same – first we build
 Commit #180 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #181 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #182 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #183 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
