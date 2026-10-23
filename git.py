@@ -2078,3 +2078,4 @@ Commit #2026 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #2027 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2028 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2029 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #2030 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
