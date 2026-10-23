@@ -1120,3 +1120,4 @@ Commit #1068 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #1069 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1070 | Meme: Real programmers count from 0.
 Commit #1071 | Meme: Real programmers count from 0.
+Commit #1072 | Meme: There's no place like 127.0.0.1
