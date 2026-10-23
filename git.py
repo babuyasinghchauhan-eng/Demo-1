@@ -1221,3 +1221,4 @@ Commit #1169 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #1170 | Meme: Real programmers count from 0.
 Commit #1171 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1172 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1173 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
