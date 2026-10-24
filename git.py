@@ -1688,3 +1688,4 @@ Commit #1636 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1637 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1638 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1639 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #1640 | Meme: There are 10 types of people: those who understand binary, and those who don't.
