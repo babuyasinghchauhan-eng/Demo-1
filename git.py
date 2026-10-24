@@ -3969,3 +3969,4 @@ Commit #3917 | Meme: Software and cathedrals are much the same – first we buil
 Commit #3918 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3919 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3920 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3921 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
