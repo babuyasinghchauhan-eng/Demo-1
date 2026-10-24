@@ -1563,3 +1563,4 @@ Commit #1511 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1512 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1513 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1514 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1515 | Meme: To understand recursion, you must first understand recursion.
