@@ -2244,3 +2244,4 @@ Commit #2192 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2193 | Meme: There's no place like 127.0.0.1
 Commit #2194 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2195 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #2196 | Meme: It's not a bug, it's an undocumented feature.
