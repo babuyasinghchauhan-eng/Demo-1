@@ -2412,3 +2412,4 @@ Commit #2360 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #2361 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2362 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2363 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2364 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
