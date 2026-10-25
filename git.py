@@ -2545,3 +2545,4 @@ Commit #2493 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #2494 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2495 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2496 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #2497 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
