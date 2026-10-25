@@ -12869,3 +12869,4 @@ Commit #418 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #419 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #420 | Meme: In case of fire: git commit, git push, leave building.
 Commit #421 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #422 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
