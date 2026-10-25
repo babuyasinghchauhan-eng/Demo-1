@@ -3669,3 +3669,4 @@ Commit #3617 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3618 | Meme: To understand recursion, you must first understand recursion.
 Commit #3619 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3620 | Meme: To understand recursion, you must first understand recursion.
+Commit #3621 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
