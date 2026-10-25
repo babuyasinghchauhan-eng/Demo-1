@@ -2598,3 +2598,4 @@ Commit #2546 | Meme: There's no place like 127.0.0.1
 Commit #2547 | Meme: Real programmers count from 0.
 Commit #2548 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2549 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2550 | Meme: To understand recursion, you must first understand recursion.
