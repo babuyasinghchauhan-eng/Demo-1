@@ -2156,3 +2156,4 @@ Commit #2104 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2105 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2106 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2107 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2108 | Meme: Deleting code is better than writing code.
