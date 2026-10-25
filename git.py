@@ -1295,3 +1295,4 @@ Commit #1243 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1244 | Meme: Real programmers count from 0.
 Commit #1245 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1246 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1247 | Meme: Real programmers count from 0.
