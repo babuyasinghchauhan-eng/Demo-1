@@ -12700,3 +12700,4 @@ Commit #249 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #250 | Meme: It's not a bug, it's an undocumented feature.
 Commit #251 | Meme: Real programmers count from 0.
 Commit #252 | Meme: In case of fire: git commit, git push, leave building.
+Commit #253 | Meme: Hide and seek champion since 1958: ';' in C/C++
