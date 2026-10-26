@@ -16522,3 +16522,4 @@ Commit #71 | Meme: There's no place like 127.0.0.1
 Commit #72 | Meme: It's not a bug, it's an undocumented feature.
 Commit #73 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #74 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #75 | Meme: To understand recursion, you must first understand recursion.
