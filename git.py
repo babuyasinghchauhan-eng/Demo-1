@@ -4011,3 +4011,4 @@ Commit #3959 | Meme: Deleting code is better than writing code.
 Commit #3960 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3961 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3962 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3963 | Meme: There are 10 types of people: those who understand binary, and those who don't.
