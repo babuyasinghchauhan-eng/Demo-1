@@ -3899,3 +3899,4 @@ Commit #3847 | Meme: To understand recursion, you must first understand recursio
 Commit #3848 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3849 | Meme: Deleting code is better than writing code.
 Commit #3850 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3851 | Meme: It's not a bug, it's an undocumented feature.
