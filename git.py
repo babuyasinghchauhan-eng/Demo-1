@@ -243,3 +243,4 @@ Commit #191 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #192 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #193 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #194 | Meme: Deleting code is better than writing code.
+Commit #195 | Meme: To understand recursion, you must first understand recursion.
