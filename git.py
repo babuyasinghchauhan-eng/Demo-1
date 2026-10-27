@@ -17229,3 +17229,4 @@ Commit #778 | Meme: There's no place like 127.0.0.1
 Commit #779 | Meme: There's no place like 127.0.0.1
 Commit #780 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #781 | Meme: Real programmers count from 0.
+Commit #782 | Meme: To understand recursion, you must first understand recursion.
