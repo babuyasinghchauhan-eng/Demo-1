@@ -3627,3 +3627,4 @@ Commit #3575 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3576 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3577 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3578 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3579 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
