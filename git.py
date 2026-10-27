@@ -4710,3 +4710,4 @@ Commit #56 | Meme: Deleting code is better than writing code.
 Commit #57 | Meme: Deleting code is better than writing code.
 Commit #58 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #59 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #60 | Meme: It's not a bug, it's an undocumented feature.
