@@ -18886,3 +18886,4 @@ Commit #435 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #436 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #437 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #438 | Meme: In case of fire: git commit, git push, leave building.
+Commit #439 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
