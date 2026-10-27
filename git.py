@@ -132,3 +132,4 @@ Commit #80 | Meme: There are 10 types of people: those who understand binary, an
 Commit #81 | Meme: It's not a bug, it's an undocumented feature.
 Commit #82 | Meme: There's no place like 127.0.0.1
 Commit #83 | Meme: In case of fire: git commit, git push, leave building.
+Commit #84 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
