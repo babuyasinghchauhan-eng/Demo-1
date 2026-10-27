@@ -2577,3 +2577,4 @@ Commit #2525 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #2526 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2527 | Meme: Deleting code is better than writing code.
 Commit #2528 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #2529 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
