@@ -3297,3 +3297,4 @@ Commit #3245 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3246 | Meme: There's no place like 127.0.0.1
 Commit #3247 | Meme: To understand recursion, you must first understand recursion.
 Commit #3248 | Meme: There's no place like 127.0.0.1
+Commit #3249 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
