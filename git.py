@@ -589,3 +589,4 @@ Commit #537 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #538 | Meme: To understand recursion, you must first understand recursion.
 Commit #539 | Meme: In case of fire: git commit, git push, leave building.
 Commit #540 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #541 | Meme: Hide and seek champion since 1958: ';' in C/C++
