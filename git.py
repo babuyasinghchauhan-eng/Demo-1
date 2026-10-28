@@ -3033,3 +3033,4 @@ Commit #2981 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2982 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2983 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2984 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #2985 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
