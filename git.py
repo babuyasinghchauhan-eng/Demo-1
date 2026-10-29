@@ -5129,3 +5129,4 @@ Commit #475 | Meme: In case of fire: git commit, git push, leave building.
 Commit #476 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #477 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #478 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #479 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
