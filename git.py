@@ -2101,3 +2101,4 @@ Commit #2049 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2050 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2051 | Meme: To understand recursion, you must first understand recursion.
 Commit #2052 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2053 | Meme: To understand recursion, you must first understand recursion.
