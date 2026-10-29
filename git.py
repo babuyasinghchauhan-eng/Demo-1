@@ -1575,3 +1575,4 @@ Commit #1523 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1524 | Meme: Deleting code is better than writing code.
 Commit #1525 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1526 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #1527 | Meme: There's no place like 127.0.0.1
