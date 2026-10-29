@@ -2176,3 +2176,4 @@ Commit #2124 | Meme: There's no place like 127.0.0.1
 Commit #2125 | Meme: To understand recursion, you must first understand recursion.
 Commit #2126 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2127 | Meme: There's no place like 127.0.0.1
+Commit #2128 | Meme: Why do Java developers wear glasses? Because they don't C#.
