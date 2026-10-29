@@ -4810,3 +4810,4 @@ Commit #156 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #157 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #158 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #159 | Meme: There's no place like 127.0.0.1
+Commit #160 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
