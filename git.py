@@ -360,3 +360,4 @@ Commit #308 | Meme: Software and cathedrals are much the same – first we build
 Commit #309 | Meme: In case of fire: git commit, git push, leave building.
 Commit #310 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #311 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #312 | Meme: It's not a bug, it's an undocumented feature.
