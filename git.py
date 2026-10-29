@@ -4984,3 +4984,4 @@ Commit #330 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #331 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #332 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #333 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #334 | Meme: To understand recursion, you must first understand recursion.
