@@ -13262,3 +13262,4 @@ Commit #811 | Meme: In case of fire: git commit, git push, leave building.
 Commit #812 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #813 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #814 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #815 | Meme: To understand recursion, you must first understand recursion.
