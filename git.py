@@ -2192,3 +2192,4 @@ Commit #2140 | Meme: There are 10 types of people: those who understand binary, 
 Commit #2141 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2142 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #2143 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2144 | Meme: Hide and seek champion since 1958: ';' in C/C++
