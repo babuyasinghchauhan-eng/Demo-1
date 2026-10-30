@@ -17197,3 +17197,4 @@ Commit #746 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #747 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #748 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #749 | Meme: To understand recursion, you must first understand recursion.
+Commit #750 | Meme: Deleting code is better than writing code.
