@@ -4744,3 +4744,4 @@ Commit #90 | Meme: There are 10 types of people: those who understand binary, an
 Commit #91 | Meme: In case of fire: git commit, git push, leave building.
 Commit #92 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #93 | Meme: It's not a bug, it's an undocumented feature.
+Commit #94 | Meme: Why do Java developers wear glasses? Because they don't C#.
