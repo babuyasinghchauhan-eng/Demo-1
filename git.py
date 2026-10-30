@@ -92,3 +92,4 @@ Commit #40 | Meme: Real programmers count from 0.
 Commit #41 | Meme: To understand recursion, you must first understand recursion.
 Commit #42 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #43 | Meme: In case of fire: git commit, git push, leave building.
+Commit #44 | Meme: In case of fire: git commit, git push, leave building.
