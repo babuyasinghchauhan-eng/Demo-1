@@ -2954,3 +2954,4 @@ Commit #2902 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #2903 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #2904 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2905 | Meme: Deleting code is better than writing code.
+Commit #2906 | Meme: There's no place like 127.0.0.1
