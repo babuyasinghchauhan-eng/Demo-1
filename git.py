@@ -2610,3 +2610,4 @@ Commit #2558 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2559 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2560 | Meme: To understand recursion, you must first understand recursion.
 Commit #2561 | Meme: Real programmers count from 0.
+Commit #2562 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
