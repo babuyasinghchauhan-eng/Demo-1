@@ -5003,3 +5003,4 @@ Commit #349 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #350 | Meme: It's not a bug, it's an undocumented feature.
 Commit #351 | Meme: It's not a bug, it's an undocumented feature.
 Commit #352 | Meme: There's no place like 127.0.0.1
+Commit #353 | Meme: Deleting code is better than writing code.
