@@ -4400,3 +4400,4 @@ Commit #4348 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4349 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4350 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4351 | Meme: It's not a bug, it's an undocumented feature.
+Commit #4352 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
