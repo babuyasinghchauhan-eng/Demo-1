@@ -368,3 +368,4 @@ Commit #316 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #317 | Meme: There's no place like 127.0.0.1
 Commit #318 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #319 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #320 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
