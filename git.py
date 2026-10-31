@@ -4993,3 +4993,4 @@ Commit #339 | Meme: Software and cathedrals are much the same – first we build
 Commit #340 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #341 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #342 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #343 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
