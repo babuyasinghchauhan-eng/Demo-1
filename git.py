@@ -3789,3 +3789,4 @@ Commit #3737 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3738 | Meme: Deleting code is better than writing code.
 Commit #3739 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3740 | Meme: To understand recursion, you must first understand recursion.
+Commit #3741 | Meme: Deleting code is better than writing code.
