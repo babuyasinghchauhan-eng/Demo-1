@@ -3039,3 +3039,4 @@ Commit #2987 | Meme: To understand recursion, you must first understand recursio
 Commit #2988 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2989 | Meme: There's no place like 127.0.0.1
 Commit #2990 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2991 | Meme: In case of fire: git commit, git push, leave building.
