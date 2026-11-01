@@ -2383,3 +2383,4 @@ Commit #2331 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2332 | Meme: Deleting code is better than writing code.
 Commit #2333 | Meme: To understand recursion, you must first understand recursion.
 Commit #2334 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2335 | Meme: Real programmers count from 0.
