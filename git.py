@@ -4325,3 +4325,4 @@ Commit #4273 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #4274 | Meme: Deleting code is better than writing code.
 Commit #4275 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4276 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #4277 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
