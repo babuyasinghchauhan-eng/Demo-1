@@ -18965,3 +18965,4 @@ Commit #514 | Meme: Software and cathedrals are much the same – first we build
 Commit #515 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #516 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #517 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #518 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
