@@ -2023,3 +2023,4 @@ Commit #1971 | Meme: Real programmers count from 0.
 Commit #1972 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1973 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1974 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1975 | Meme: There are 10 types of people: those who understand binary, and those who don't.
