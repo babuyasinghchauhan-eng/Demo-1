@@ -2768,3 +2768,4 @@ Commit #2716 | Meme: Real programmers count from 0.
 Commit #2717 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2718 | Meme: To understand recursion, you must first understand recursion.
 Commit #2719 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #2720 | Meme: Deleting code is better than writing code.
