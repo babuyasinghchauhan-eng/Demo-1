@@ -2808,3 +2808,4 @@ Commit #2756 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2757 | Meme: To understand recursion, you must first understand recursion.
 Commit #2758 | Meme: Real programmers count from 0.
 Commit #2759 | Meme: Real programmers count from 0.
+Commit #2760 | Meme: In case of fire: git commit, git push, leave building.
