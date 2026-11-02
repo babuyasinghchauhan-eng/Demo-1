@@ -20517,3 +20517,4 @@ Commit #66 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #67 | Meme: In case of fire: git commit, git push, leave building.
 Commit #68 | Meme: It's not a bug, it's an undocumented feature.
 Commit #69 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #70 | Meme: Real programmers count from 0.
