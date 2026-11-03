@@ -4047,3 +4047,4 @@ Commit #3995 | Meme: To understand recursion, you must first understand recursio
 Commit #3996 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #3997 | Meme: There's no place like 127.0.0.1
 Commit #3998 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3999 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
