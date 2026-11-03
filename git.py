@@ -17282,3 +17282,4 @@ Commit #831 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #832 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #833 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #834 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #835 | Meme: Real programmers count from 0.
