@@ -605,3 +605,4 @@ Commit #553 | Meme: It's not a bug, it's an undocumented feature.
 Commit #554 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #555 | Meme: In case of fire: git commit, git push, leave building.
 Commit #556 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #557 | Meme: Hide and seek champion since 1958: ';' in C/C++
