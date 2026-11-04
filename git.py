@@ -12626,3 +12626,4 @@ Commit #175 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #176 | Meme: Real programmers count from 0.
 Commit #177 | Meme: In case of fire: git commit, git push, leave building.
 Commit #178 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #179 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
