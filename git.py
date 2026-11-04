@@ -21400,3 +21400,4 @@ Commit #949 | Meme: Software and cathedrals are much the same – first we build
 Commit #950 | Meme: It's not a bug, it's an undocumented feature.
 Commit #951 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #952 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #953 | Meme: There are 10 types of people: those who understand binary, and those who don't.
