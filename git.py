@@ -5030,3 +5030,4 @@ Commit #376 | Meme: In case of fire: git commit, git push, leave building.
 Commit #377 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #378 | Meme: Real programmers count from 0.
 Commit #379 | Meme: Deleting code is better than writing code.
+Commit #380 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
