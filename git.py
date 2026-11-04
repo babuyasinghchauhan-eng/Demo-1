@@ -21100,3 +21100,4 @@ Commit #649 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #650 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #651 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #652 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #653 | Meme: Real programmers count from 0.
