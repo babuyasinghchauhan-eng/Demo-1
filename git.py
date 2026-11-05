@@ -17317,3 +17317,4 @@ Commit #866 | Meme: Software and cathedrals are much the same – first we build
 Commit #867 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #868 | Meme: There's no place like 127.0.0.1
 Commit #869 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #870 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
