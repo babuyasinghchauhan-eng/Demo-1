@@ -4498,3 +4498,4 @@ Commit #4446 | Meme: Real programmers count from 0.
 Commit #4447 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #4448 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4449 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #4450 | Meme: Why do Java developers wear glasses? Because they don't C#.
