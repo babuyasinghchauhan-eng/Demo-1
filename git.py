@@ -299,3 +299,4 @@ Commit #247 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #248 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #249 | Meme: In case of fire: git commit, git push, leave building.
 Commit #250 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #251 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
