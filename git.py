@@ -4318,3 +4318,4 @@ Commit #4266 | Meme: To understand recursion, you must first understand recursio
 Commit #4267 | Meme: It's not a bug, it's an undocumented feature.
 Commit #4268 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4269 | Meme: To understand recursion, you must first understand recursion.
+Commit #4270 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
