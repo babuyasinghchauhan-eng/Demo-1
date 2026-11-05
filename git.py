@@ -4111,3 +4111,4 @@ Commit #4059 | Meme: Deleting code is better than writing code.
 Commit #4060 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4061 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4062 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #4063 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
