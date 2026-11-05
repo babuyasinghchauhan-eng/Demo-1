@@ -1925,3 +1925,4 @@ Commit #1873 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1874 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #1875 | Meme: There's no place like 127.0.0.1
 Commit #1876 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1877 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
