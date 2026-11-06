@@ -20664,3 +20664,4 @@ Commit #213 | Meme: Real programmers count from 0.
 Commit #214 | Meme: In case of fire: git commit, git push, leave building.
 Commit #215 | Meme: To understand recursion, you must first understand recursion.
 Commit #216 | Meme: In case of fire: git commit, git push, leave building.
+Commit #217 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
