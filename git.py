@@ -17283,3 +17283,4 @@ Commit #832 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #833 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #834 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #835 | Meme: Real programmers count from 0.
+Commit #836 | Meme: It's not a bug, it's an undocumented feature.
