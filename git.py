@@ -4571,3 +4571,4 @@ Commit #4519 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #4520 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #4521 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #4522 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4523 | Meme: To understand recursion, you must first understand recursion.
