@@ -16665,3 +16665,4 @@ Commit #214 | Meme: In case of fire: git commit, git push, leave building.
 Commit #215 | Meme: To understand recursion, you must first understand recursion.
 Commit #216 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #217 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #218 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
