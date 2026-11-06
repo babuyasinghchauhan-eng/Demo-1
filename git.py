@@ -5148,3 +5148,4 @@ Commit #494 | Meme: Real programmers count from 0.
 Commit #495 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #496 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #497 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #498 | Meme: It's not a bug, it's an undocumented feature.
