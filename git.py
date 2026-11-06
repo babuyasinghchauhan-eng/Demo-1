@@ -2119,3 +2119,4 @@ Commit #2067 | Meme: Real programmers count from 0.
 Commit #2068 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #2069 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2070 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #2071 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
