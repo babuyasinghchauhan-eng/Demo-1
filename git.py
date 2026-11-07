@@ -3740,3 +3740,4 @@ Commit #3688 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3689 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3690 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3691 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #3692 | Meme: Real programmers count from 0.
