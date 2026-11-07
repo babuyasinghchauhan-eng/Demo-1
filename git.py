@@ -3384,3 +3384,4 @@ Commit #3332 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #3333 | Meme: There's no place like 127.0.0.1
 Commit #3334 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3335 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #3336 | Meme: To understand recursion, you must first understand recursion.
