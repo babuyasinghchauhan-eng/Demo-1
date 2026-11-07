@@ -3200,3 +3200,4 @@ Commit #3148 | Meme: Software and cathedrals are much the same – first we buil
 Commit #3149 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3150 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #3151 | Meme: In case of fire: git commit, git push, leave building.
+Commit #3152 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
