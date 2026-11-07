@@ -205,3 +205,4 @@ Commit #153 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #154 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #155 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #156 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #157 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
