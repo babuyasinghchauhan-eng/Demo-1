@@ -16962,3 +16962,4 @@ Commit #511 | Meme: Deleting code is better than writing code.
 Commit #512 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #513 | Meme: Real programmers count from 0.
 Commit #514 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #515 | Meme: Hide and seek champion since 1958: ';' in C/C++
