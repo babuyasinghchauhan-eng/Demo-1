@@ -2068,3 +2068,4 @@ Commit #2016 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #2017 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2018 | Meme: Deleting code is better than writing code.
 Commit #2019 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2020 | Meme: Why do Java developers wear glasses? Because they don't C#.
