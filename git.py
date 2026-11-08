@@ -16503,3 +16503,4 @@ Commit #52 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #53 | Meme: Real programmers count from 0.
 Commit #54 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #55 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #56 | Meme: Deleting code is better than writing code.
