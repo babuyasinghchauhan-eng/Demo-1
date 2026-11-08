@@ -4870,3 +4870,4 @@ Commit #216 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #217 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #218 | Meme: Real programmers count from 0.
 Commit #219 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #220 | Meme: There are 10 types of people: those who understand binary, and those who don't.
