@@ -18855,3 +18855,4 @@ Commit #404 | Meme: It's not a bug, it's an undocumented feature.
 Commit #405 | Meme: To understand recursion, you must first understand recursion.
 Commit #406 | Meme: There's no place like 127.0.0.1
 Commit #407 | Meme: To understand recursion, you must first understand recursion.
+Commit #408 | Meme: Real programmers count from 0.
