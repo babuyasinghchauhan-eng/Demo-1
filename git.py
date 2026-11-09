@@ -398,3 +398,4 @@ Commit #346 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #347 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #348 | Meme: In case of fire: git commit, git push, leave building.
 Commit #349 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #350 | Meme: Hide and seek champion since 1958: ';' in C/C++
