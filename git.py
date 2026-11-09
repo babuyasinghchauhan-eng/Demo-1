@@ -20734,3 +20734,4 @@ Commit #283 | Meme: Software and cathedrals are much the same – first we build
 Commit #284 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #285 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #286 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #287 | Meme: There are 10 types of people: those who understand binary, and those who don't.
