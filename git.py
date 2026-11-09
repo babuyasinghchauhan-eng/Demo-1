@@ -21161,3 +21161,4 @@ Commit #710 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #711 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #712 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #713 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #714 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
