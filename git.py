@@ -3761,3 +3761,4 @@ Commit #3709 | Meme: To understand recursion, you must first understand recursio
 Commit #3710 | Meme: Real programmers count from 0.
 Commit #3711 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3712 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3713 | Meme: There are 10 types of people: those who understand binary, and those who don't.
