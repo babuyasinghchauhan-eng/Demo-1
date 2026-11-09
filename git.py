@@ -3099,3 +3099,4 @@ Commit #3047 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3048 | Meme: Deleting code is better than writing code.
 Commit #3049 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3050 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #3051 | Meme: There are 10 types of people: those who understand binary, and those who don't.
