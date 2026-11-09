@@ -2983,3 +2983,4 @@ Commit #2931 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #2932 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2933 | Meme: There's no place like 127.0.0.1
 Commit #2934 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2935 | Meme: Deleting code is better than writing code.
