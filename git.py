@@ -4255,3 +4255,4 @@ Commit #4203 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #4204 | Meme: To understand recursion, you must first understand recursion.
 Commit #4205 | Meme: Deleting code is better than writing code.
 Commit #4206 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #4207 | Meme: Hide and seek champion since 1958: ';' in C/C++
