@@ -61,3 +61,4 @@ Commit #9 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #10 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #11 | Meme: In case of fire: git commit, git push, leave building.
 Commit #12 | Meme: In case of fire: git commit, git push, leave building.
+Commit #13 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
