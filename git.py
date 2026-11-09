@@ -20490,3 +20490,4 @@ Commit #39 | Meme: Real programmers count from 0.
 Commit #40 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #41 | Meme: In case of fire: git commit, git push, leave building.
 Commit #42 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #43 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
