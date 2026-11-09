@@ -942,3 +942,4 @@ Commit #890 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #891 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #892 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #893 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #894 | Meme: Real programmers count from 0.
