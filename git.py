@@ -2805,3 +2805,4 @@ Commit #2753 | Meme: Software and cathedrals are much the same – first we buil
 Commit #2754 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2755 | Meme: Real programmers count from 0.
 Commit #2756 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2757 | Meme: To understand recursion, you must first understand recursion.
