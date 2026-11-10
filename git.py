@@ -1527,3 +1527,4 @@ Commit #1475 | Meme: There's no place like 127.0.0.1
 Commit #1476 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1477 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1478 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #1479 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
