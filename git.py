@@ -5143,3 +5143,4 @@ Commit #489 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #490 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #491 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #492 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #493 | Meme: There's no place like 127.0.0.1
