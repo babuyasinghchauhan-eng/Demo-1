@@ -20895,3 +20895,4 @@ Commit #444 | Meme: It's not a bug, it's an undocumented feature.
 Commit #445 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #446 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #447 | Meme: Real programmers count from 0.
+Commit #448 | Meme: Hide and seek champion since 1958: ';' in C/C++
