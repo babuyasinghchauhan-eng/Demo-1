@@ -2831,3 +2831,4 @@ Commit #2779 | Meme: There are 10 types of people: those who understand binary, 
 Commit #2780 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2781 | Meme: There's no place like 127.0.0.1
 Commit #2782 | Meme: Deleting code is better than writing code.
+Commit #2783 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
