@@ -4292,3 +4292,4 @@ Commit #4240 | Meme: To understand recursion, you must first understand recursio
 Commit #4241 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #4242 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4243 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4244 | Meme: Why do Java developers wear glasses? Because they don't C#.
