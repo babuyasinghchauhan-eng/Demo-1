@@ -3277,3 +3277,4 @@ Commit #3225 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3226 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3227 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3228 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #3229 | Meme: Hide and seek champion since 1958: ';' in C/C++
