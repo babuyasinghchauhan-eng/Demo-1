@@ -676,3 +676,4 @@ Commit #624 | Meme: In case of fire: git commit, git push, leave building.
 Commit #625 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #626 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #627 | Meme: In case of fire: git commit, git push, leave building.
+Commit #628 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
