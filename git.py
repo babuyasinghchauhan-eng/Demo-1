@@ -21048,3 +21048,4 @@ Commit #597 | Meme: Real programmers count from 0.
 Commit #598 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #599 | Meme: There's no place like 127.0.0.1
 Commit #600 | Meme: There's no place like 127.0.0.1
+Commit #601 | Meme: Real programmers count from 0.
