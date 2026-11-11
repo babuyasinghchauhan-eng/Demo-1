@@ -3259,3 +3259,4 @@ Commit #3207 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3208 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3209 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #3210 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #3211 | Meme: It's not a bug, it's an undocumented feature.
