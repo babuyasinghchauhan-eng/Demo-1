@@ -1598,3 +1598,4 @@ Commit #1546 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1547 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1548 | Meme: To understand recursion, you must first understand recursion.
 Commit #1549 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #1550 | Meme: Works on my machine! ¯\_(ツ)_/¯
