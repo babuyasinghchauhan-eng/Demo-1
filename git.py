@@ -3025,3 +3025,4 @@ Commit #2973 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #2974 | Meme: Deleting code is better than writing code.
 Commit #2975 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2976 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #2977 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
