@@ -3839,3 +3839,4 @@ Commit #3787 | Meme: There's no place like 127.0.0.1
 Commit #3788 | Meme: Deleting code is better than writing code.
 Commit #3789 | Meme: Deleting code is better than writing code.
 Commit #3790 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #3791 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
