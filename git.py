@@ -821,3 +821,4 @@ Commit #769 | Meme: There are 10 types of people: those who understand binary, a
 Commit #770 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #771 | Meme: Deleting code is better than writing code.
 Commit #772 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #773 | Meme: Deleting code is better than writing code.
