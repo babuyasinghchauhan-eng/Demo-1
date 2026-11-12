@@ -968,3 +968,4 @@ Commit #916 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #917 | Meme: In case of fire: git commit, git push, leave building.
 Commit #918 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #919 | Meme: In case of fire: git commit, git push, leave building.
+Commit #920 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
