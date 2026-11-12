@@ -2566,3 +2566,4 @@ Commit #2514 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #2515 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2516 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #2517 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #2518 | Meme: Hide and seek champion since 1958: ';' in C/C++
