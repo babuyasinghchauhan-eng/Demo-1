@@ -18913,3 +18913,4 @@ Commit #462 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #463 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #464 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #465 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #466 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
