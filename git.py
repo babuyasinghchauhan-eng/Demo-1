@@ -4043,3 +4043,4 @@ Commit #3991 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3992 | Meme: Deleting code is better than writing code.
 Commit #3993 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #3994 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #3995 | Meme: To understand recursion, you must first understand recursion.
