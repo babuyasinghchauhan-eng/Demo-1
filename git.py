@@ -2030,3 +2030,4 @@ Commit #1978 | Meme: 99 little bugs in the code. Take one down, patch it around.
 Commit #1979 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1980 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1981 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #1982 | Meme: To understand recursion, you must first understand recursion.
