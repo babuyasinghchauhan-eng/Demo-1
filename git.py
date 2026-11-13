@@ -1557,3 +1557,4 @@ Commit #1505 | Meme: There's no place like 127.0.0.1
 Commit #1506 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #1507 | Meme: Deleting code is better than writing code.
 Commit #1508 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #1509 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
