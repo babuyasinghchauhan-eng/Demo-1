@@ -20785,3 +20785,4 @@ Commit #334 | Meme: There's no place like 127.0.0.1
 Commit #335 | Meme: In case of fire: git commit, git push, leave building.
 Commit #336 | Meme: Deleting code is better than writing code.
 Commit #337 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #338 | Meme: Real programmers count from 0.
