@@ -2630,3 +2630,4 @@ Commit #2578 | Meme: To understand recursion, you must first understand recursio
 Commit #2579 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2580 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2581 | Meme: It's not a bug, it's an undocumented feature.
+Commit #2582 | Meme: There are 10 types of people: those who understand binary, and those who don't.
