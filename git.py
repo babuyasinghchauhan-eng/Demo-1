@@ -1410,3 +1410,4 @@ Commit #1358 | Meme: Real programmers count from 0.
 Commit #1359 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1360 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1361 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1362 | Meme: To understand recursion, you must first understand recursion.
