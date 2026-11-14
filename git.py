@@ -4929,3 +4929,4 @@ Commit #275 | Meme: 99 little bugs in the code. Take one down, patch it around. 
 Commit #276 | Meme: It's not a bug, it's an undocumented feature.
 Commit #277 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #278 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #279 | Meme: To understand recursion, you must first understand recursion.
