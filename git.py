@@ -3971,3 +3971,4 @@ Commit #3919 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #3920 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3921 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3922 | Meme: Real programmers count from 0.
+Commit #3923 | Meme: There are 10 types of people: those who understand binary, and those who don't.
