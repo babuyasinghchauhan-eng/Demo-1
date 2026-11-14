@@ -4691,3 +4691,4 @@ Commit #37 | Meme: My code doesn't work, I have no idea why. My code works, I ha
 Commit #38 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #39 | Meme: It's not a bug, it's an undocumented feature.
 Commit #40 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #41 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
