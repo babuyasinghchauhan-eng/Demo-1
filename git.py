@@ -417,3 +417,4 @@ Commit #365 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #366 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #367 | Meme: In case of fire: git commit, git push, leave building.
 Commit #368 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #369 | Meme: Deleting code is better than writing code.
