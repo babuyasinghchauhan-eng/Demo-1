@@ -16908,3 +16908,4 @@ Commit #457 | Meme: Programming is 10% writing code and 90% understanding why it
 Commit #458 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #459 | Meme: To understand recursion, you must first understand recursion.
 Commit #460 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #461 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
