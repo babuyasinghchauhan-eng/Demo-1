@@ -2988,3 +2988,4 @@ Commit #2936 | Meme: There are 10 types of people: those who understand binary, 
 Commit #2937 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2938 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2939 | Meme: In case of fire: git commit, git push, leave building.
+Commit #2940 | Meme: Why do Java developers wear glasses? Because they don't C#.
