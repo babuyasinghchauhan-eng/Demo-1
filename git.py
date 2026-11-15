@@ -3762,3 +3762,4 @@ Commit #3710 | Meme: Real programmers count from 0.
 Commit #3711 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #3712 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3713 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #3714 | Meme: It's not a bug, it's an undocumented feature.
