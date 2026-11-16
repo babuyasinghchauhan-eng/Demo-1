@@ -20763,3 +20763,4 @@ Commit #312 | Meme: To understand recursion, you must first understand recursion
 Commit #313 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #314 | Meme: It's not a bug, it's an undocumented feature.
 Commit #315 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #316 | Meme: To understand recursion, you must first understand recursion.
