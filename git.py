@@ -3870,3 +3870,4 @@ Commit #3818 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #3819 | Meme: In case of fire: git commit, git push, leave building.
 Commit #3820 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #3821 | Meme: To understand recursion, you must first understand recursion.
+Commit #3822 | Meme: Hide and seek champion since 1958: ';' in C/C++
