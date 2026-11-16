@@ -21210,3 +21210,4 @@ Commit #759 | Meme: There's no place like 127.0.0.1
 Commit #760 | Meme: There's no place like 127.0.0.1
 Commit #761 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #762 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #763 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
