@@ -1265,3 +1265,4 @@ Commit #1213 | Meme: Deleting code is better than writing code.
 Commit #1214 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #1215 | Meme: There's no place like 127.0.0.1
 Commit #1216 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #1217 | Meme: There are 10 types of people: those who understand binary, and those who don't.
