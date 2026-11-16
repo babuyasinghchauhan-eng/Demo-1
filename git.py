@@ -20738,3 +20738,4 @@ Commit #287 | Meme: There are 10 types of people: those who understand binary, a
 Commit #288 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #289 | Meme: There's no place like 127.0.0.1
 Commit #290 | Meme: Deleting code is better than writing code.
+Commit #291 | Meme: Hide and seek champion since 1958: ';' in C/C++
