@@ -4204,3 +4204,4 @@ Commit #4152 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4153 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #4154 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #4155 | Meme: In case of fire: git commit, git push, leave building.
+Commit #4156 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
