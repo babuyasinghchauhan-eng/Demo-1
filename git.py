@@ -20814,3 +20814,4 @@ Commit #363 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #364 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #365 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #366 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #367 | Meme: Deleting code is better than writing code.
