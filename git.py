@@ -4596,3 +4596,4 @@ Commit #4544 | Meme: Real programmers count from 0.
 Commit #4545 | Meme: In case of fire: git commit, git push, leave building.
 Commit #4546 | Meme: Real programmers count from 0.
 Commit #4547 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #4548 | Meme: There are 10 types of people: those who understand binary, and those who don't.
