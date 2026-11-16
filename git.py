@@ -4379,3 +4379,4 @@ Commit #4327 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4328 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #4329 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4330 | Meme: There are 10 types of people: those who understand binary, and those who don't.
+Commit #4331 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
