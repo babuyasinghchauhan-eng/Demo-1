@@ -4426,3 +4426,4 @@ Commit #4374 | Meme: A SQL query walks into a bar, walks up to two tables and as
 Commit #4375 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4376 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4377 | Meme: To understand recursion, you must first understand recursion.
+Commit #4378 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
