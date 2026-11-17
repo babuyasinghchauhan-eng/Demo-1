@@ -2892,3 +2892,4 @@ Commit #2840 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #2841 | Meme: Deleting code is better than writing code.
 Commit #2842 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2843 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #2844 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
