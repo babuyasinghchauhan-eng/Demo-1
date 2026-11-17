@@ -3763,3 +3763,4 @@ Commit #3711 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #3712 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3713 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #3714 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3715 | Meme: Hide and seek champion since 1958: ';' in C/C++
