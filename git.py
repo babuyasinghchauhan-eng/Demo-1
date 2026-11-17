@@ -20674,3 +20674,4 @@ Commit #223 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #224 | Meme: In case of fire: git commit, git push, leave building.
 Commit #225 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #226 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #227 | Meme: Works on my machine! ¯\_(ツ)_/¯
