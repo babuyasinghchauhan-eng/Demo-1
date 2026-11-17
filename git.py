@@ -1755,3 +1755,4 @@ Commit #1703 | Meme: There's no place like 127.0.0.1
 Commit #1704 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1705 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1706 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #1707 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
