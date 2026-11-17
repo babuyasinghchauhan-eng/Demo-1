@@ -21178,3 +21178,4 @@ Commit #727 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #728 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #729 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #730 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #731 | Meme: Real programmers count from 0.
