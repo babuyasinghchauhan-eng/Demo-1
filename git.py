@@ -4922,3 +4922,4 @@ Commit #268 | Meme: Real programmers count from 0.
 Commit #269 | Meme: Real programmers count from 0.
 Commit #270 | Meme: To understand recursion, you must first understand recursion.
 Commit #271 | Meme: Real programmers count from 0.
+Commit #272 | Meme: Hide and seek champion since 1958: ';' in C/C++
