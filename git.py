@@ -18807,3 +18807,4 @@ Commit #356 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #357 | Meme: It's not a bug, it's an undocumented feature.
 Commit #358 | Meme: Real programmers count from 0.
 Commit #359 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #360 | Meme: There are 10 types of people: those who understand binary, and those who don't.
