@@ -21314,3 +21314,4 @@ Commit #863 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #864 | Meme: To understand recursion, you must first understand recursion.
 Commit #865 | Meme: It's not a bug, it's an undocumented feature.
 Commit #866 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #867 | Meme: It's not a bug, it's an undocumented feature.
