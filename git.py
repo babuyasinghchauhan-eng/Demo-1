@@ -2302,3 +2302,4 @@ Commit #2250 | Meme: My code doesn't work, I have no idea why. My code works, I 
 Commit #2251 | Meme: In case of fire: git commit, git push, leave building.
 Commit #2252 | Meme: There's no place like 127.0.0.1
 Commit #2253 | Meme: Deleting code is better than writing code.
+Commit #2254 | Meme: Hide and seek champion since 1958: ';' in C/C++
