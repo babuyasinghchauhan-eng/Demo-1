@@ -4938,3 +4938,4 @@ Commit #284 | Meme: Software and cathedrals are much the same – first we build
 Commit #285 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #286 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #287 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #288 | Meme: Hide and seek champion since 1958: ';' in C/C++
