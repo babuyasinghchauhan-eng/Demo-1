@@ -607,3 +607,4 @@ Commit #555 | Meme: In case of fire: git commit, git push, leave building.
 Commit #556 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #557 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #558 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #559 | Meme: It's not a bug, it's an undocumented feature.
