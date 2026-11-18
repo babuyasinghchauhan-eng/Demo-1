@@ -1387,3 +1387,4 @@ Commit #1335 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1336 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1337 | Meme: Deleting code is better than writing code.
 Commit #1338 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #1339 | Meme: It's not a bug, it's an undocumented feature.
