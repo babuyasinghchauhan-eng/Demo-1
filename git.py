@@ -3797,3 +3797,4 @@ Commit #3745 | Meme: It's not a bug, it's an undocumented feature.
 Commit #3746 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #3747 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3748 | Meme: Real programmers count from 0.
+Commit #3749 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
