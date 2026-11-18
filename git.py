@@ -918,3 +918,4 @@ Commit #866 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #867 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #868 | Meme: Real programmers count from 0.
 Commit #869 | Meme: In case of fire: git commit, git push, leave building.
+Commit #870 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
