@@ -3348,3 +3348,4 @@ Commit #3296 | Meme: There's no place like 127.0.0.1
 Commit #3297 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #3298 | Meme: To understand recursion, you must first understand recursion.
 Commit #3299 | Meme: It's not a bug, it's an undocumented feature.
+Commit #3300 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
