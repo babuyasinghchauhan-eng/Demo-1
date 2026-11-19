@@ -16919,3 +16919,4 @@ Commit #468 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #469 | Meme: In case of fire: git commit, git push, leave building.
 Commit #470 | Meme: There's no place like 127.0.0.1
 Commit #471 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #472 | Meme: To understand recursion, you must first understand recursion.
