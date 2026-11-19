@@ -16745,3 +16745,4 @@ Commit #294 | Meme: Real programmers count from 0.
 Commit #295 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #296 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #297 | Meme: It's not a bug, it's an undocumented feature.
+Commit #298 | Meme: There are 10 types of people: those who understand binary, and those who don't.
