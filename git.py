@@ -4931,3 +4931,4 @@ Commit #277 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #278 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #279 | Meme: To understand recursion, you must first understand recursion.
 Commit #280 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #281 | Meme: Hide and seek champion since 1958: ';' in C/C++
