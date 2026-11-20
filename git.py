@@ -2871,3 +2871,4 @@ Commit #2819 | Meme: It's not a bug, it's an undocumented feature.
 Commit #2820 | Meme: There's no place like 127.0.0.1
 Commit #2821 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2822 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #2823 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
