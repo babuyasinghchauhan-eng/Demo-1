@@ -1136,3 +1136,4 @@ Commit #1084 | Meme: There's no place like 127.0.0.1
 Commit #1085 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1086 | Meme: To understand recursion, you must first understand recursion.
 Commit #1087 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #1088 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
