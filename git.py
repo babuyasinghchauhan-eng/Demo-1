@@ -16518,3 +16518,4 @@ Commit #67 | Meme: Programming is 10% writing code and 90% understanding why it'
 Commit #68 | Meme: Deleting code is better than writing code.
 Commit #69 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #70 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #71 | Meme: There's no place like 127.0.0.1
