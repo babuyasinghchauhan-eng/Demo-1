@@ -924,3 +924,4 @@ Commit #872 | Meme: Software and cathedrals are much the same – first we build
 Commit #873 | Meme: To understand recursion, you must first understand recursion.
 Commit #874 | Meme: Deleting code is better than writing code.
 Commit #875 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #876 | Meme: It's not a bug, it's an undocumented feature.
