@@ -4755,3 +4755,4 @@ Commit #101 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #102 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #103 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #104 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #105 | Meme: There are 10 types of people: those who understand binary, and those who don't.
