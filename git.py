@@ -20474,3 +20474,4 @@ Commit #23 | Meme: A SQL query walks into a bar, walks up to two tables and asks
 Commit #24 | Meme: It's not a bug, it's an undocumented feature.
 Commit #25 | Meme: It's not a bug, it's an undocumented feature.
 Commit #26 | Meme: In case of fire: git commit, git push, leave building.
+Commit #27 | Meme: Hide and seek champion since 1958: ';' in C/C++
