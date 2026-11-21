@@ -17388,3 +17388,4 @@ Commit #937 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #938 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #939 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #940 | Meme: Deleting code is better than writing code.
+Commit #941 | Meme: There are 10 types of people: those who understand binary, and those who don't.
