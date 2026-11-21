@@ -2239,3 +2239,4 @@ Commit #2187 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #2188 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #2189 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #2190 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #2191 | Meme: There's no place like 127.0.0.1
