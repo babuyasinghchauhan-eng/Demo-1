@@ -17090,3 +17090,4 @@ Commit #639 | Meme: There are 10 types of people: those who understand binary, a
 Commit #640 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #641 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #642 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #643 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
