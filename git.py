@@ -2425,3 +2425,4 @@ Commit #2373 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #2374 | Meme: Real programmers count from 0.
 Commit #2375 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #2376 | Meme: Real programmers count from 0.
+Commit #2377 | Meme: Deleting code is better than writing code.
