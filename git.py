@@ -461,3 +461,4 @@ Commit #409 | Meme: Real programmers count from 0.
 Commit #410 | Meme: To understand recursion, you must first understand recursion.
 Commit #411 | Meme: To understand recursion, you must first understand recursion.
 Commit #412 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #413 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
