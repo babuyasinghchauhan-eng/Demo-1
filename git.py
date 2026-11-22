@@ -4773,3 +4773,4 @@ Commit #119 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #120 | Meme: It's not a bug, it's an undocumented feature.
 Commit #121 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #122 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
+Commit #123 | Meme: Why do Java developers wear glasses? Because they don't C#.
