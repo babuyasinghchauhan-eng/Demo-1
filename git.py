@@ -364,3 +364,4 @@ Commit #312 | Meme: It's not a bug, it's an undocumented feature.
 Commit #313 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #314 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #315 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #316 | Meme: Why do Java developers wear glasses? Because they don't C#.
