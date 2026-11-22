@@ -1529,3 +1529,4 @@ Commit #1477 | Meme: Programming is 10% writing code and 90% understanding why i
 Commit #1478 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #1479 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #1480 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
+Commit #1481 | Meme: It's not a bug, it's an undocumented feature.
