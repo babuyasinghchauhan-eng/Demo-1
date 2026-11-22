@@ -1620,3 +1620,4 @@ Commit #1568 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1569 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1570 | Meme: Deleting code is better than writing code.
 Commit #1571 | Meme: Real programmers count from 0.
+Commit #1572 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
