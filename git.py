@@ -1990,3 +1990,4 @@ Commit #1938 | Meme: Deleting code is better than writing code.
 Commit #1939 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #1940 | Meme: Deleting code is better than writing code.
 Commit #1941 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1942 | Meme: Hide and seek champion since 1958: ';' in C/C++
