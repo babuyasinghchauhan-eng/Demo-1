@@ -557,3 +557,4 @@ Commit #505 | Meme: To understand recursion, you must first understand recursion
 Commit #506 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #507 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #508 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #509 | Meme: Deleting code is better than writing code.
