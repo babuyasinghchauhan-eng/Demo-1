@@ -512,3 +512,4 @@ Commit #460 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #461 | Meme: Real programmers count from 0.
 Commit #462 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #463 | Meme: There's no place like 127.0.0.1
+Commit #464 | Meme: Deleting code is better than writing code.
