@@ -379,3 +379,4 @@ Commit #327 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #328 | Meme: There's no place like 127.0.0.1
 Commit #329 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #330 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #331 | Meme: Deleting code is better than writing code.
