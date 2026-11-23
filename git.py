@@ -1329,3 +1329,4 @@ Commit #1277 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 bee
 Commit #1278 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #1279 | Meme: To understand recursion, you must first understand recursion.
 Commit #1280 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #1281 | Meme: There's no place like 127.0.0.1
