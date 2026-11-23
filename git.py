@@ -175,3 +175,4 @@ Commit #123 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #124 | Meme: Deleting code is better than writing code.
 Commit #125 | Meme: In case of fire: git commit, git push, leave building.
 Commit #126 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #127 | Meme: There are 10 types of people: those who understand binary, and those who don't.
