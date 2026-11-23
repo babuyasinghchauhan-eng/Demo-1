@@ -3564,3 +3564,4 @@ Commit #3512 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #3513 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #3514 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #3515 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #3516 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
