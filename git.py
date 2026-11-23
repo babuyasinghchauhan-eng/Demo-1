@@ -1536,3 +1536,4 @@ Commit #1484 | Meme: Real programmers count from 0.
 Commit #1485 | Meme: Deleting code is better than writing code.
 Commit #1486 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #1487 | Meme: It's not a bug, it's an undocumented feature.
+Commit #1488 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
