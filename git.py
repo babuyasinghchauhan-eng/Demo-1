@@ -4054,3 +4054,4 @@ Commit #4002 | Meme: Software and cathedrals are much the same – first we buil
 Commit #4003 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #4004 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #4005 | Meme: In case of fire: git commit, git push, leave building.
+Commit #4006 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
