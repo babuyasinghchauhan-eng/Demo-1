@@ -1066,3 +1066,4 @@ Commit #1014 | Meme: Real programmers count from 0.
 Commit #1015 | Meme: Real programmers count from 0.
 Commit #1016 | Meme: It's not a bug, it's an undocumented feature.
 Commit #1017 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #1018 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
