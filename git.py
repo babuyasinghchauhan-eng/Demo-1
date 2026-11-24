@@ -4776,3 +4776,4 @@ Commit #122 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #123 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #124 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #125 | Meme: Real programmers count from 0.
+Commit #126 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
