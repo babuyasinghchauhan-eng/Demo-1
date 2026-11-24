@@ -871,3 +871,4 @@ Commit #819 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #820 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #821 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #822 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #823 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
