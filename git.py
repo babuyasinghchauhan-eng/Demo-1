@@ -21327,3 +21327,4 @@ Commit #876 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #877 | Meme: There's no place like 127.0.0.1
 Commit #878 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #879 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #880 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
