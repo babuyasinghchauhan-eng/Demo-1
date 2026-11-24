@@ -1128,3 +1128,4 @@ Commit #1076 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1077 | Meme: In case of fire: git commit, git push, leave building.
 Commit #1078 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #1079 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #1080 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
