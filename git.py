@@ -21374,3 +21374,4 @@ Commit #923 | Meme: There are 10 types of people: those who understand binary, a
 Commit #924 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #925 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
 Commit #926 | Meme: Real programmers count from 0.
+Commit #927 | Meme: There are 10 types of people: those who understand binary, and those who don't.
