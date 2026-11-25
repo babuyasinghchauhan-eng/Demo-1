@@ -4385,3 +4385,4 @@ Commit #4333 | Meme: Deleting code is better than writing code.
 Commit #4334 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4335 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #4336 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
+Commit #4337 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
