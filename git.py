@@ -2833,3 +2833,4 @@ Commit #2781 | Meme: There's no place like 127.0.0.1
 Commit #2782 | Meme: Deleting code is better than writing code.
 Commit #2783 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #2784 | Meme: It's not a bug, it's an undocumented feature.
+Commit #2785 | Meme: In case of fire: git commit, git push, leave building.
