@@ -4808,3 +4808,4 @@ Commit #154 | Meme: Deleting code is better than writing code.
 Commit #155 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #156 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #157 | Meme: Why do Java developers wear glasses? Because they don't C#.
+Commit #158 | Meme: There are 10 types of people: those who understand binary, and those who don't.
