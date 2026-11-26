@@ -14558,3 +14558,4 @@ Commit #107 | Meme: There's no place like 127.0.0.1
 Commit #108 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #109 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #110 | Meme: To understand recursion, you must first understand recursion.
+Commit #111 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
