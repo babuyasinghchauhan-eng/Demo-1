@@ -21225,3 +21225,4 @@ Commit #774 | Meme: In case of fire: git commit, git push, leave building.
 Commit #775 | Meme: It's not a bug, it's an undocumented feature.
 Commit #776 | Meme: In case of fire: git commit, git push, leave building.
 Commit #777 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #778 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
