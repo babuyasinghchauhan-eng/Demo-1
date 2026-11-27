@@ -20955,3 +20955,4 @@ Commit #504 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #505 | Meme: Real programmers count from 0.
 Commit #506 | Meme: In case of fire: git commit, git push, leave building.
 Commit #507 | Meme: In case of fire: git commit, git push, leave building.
+Commit #508 | Meme: Why do Java developers wear glasses? Because they don't C#.
