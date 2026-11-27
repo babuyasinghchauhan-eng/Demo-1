@@ -14776,3 +14776,4 @@ Commit #325 | Meme: A SQL query walks into a bar, walks up to two tables and ask
 Commit #326 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
 Commit #327 | Meme: To understand recursion, you must first understand recursion.
 Commit #328 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #329 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
