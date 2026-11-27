@@ -21298,3 +21298,4 @@ Commit #847 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #848 | Meme: It's not a bug, it's an undocumented feature.
 Commit #849 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #850 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #851 | Meme: In case of fire: git commit, git push, leave building.
