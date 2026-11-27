@@ -20946,3 +20946,4 @@ Commit #495 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #496 | Meme: To understand recursion, you must first understand recursion.
 Commit #497 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #498 | Meme: Real programmers count from 0.
+Commit #499 | Meme: To understand recursion, you must first understand recursion.
