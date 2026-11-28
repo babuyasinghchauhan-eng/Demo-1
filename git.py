@@ -15092,3 +15092,4 @@ Commit #641 | Meme: My code doesn't work, I have no idea why. My code works, I h
 Commit #642 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #643 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
 Commit #644 | Meme: Works on my machine! ¯\_(ツ)_/¯
+Commit #645 | Meme: There are 10 types of people: those who understand binary, and those who don't.
