@@ -15015,3 +15015,4 @@ Commit #564 | Meme: Software and cathedrals are much the same – first we build
 Commit #565 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #566 | Meme: There's no place like 127.0.0.1
 Commit #567 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #568 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard.
