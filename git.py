@@ -14575,3 +14575,4 @@ Commit #124 | Meme: Deleting code is better than writing code.
 Commit #125 | Meme: To understand recursion, you must first understand recursion.
 Commit #126 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #127 | Meme: In case of fire: git commit, git push, leave building.
+Commit #128 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
