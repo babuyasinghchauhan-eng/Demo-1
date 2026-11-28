@@ -14976,3 +14976,4 @@ Commit #525 | Meme: There are 10 types of people: those who understand binary, a
 Commit #526 | Meme: Real programmers count from 0.
 Commit #527 | Meme: There's no place like 127.0.0.1
 Commit #528 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #529 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
