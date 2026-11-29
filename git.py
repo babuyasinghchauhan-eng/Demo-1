@@ -20618,3 +20618,4 @@ Commit #167 | Meme: Software and cathedrals are much the same – first we build
 Commit #168 | Meme: Real programmers count from 0.
 Commit #169 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #170 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
+Commit #171 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
