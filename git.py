@@ -14595,3 +14595,4 @@ Commit #144 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #145 | Meme: In case of fire: git commit, git push, leave building.
 Commit #146 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #147 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #148 | Meme: A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'
