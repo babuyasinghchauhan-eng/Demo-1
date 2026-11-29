@@ -21131,3 +21131,4 @@ Commit #680 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beer
 Commit #681 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
 Commit #682 | Meme: In case of fire: git commit, git push, leave building.
 Commit #683 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #684 | Meme: There are 10 types of people: those who understand binary, and those who don't.
