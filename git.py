@@ -14931,3 +14931,4 @@ Commit #480 | Meme: Deleting code is better than writing code.
 Commit #481 | Meme: In case of fire: git commit, git push, leave building.
 Commit #482 | Meme: It's not a bug, it's an undocumented feature.
 Commit #483 | Meme: Real programmers count from 0.
+Commit #484 | Meme: Programming is 10% writing code and 90% understanding why it's not working.
