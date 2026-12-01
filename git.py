@@ -21260,3 +21260,4 @@ Commit #809 | Meme: Works on my machine! ¯\_(ツ)_/¯
 Commit #810 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #811 | Meme: It's not a bug, it's an undocumented feature.
 Commit #812 | Meme: Hide and seek champion since 1958: ';' in C/C++
+Commit #813 | Meme: Real programmers count from 0.
