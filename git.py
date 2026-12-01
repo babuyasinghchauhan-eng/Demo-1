@@ -14463,3 +14463,4 @@ Commit #12 | Meme: A QA engineer walks into a bar. Orders a beer. Orders 0 beers
 Commit #13 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
 Commit #14 | Meme: Hide and seek champion since 1958: ';' in C/C++
 Commit #15 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
+Commit #16 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
