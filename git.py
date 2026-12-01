@@ -21053,3 +21053,4 @@ Commit #602 | Meme: Software and cathedrals are much the same – first we build
 Commit #603 | Meme: 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code.
 Commit #604 | Meme: There are 10 types of people: those who understand binary, and those who don't.
 Commit #605 | Meme: My code doesn't work, I have no idea why. My code works, I have no idea why.
+Commit #606 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
