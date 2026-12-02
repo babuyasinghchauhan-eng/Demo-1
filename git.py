@@ -14521,3 +14521,4 @@ Commit #70 | Meme: Software and cathedrals are much the same – first we build 
 Commit #71 | Meme: To understand recursion, you must first understand recursion.
 Commit #72 | Meme: Real programmers count from 0.
 Commit #73 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #74 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
