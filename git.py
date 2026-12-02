@@ -15396,3 +15396,4 @@ Commit #945 | Meme: There's no place like 127.0.0.1
 Commit #946 | Meme: In case of fire: git commit, git push, leave building.
 Commit #947 | Meme: There's no place like 127.0.0.1
 Commit #948 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
+Commit #949 | Meme: Deleting code is better than writing code.
