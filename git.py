@@ -14548,3 +14548,4 @@ Commit #97 | Meme: Deleting code is better than writing code.
 Commit #98 | Meme: Why do Java developers wear glasses? Because they don't C#.
 Commit #99 | Meme: Real programmers count from 0.
 Commit #100 | Meme: Real programmers count from 0.
+Commit #101 | Meme: Software and cathedrals are much the same – first we build them, then we pray.
