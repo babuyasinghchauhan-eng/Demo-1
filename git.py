@@ -20947,3 +20947,4 @@ Commit #496 | Meme: To understand recursion, you must first understand recursion
 Commit #497 | Meme: git commit -m 'fixed stuff' (narrator: it was not fixed)
 Commit #498 | Meme: Real programmers count from 0.
 Commit #499 | Meme: To understand recursion, you must first understand recursion.
+Commit #500 | Meme: In case of fire: git commit, git push, leave building.
